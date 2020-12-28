@@ -1,0 +1,62 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Hive Guardian</name><set>BtS</set></card>
+		<card><name>Hive Guardian</name><set>BtS</set></card>
+		<card><name>Hive Guardian</name><set>BtS</set></card>
+		<card><name>Spider Broodling</name><set>BtS</set></card>
+		<card><name>Spider Broodling</name><set>BtS</set></card>
+		<card><name>Spider Broodling</name><set>BtS</set></card>
+		<card><name>Spider Broodling</name><set>BtS</set></card>
+		<card><name>Spider Broodling</name><set>BtS</set></card>
+		<card><name>Spider Burrow</name><set>BtS</set></card>
+		<card><name>Spider Burrow</name><set>BtS</set></card>
+		<card><name>Pitch Black Tunnel</name><set>BtS</set></card>
+		<card><name>Pitch Black Tunnel</name><set>BtS</set></card>
+		<card><name>Nest of Vermin</name><set>BtS</set></card>
+		<card><name>Nest of Vermin</name><set>BtS</set></card>
+		<card><name>Cobwebbed Cavern</name><set>BtS</set></card>
+		<card><name>Cobwebbed Cavern</name><set>BtS</set></card>
+		<card><name>Cobwebbed Cavern</name><set>BtS</set></card>
+		<card><name>Blocked Passage</name><set>BtS</set></card>
+		<card><name>Blocked Passage</name><set>BtS</set></card>
+		<card><name>Blocked Passage</name><set>BtS</set></card>
+		<card><name>Forced Off Track</name><set>BtS</set></card>
+		<card><name>Forced Off Track</name><set>BtS</set></card>
+		<card><name>Forced Off Track</name><set>BtS</set></card>
+		<card><name>Grabbed by Spiders</name><set>BtS</set></card>
+		<card><name>Grabbed by Spiders</name><set>BtS</set></card>
+		<card><name>Grabbed by Spiders</name><set>BtS</set></card>
+		<card><name>Lost Underground</name><set>BtS</set></card>
+		<card><name>In Hostile Territory</name><set>TSoH</set></card>
+		<card><name>Injured Companion</name><set>TSoH</set></card>
+		<card><name>Injured Companion</name><set>TSoH</set></card>
+		<card><name>Injured Companion</name><set>TSoH</set></card>
+		<card><name>Enfeebled</name><set>TSoH</set></card>
+		<card><name>Enfeebled</name><set>TSoH</set></card>
+		<card><name>Craft Remedy</name><set>TSoH</set></card>
+		<card><name>Sand Viper</name><set>TSoH</set></card>
+		<card><name>Sand Viper</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Searching the Caves</name><set>BtS</set></card>
+		<card><name>Getting Closer</name><set>BtS</set></card>
+		<card><name>The Spiders Hive</name><set>BtS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Brood Mother</name><set>BtS</set></card>
+		<card><name>On Track</name><set>BtS</set></card>
+	</superzone>
+</deck>

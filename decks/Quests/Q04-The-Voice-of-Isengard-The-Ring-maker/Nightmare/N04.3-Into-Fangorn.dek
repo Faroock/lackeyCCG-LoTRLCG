@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Ancient Forest</name><set>VoI</set></card>
+		<card><name>Ancient Forest</name><set>VoI</set></card>
+		<card><name>Ancient Forest</name><set>VoI</set></card>
+		<card><name>Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name>Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name>Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name>Dark-Hearted Huorn</name><set>VoI</set></card>
+		<card><name>Angry Huorn</name><set>VoI</set></card>
+		<card><name>Angry Huorn</name><set>VoI</set></card>
+		<card><name>Angry Huorn</name><set>VoI</set></card>
+		<card><name>Heart of Fangorn</name><set>VoI</set></card>
+		<card><name>Heart of Fangorn</name><set>VoI</set></card>
+		<card><name>Heart of Fangorn</name><set>VoI</set></card>
+		<card><name>The Forests Malice</name><set>VoI</set></card>
+		<card><name>The Forests Malice</name><set>VoI</set></card>
+		<card><name>The Forests Malice</name><set>VoI</set></card>
+		<card><name>The Forests Malice</name><set>VoI</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Off Track</name><set>VoI</set></card>
+		<card><name>Off Track</name><set>VoI</set></card>
+		<card><name>In Need of Rest</name><set>VoI</set></card>
+		<card><name>In Need of Rest</name><set>VoI</set></card>
+		<card><name>Huorn of Fangorn</name><set>IFN</set></card>
+		<card><name>Huorn of Fangorn</name><set>IFN</set></card>
+		<card><name>Huorn of Fangorn</name><set>IFN</set></card>
+		<card><name>Blocking Huorn</name><set>IFN</set></card>
+		<card><name>Blocking Huorn</name><set>IFN</set></card>
+		<card><name>Wicked Huorn</name><set>IFN</set></card>
+		<card><name>Wicked Huorn</name><set>IFN</set></card>
+		<card><name>Tangled Forest</name><set>IFN</set></card>
+		<card><name>Tangled Forest</name><set>IFN</set></card>
+		<card><name>Tangled Forest</name><set>IFN</set></card>
+		<card><name>Entwood</name><set>IFN</set></card>
+		<card><name>Entwood</name><set>IFN</set></card>
+		<card><name>Entwood</name><set>IFN</set></card>
+		<card><name>Dark Corner of Fangorn</name><set>IFN</set></card>
+		<card><name>Dark Corner of Fangorn</name><set>IFN</set></card>
+		<card><name>Stifling Woods</name><set>IFN</set></card>
+		<card><name>Stifling Woods</name><set>IFN</set></card>
+		<card><name>Fangorns Anger</name><set>IFN</set></card>
+		<card><name>Fangorns Anger</name><set>IFN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Into Fangorn</name><set>IFN</set></card>
+		<card><name>Into the Woods</name><set>VoI</set></card>
+		<card><name>Escape from Fangorn</name><set>VoI</set></card>
+		<card><name>The Angry Forest</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Mugash</name><set>VoI</set></card>
+		<card><name>Edge of Fangorn</name><set>VoI</set></card>
+	</superzone>
+</deck>

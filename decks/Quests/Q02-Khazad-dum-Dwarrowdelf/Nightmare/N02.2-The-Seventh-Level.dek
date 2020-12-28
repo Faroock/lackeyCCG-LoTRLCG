@@ -1,0 +1,63 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Cave-troll</name><set>KD</set></card>
+		<card><name>Cave-troll</name><set>KD</set></card>
+		<card><name>Orc Horn Blower</name><set>KD</set></card>
+		<card><name>Upper Hall</name><set>KD</set></card>
+		<card><name>Chieftain of the Pit</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Orc Taskmaster</name><set>TSLN</set></card>
+		<card><name>Orc Taskmaster</name><set>TSLN</set></card>
+		<card><name>Goblin Skirmisher</name><set>TSLN</set></card>
+		<card><name>Goblin Skirmisher</name><set>TSLN</set></card>
+		<card><name>Goblin Skirmisher</name><set>TSLN</set></card>
+		<card><name>Pit Goblin</name><set>TSLN</set></card>
+		<card><name>Pit Goblin</name><set>TSLN</set></card>
+		<card><name>Deep-Mines</name><set>TSLN</set></card>
+		<card><name>Deep-Mines</name><set>TSLN</set></card>
+		<card><name>Deep-Mines</name><set>TSLN</set></card>
+		<card><name>Western Hall</name><set>TSLN</set></card>
+		<card><name>Western Hall</name><set>TSLN</set></card>
+		<card><name>Balins Doom</name><set>TSLN</set></card>
+		<card><name>Balins Doom</name><set>TSLN</set></card>
+		<card><name>Balins Doom</name><set>TSLN</set></card>
+		<card><name>Beats and Echoes</name><set>TSLN</set></card>
+		<card><name>Beats and Echoes</name><set>TSLN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Seventh Level</name><set>TSLN</set></card>
+		<card><name>Search for the Chamber</name><set>KD</set></card>
+		<card><name>The Fate of Balin</name><set>KD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Overseer Marul</name><set>TSLN</set></card>
+		<card><name>Chamber of Records</name><set>TSLN</set></card>
+		<card><name>Book of Mazarbul</name><set>KD</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,75 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Squint-Eyed Southerner</name><set>TBR</set></card>
+		<card><name>Squint-Eyed Southerner</name><set>TBR</set></card>
+		<card><name>Squint-Eyed Southerner</name><set>TBR</set></card>
+		<card><name>Rider of Mordor</name><set>TBR</set></card>
+		<card><name>Rider of Mordor</name><set>TBR</set></card>
+		<card><name>Chetwood</name><set>TBR</set></card>
+		<card><name>Chetwood</name><set>TBR</set></card>
+		<card><name>Chetwood</name><set>TBR</set></card>
+		<card><name>Unwanted Attention</name><set>TBR</set></card>
+		<card><name>Unwanted Attention</name><set>TBR</set></card>
+		<card><name>Black Breath</name><set>TBR</set></card>
+		<card><name>Black Breath</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+		<card><name>Menacing Wraith</name><set>AKitDN</set></card>
+		<card><name>Menacing Wraith</name><set>AKitDN</set></card>
+		<card><name>Southern Spy</name><set>AKitDN</set></card>
+		<card><name>Southern Spy</name><set>AKitDN</set></card>
+		<card><name>Southern Spy</name><set>AKitDN</set></card>
+		<card><name>Southern Spy</name><set>AKitDN</set></card>
+		<card><name>Weather Hills</name><set>AKitDN</set></card>
+		<card><name>Weather Hills</name><set>AKitDN</set></card>
+		<card><name>Weather Hills</name><set>AKitDN</set></card>
+		<card><name>The Old Road</name><set>AKitDN</set></card>
+		<card><name>The Old Road</name><set>AKitDN</set></card>
+		<card><name>The Old Road</name><set>AKitDN</set></card>
+		<card><name>Forsaken Inn</name><set>AKitDN</set></card>
+		<card><name>Forsaken Inn</name><set>AKitDN</set></card>
+		<card><name>The Rings Will</name><set>AKitDN</set></card>
+		<card><name>The Rings Will</name><set>AKitDN</set></card>
+		<card><name>Blade Tip</name><set>AKitDN</set></card>
+		<card><name>Blade Tip</name><set>AKitDN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>A Knife in the Dark</name><set>AKitDN</set></card>
+		<card><name>Trouble in Bree</name><set>TBR</set></card>
+		<card><name>Into the Wild</name><set>TBR</set></card>
+		<card><name>The Ringwraiths Attack</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>The Witch-king</name><set>TBR</set></card>
+		<card><name>Midgewater</name><set>TBR</set></card>
+		<card><name>Weathertop</name><set>AKitDN</set></card>
+		<card><name>The Prancing Pony</name><set>TBR</set></card>
+		<card><name>Bill Ferny</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+	</superzone>
+</deck>

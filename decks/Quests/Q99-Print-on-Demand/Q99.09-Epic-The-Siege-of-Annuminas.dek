@@ -1,0 +1,167 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Gate of Annuminas</name><set>TSoA</set></card>
+		<card><name>Gate of Annuminas</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>Hills of Evendim</name><set>TSoA</set></card>
+		<card><name>Hills of Evendim</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Shores of Lake Nenuial</name><set>TSoA</set></card>
+		<card><name>Shores of Lake Nenuial</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Savage Werewolf</name><set>TSoA</set></card>
+		<card><name>Savage Werewolf</name><set>TSoA</set></card>
+		<card><name>Vanguard of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Vanguard of Carn Dum</name><set>TSoA</set></card>
+		<card><name>The Hordes of Angmar</name><set>TSoA</set></card>
+		<card><name>The Hordes of Angmar</name><set>TSoA</set></card>
+		<card><name>Sorcery of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Sorcery of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Epic Multiplayer Mode</name><set>TSoA</set></card>
+		<card><name>Rebuild the Defenses</name><set>TSoA</set></card>
+		<card><name>Defend the City</name><set>TSoA</set></card>
+		<card><name>Lead a Sortie</name><set>TSoA</set></card>
+		<card><name>Guard the Gate</name><set>TSoA</set></card>
+		<card><name>Rescue the Captives</name><set>TSoA</set></card>
+		<card><name>Man the Walls</name><set>TSoA</set></card>
+		<card><name>Stop the Attack</name><set>TSoA</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Raise the Levee</name><set>TSoA</set></card>
+		<card><name>Delay the Enemy</name><set>TSoA</set></card>
+		<card><name>Annuminas</name><set>TSoA</set></card>
+		<card><name>Lieutenant of Angmar</name><set>TSoA</set></card>
+		<card><name>Lieutenant of Angmar</name><set>TSoA</set></card>
+		<card><name>Lieutenant of Angmar</name><set>TSoA</set></card>
+		<card><name>Battering Ram</name><set>TSoA</set></card>
+		<card><name>Battering Ram</name><set>TSoA</set></card>
+		<card><name>Battering Ram</name><set>TSoA</set></card>
+		<card><name>Enemy Camp</name><set>TSoA</set></card>
+		<card><name>Enemy Camp</name><set>TSoA</set></card>
+		<card><name>Enemy Camp</name><set>TSoA</set></card>
+		<card><name>Siege Tunnel</name><set>TSoA</set></card>
+		<card><name>Siege Tunnel</name><set>TSoA</set></card>
+		<card><name>Siege Tunnel</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Host of Angmar</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>Dunedain of Annuminas</name><set>TSoA</set></card>
+		<card><name>The Siege of Annuminas</name><set>TSoA</set></card>
+		<card><name>The Siege of Annuminas</name><set>TSoA</set></card>
+		<card><name>The Siege of Annuminas</name><set>TSoA</set></card>
+		<card><name>Gate of Annuminas</name><set>TSoA</set></card>
+		<card><name>Gate of Annuminas</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Hills of Evendim</name><set>TSoA</set></card>
+		<card><name>Hills of Evendim</name><set>TSoA</set></card>
+		<card><name>Shores of Lake Nenuial</name><set>TSoA</set></card>
+		<card><name>Shores of Lake Nenuial</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Savage Werewolf</name><set>TSoA</set></card>
+		<card><name>Savage Werewolf</name><set>TSoA</set></card>
+		<card><name>Vanguard of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Vanguard of Carn Dum</name><set>TSoA</set></card>
+		<card><name>The Hordes of Angmar</name><set>TSoA</set></card>
+		<card><name>The Hordes of Angmar</name><set>TSoA</set></card>
+		<card><name>Sorcery of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Sorcery of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Gate of Annuminas</name><set>TSoA</set></card>
+		<card><name>Gate of Annuminas</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>City Wall</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Arnor Battlefield</name><set>TSoA</set></card>
+		<card><name>Hills of Evendim</name><set>TSoA</set></card>
+		<card><name>Hills of Evendim</name><set>TSoA</set></card>
+		<card><name>Shores of Lake Nenuial</name><set>TSoA</set></card>
+		<card><name>Shores of Lake Nenuial</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Warg of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Orc of Angmar</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Angmar Warg-rider</name><set>TSoA</set></card>
+		<card><name>Savage Werewolf</name><set>TSoA</set></card>
+		<card><name>Savage Werewolf</name><set>TSoA</set></card>
+		<card><name>Vanguard of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Vanguard of Carn Dum</name><set>TSoA</set></card>
+		<card><name>The Hordes of Angmar</name><set>TSoA</set></card>
+		<card><name>The Hordes of Angmar</name><set>TSoA</set></card>
+		<card><name>Sorcery of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Sorcery of Carn Dum</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Caught in the Press</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+		<card><name>Weary Warriors</name><set>TSoA</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,77 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Counter-Spell</name><set>SaF</set></card>
+		<card><name>Counter-Spell</name><set>SaF</set></card>
+		<card><name>Counter-Spell</name><set>SaF</set></card>
+		<card><name>Fiery Sword</name><set>SaF</set></card>
+		<card><name>Fiery Sword</name><set>SaF</set></card>
+		<card><name>Fires in the Deep</name><set>SaF</set></card>
+		<card><name>Fires in the Deep</name><set>SaF</set></card>
+		<card><name>Inner Flame</name><set>SaF</set></card>
+		<card><name>Inner Flame</name><set>SaF</set></card>
+		<card><name>Inner Flame</name><set>SaF</set></card>
+		<card><name>Inner Shadow</name><set>SaF</set></card>
+		<card><name>Inner Shadow</name><set>SaF</set></card>
+		<card><name>Inner Shadow</name><set>SaF</set></card>
+		<card><name>Leaping Flame</name><set>SaF</set></card>
+		<card><name>Leaping Flame</name><set>SaF</set></card>
+		<card><name>Leaping Flame</name><set>SaF</set></card>
+		<card><name>Many Thonged Whip</name><set>SaF</set></card>
+		<card><name>Many Thonged Whip</name><set>SaF</set></card>
+		<card><name>Ranging Goblin</name><set>SaF</set></card>
+		<card><name>Ranging Goblin</name><set>SaF</set></card>
+		<card><name>Ranging Goblin</name><set>SaF</set></card>
+		<card><name>Second Deep</name><set>SaF</set></card>
+		<card><name>Second Deep</name><set>SaF</set></card>
+		<card><name>Second Deep</name><set>SaF</set></card>
+		<card><name>Second Hall</name><set>SaF</set></card>
+		<card><name>Whip Lash</name><set>SaF</set></card>
+		<card><name>Whip Lash</name><set>SaF</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Great Cave-troll</name><set>KD</set></card>
+		<card><name>Great Cave-troll</name><set>KD</set></card>
+		<card><name>Massing in the Deep</name><set>KD</set></card>
+		<card><name>Massing in the Deep</name><set>KD</set></card>
+		<card><name>Orc Drummer</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Nearing the Gate</name><set>SaF</set></card>
+		<card><name>The Rear Guard</name><set>SaF</set></card>
+		<card><name>Last Lord of Moria</name><set>SaF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Dark Pit</name><set>SaF</set></card>
+		<card><name>Durins Bane</name><set>SaF</set></card>
+	</superzone>
+</deck>

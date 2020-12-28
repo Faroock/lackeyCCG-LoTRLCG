@@ -1,0 +1,72 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Have You Seen Baggins</name><set>TBR</set></card>
+		<card><name>Have You Seen Baggins</name><set>TBR</set></card>
+		<card><name>Crawling Towards Him</name><set>TBR</set></card>
+		<card><name>Crawling Towards Him</name><set>TBR</set></card>
+		<card><name>Crawling Towards Him</name><set>TBR</set></card>
+		<card><name>Hunting For The Ring</name><set>TBR</set></card>
+		<card><name>Hunting For The Ring</name><set>TBR</set></card>
+		<card><name>Hunting For The Ring</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>The Marish</name><set>TBR</set></card>
+		<card><name>The Marish</name><set>TBR</set></card>
+		<card><name>Stock Road</name><set>TBR</set></card>
+		<card><name>Stock Road</name><set>TBR</set></card>
+		<card><name>Stock Road</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Khamul the Easterling</name><set>ASotPN</set></card>
+		<card><name>Dark Horseman</name><set>ASotPN</set></card>
+		<card><name>Dark Horseman</name><set>ASotPN</set></card>
+		<card><name>Eastfarthing</name><set>ASotPN</set></card>
+		<card><name>Eastfarthing</name><set>ASotPN</set></card>
+		<card><name>Eastfarthing</name><set>ASotPN</set></card>
+		<card><name>Green-Hill Country</name><set>ASotPN</set></card>
+		<card><name>Green-Hill Country</name><set>ASotPN</set></card>
+		<card><name>Green-Hill Country</name><set>ASotPN</set></card>
+		<card><name>Stock Woods</name><set>ASotPN</set></card>
+		<card><name>Stock Woods</name><set>ASotPN</set></card>
+		<card><name>Stock Woods</name><set>ASotPN</set></card>
+		<card><name>In the Name of Mordor!</name><set>ASotPN</set></card>
+		<card><name>In the Name of Mordor!</name><set>ASotPN</set></card>
+		<card><name>Followed by Shadows</name><set>ASotPN</set></card>
+		<card><name>Followed by Shadows</name><set>ASotPN</set></card>
+		<card><name>Followed by Shadows</name><set>ASotPN</set></card>
+		<card><name>Sniffing and Hissing</name><set>ASotPN</set></card>
+		<card><name>Sniffing and Hissing</name><set>ASotPN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>A Shadow of the Past</name><set>ASotPN</set></card>
+		<card><name>Three is Company</name><set>TBR</set></card>
+		<card><name>A Shortcut to Mushrooms</name><set>TBR</set></card>
+		<card><name>Escape to Buckland</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>Bucklebury Ferry</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Bag End</name><set>TBR</set></card>
+	</superzone>
+</deck>

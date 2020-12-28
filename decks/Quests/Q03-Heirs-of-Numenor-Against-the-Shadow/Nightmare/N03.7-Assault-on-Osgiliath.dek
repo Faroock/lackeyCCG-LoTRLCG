@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Uruk Lieutenant</name><set>AoO</set></card>
+		<card><name>Southron Commander</name><set>AoO</set></card>
+		<card><name>Southron Commander</name><set>AoO</set></card>
+		<card><name>West Gate</name><set>AoO</set></card>
+		<card><name>The Kings Library</name><set>AoO</set></card>
+		<card><name>Ancient Harbor</name><set>AoO</set></card>
+		<card><name>The Old Bridge</name><set>AoO</set></card>
+		<card><name>Ruined Square</name><set>AoO</set></card>
+		<card><name>Ruined Square</name><set>AoO</set></card>
+		<card><name>Ruined Tower</name><set>AoO</set></card>
+		<card><name>Ruined Tower</name><set>AoO</set></card>
+		<card><name>Pinned Down</name><set>AoO</set></card>
+		<card><name>Pinned Down</name><set>AoO</set></card>
+		<card><name>Counter-attack</name><set>AoO</set></card>
+		<card><name>Counter-attack</name><set>AoO</set></card>
+		<card><name>Lieutenant of Mordor</name><set>HoN</set></card>
+		<card><name>Orc Arbalesters</name><set>HoN</set></card>
+		<card><name>Orc Arbalesters</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc War Camp</name><set>HoN</set></card>
+		<card><name>Orc War Camp</name><set>HoN</set></card>
+		<card><name>Haradrim Elite</name><set>HoN</set></card>
+		<card><name>Haradrim Elite</name><set>HoN</set></card>
+		<card><name>Mumak</name><set>HoN</set></card>
+		<card><name>Southron Support</name><set>HoN</set></card>
+		<card><name>Southron Support</name><set>HoN</set></card>
+		<card><name>Invading Orc</name><set>AoON</set></card>
+		<card><name>Invading Orc</name><set>AoON</set></card>
+		<card><name>Invading Orc</name><set>AoON</set></card>
+		<card><name>Haradhrim Warrior</name><set>AoON</set></card>
+		<card><name>Haradhrim Warrior</name><set>AoON</set></card>
+		<card><name>Haradhrim Warrior</name><set>AoON</set></card>
+		<card><name>Crumbled Battlements</name><set>AoON</set></card>
+		<card><name>Crumbled Battlements</name><set>AoON</set></card>
+		<card><name>Eastern Quarter</name><set>AoON</set></card>
+		<card><name>Eastern Quarter</name><set>AoON</set></card>
+		<card><name>Western Quarter</name><set>AoON</set></card>
+		<card><name>Western Quarter</name><set>AoON</set></card>
+		<card><name>Relentless Attack</name><set>AoON</set></card>
+		<card><name>Relentless Attack</name><set>AoON</set></card>
+		<card><name>Overrun Defenses</name><set>AoON</set></card>
+		<card><name>Overrun Defenses</name><set>AoON</set></card>
+		<card><name>Pressed on All Sides</name><set>AoON</set></card>
+		<card><name>Pressed on All Sides</name><set>AoON</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Assault on Osgiliath</name><set>AoON</set></card>
+		<card><name>Retake the City</name><set>AoO</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Palace Remains</name><set>AoON</set></card>
+	</superzone>
+</deck>

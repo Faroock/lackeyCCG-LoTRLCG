@@ -1,0 +1,60 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+		<card><name>Starlit Sea</name><set>TGH</set></card>
+		<card><name>Starlit Sea</name><set>TGH</set></card>
+		<card><name>Fog Bank</name><set>TGH</set></card>
+		<card><name>Fog Bank</name><set>TGH</set></card>
+		<card><name>Calm Waters</name><set>TGH</set></card>
+		<card><name>Calm Waters</name><set>TGH</set></card>
+		<card><name>Thrown Off Course</name><set>TGH</set></card>
+		<card><name>Thrown Off Course</name><set>TGH</set></card>
+		<card><name>Rough Waters</name><set>TGH</set></card>
+		<card><name>Rough Waters</name><set>TGH</set></card>
+		<card><name>Waterspout</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Winds of Wrath</name><set>TGH</set></card>
+		<card><name>Light Cruiser</name><set>TGH</set></card>
+		<card><name>Light Cruiser</name><set>TGH</set></card>
+		<card><name>Boarding Party</name><set>TGH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Departure from the Havens</name><set>TGH</set></card>
+		<card><name>Into the Storm</name><set>TGH</set></card>
+		<card><name>Cursed Mists</name><set>TGH</set></card>
+		<card><name>Calphons Divination</name><set>TGH</set></card>
+		<card><name>The Stars Guidance</name><set>TGH</set></card>
+		<card><name>Corsair Pursuit</name><set>TGH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Southron Sailor</name><set>TGH</set></card>
+		<card><name>Southron Sailor</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Vicious Marauder</name><set>TGH</set></card>
+		<card><name>Vicious Marauder</name><set>TGH</set></card>
+		<card><name>Voyage Across Belegaer</name><set>TGH</set></card>
+		<card><name>Voyage Across Belegaer</name><set>TGH</set></card>
+		<card><name>Voyage Across Belegaer</name><set>TGH</set></card>
+		<card><name>Dawn Star</name><set>TGH</set></card>
+		<card><name>Narelenya</name><set>TGH</set></card>
+		<card><name>Silver Wing</name><set>TGH</set></card>
+		<card><name>Dream-chaser</name><set>TGH</set></card>
+		<card><name>Heading</name><set>TGH</set></card>
+		<card><name>Rolling Seas</name><set>TGH</set></card>
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,60 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Harad Tiger</name><set>M</set></card>
+		<card><name>Territorial Ape</name><set>M</set></card>
+		<card><name>Territorial Ape</name><set>M</set></card>
+		<card><name>Territorial Ape</name><set>M</set></card>
+		<card><name>Territorial Ape</name><set>M</set></card>
+		<card><name>Strangling Python</name><set>M</set></card>
+		<card><name>Strangling Python</name><set>M</set></card>
+		<card><name>Giant Centipede</name><set>M</set></card>
+		<card><name>Giant Centipede</name><set>M</set></card>
+		<card><name>Mumak Trail</name><set>M</set></card>
+		<card><name>Mumak Trail</name><set>M</set></card>
+		<card><name>Mumak Trail</name><set>M</set></card>
+		<card><name>Stampeding Oliphaunt</name><set>M</set></card>
+		<card><name>Stampeding Oliphaunt</name><set>M</set></card>
+		<card><name>The Savage South</name><set>M</set></card>
+		<card><name>The Savage South</name><set>M</set></card>
+		<card><name>Terrible Fever</name><set>M</set></card>
+		<card><name>Terrible Fever</name><set>M</set></card>
+		<card><name>Biting Insects</name><set>M</set></card>
+		<card><name>Biting Insects</name><set>M</set></card>
+		<card><name>Guardians of the Jungle</name><set>M</set></card>
+		<card><name>Jungle Trail</name><set>TSoH</set></card>
+		<card><name>Forest Clearing</name><set>TSoH</set></card>
+		<card><name>Forest Clearing</name><set>TSoH</set></card>
+		<card><name>Dense Jungle</name><set>TSoH</set></card>
+		<card><name>Dense Jungle</name><set>TSoH</set></card>
+		<card><name>Overgrown</name><set>TSoH</set></card>
+		<card><name>Overgrown</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Welcome to the Jungle</name><set>M</set></card>
+		<card><name>Capture the Mumakil</name><set>M</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Wild Mumak</name><set>M</set></card>
+		<card><name>Wild Mumak</name><set>M</set></card>
+		<card><name>Wild Mumak</name><set>M</set></card>
+		<card><name>Wild Mumak</name><set>M</set></card>
+		<card><name>Horse-hair Lasso</name><set>M</set></card>
+		<card><name>Poisoned Spear</name><set>M</set></card>
+		<card><name>Pit Trap</name><set>M</set></card>
+		<card><name>Noose of Vines</name><set>M</set></card>
+		<card><name>Mumak Trail</name><set>M</set></card>
+		<card><name>Jungle Trail</name><set>TSoH</set></card>
+		<card><name>Forest Clearing</name><set>TSoH</set></card>
+		<card><name>Dense Jungle</name><set>TSoH</set></card>
+	</superzone>
+</deck>

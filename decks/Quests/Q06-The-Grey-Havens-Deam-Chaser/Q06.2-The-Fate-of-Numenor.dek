@@ -1,0 +1,57 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Servant of the Deceiver</name><set>TGH</set></card>
+		<card><name>Servant of the Deceiver</name><set>TGH</set></card>
+		<card><name>Servant of the Deceiver</name><set>TGH</set></card>
+		<card><name>Steep Plateau</name><set>TGH</set></card>
+		<card><name>Steep Plateau</name><set>TGH</set></card>
+		<card><name>Steep Plateau</name><set>TGH</set></card>
+		<card><name>Mysterious Fog</name><set>TGH</set></card>
+		<card><name>Mysterious Fog</name><set>TGH</set></card>
+		<card><name>Lingering Malevolence</name><set>TGH</set></card>
+		<card><name>Lingering Malevolence</name><set>TGH</set></card>
+		<card><name>Ruins of Ages Past</name><set>TGH</set></card>
+		<card><name>Ruins of Ages Past</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Soulless Cadaver</name><set>TGH</set></card>
+		<card><name>Soulless Cadaver</name><set>TGH</set></card>
+		<card><name>Throngs of Unfaithful</name><set>TGH</set></card>
+		<card><name>Throngs of Unfaithful</name><set>TGH</set></card>
+		<card><name>Curse of the Downfallen</name><set>TGH</set></card>
+		<card><name>Curse of the Downfallen</name><set>TGH</set></card>
+		<card><name>Aimless Wandering</name><set>TGH</set></card>
+		<card><name>Aimless Wandering</name><set>TGH</set></card>
+		<card><name>Aimless Wandering</name><set>TGH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Explore the Island</name><set>TGH</set></card>
+		<card><name>A Fateful Discovery</name><set>TGH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>The Fate of Numenor</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Calphon</name><set>TGH</set></card>
+	</superzone>
+</deck>

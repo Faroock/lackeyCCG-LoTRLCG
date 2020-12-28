@@ -1,0 +1,78 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Sahirs Escort</name><set>FotS</set></card>
+		<card><name>Sahirs Escort</name><set>FotS</set></card>
+		<card><name>Sahirs Escort</name><set>FotS</set></card>
+		<card><name>Swift Raider</name><set>FotS</set></card>
+		<card><name>Swift Raider</name><set>FotS</set></card>
+		<card><name>Jagged Reef</name><set>FotS</set></card>
+		<card><name>Jagged Reef</name><set>FotS</set></card>
+		<card><name>Man Overboard!</name><set>FotS</set></card>
+		<card><name>Man Overboard!</name><set>FotS</set></card>
+		<card><name>Vast Coastland</name><set>FotS</set></card>
+		<card><name>Vast Coastland</name><set>FotS</set></card>
+		<card><name>Hidden Cove</name><set>FotS</set></card>
+		<card><name>Hidden Cove</name><set>FotS</set></card>
+		<card><name>Corsair Skiff</name><set>FotS</set></card>
+		<card><name>Corsair Skiff</name><set>FotS</set></card>
+		<card><name>Raging Squall</name><set>FotS</set></card>
+		<card><name>Raging Squall</name><set>FotS</set></card>
+		<card><name>Calm Waters</name><set>TGH</set></card>
+		<card><name>Calm Waters</name><set>TGH</set></card>
+		<card><name>Rolling Seas</name><set>TGH</set></card>
+		<card><name>Thrown Off Course</name><set>TGH</set></card>
+		<card><name>Thrown Off Course</name><set>TGH</set></card>
+		<card><name>Rough Waters</name><set>TGH</set></card>
+		<card><name>Rough Waters</name><set>TGH</set></card>
+		<card><name>Waterspout</name><set>TGH</set></card>
+		<card><name>Waterspout</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Winds of Wrath</name><set>TGH</set></card>
+		<card><name>Winds of Wrath</name><set>TGH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+		<card><name>The Weather Turns Foul - 3C</name><set>FotS</set></card>
+		<card><name>The Cape of Andrast - 4C</name><set>FotS</set></card>
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Swift Departure</name><set>FotS</set></card>
+		<card><name>Full Sail Ahead! - 2A</name><set>FotS</set></card>
+		<card><name>The Weather Turns Foul - 3A</name><set>FotS</set></card>
+		<card><name>The Cape of Andrast - 4A</name><set>FotS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Corsair Seafarer</name><set>FotS</set></card>
+		<card><name>Corsair Seafarer</name><set>FotS</set></card>
+		<card><name>Serpents Blade</name><set>FotS</set></card>
+		<card><name>Serpents Blade</name><set>FotS</set></card>
+		<card><name>Southron Sailor</name><set>TGH</set></card>
+		<card><name>Southron Sailor</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Vicious Marauder</name><set>TGH</set></card>
+		<card><name>Vicious Marauder</name><set>TGH</set></card>
+		<card><name>Umbar Captain</name><set>TGH</set></card>
+		<card><name>Umbar Captain</name><set>TGH</set></card>
+		<card><name>Rolling Seas</name><set>TGH</set></card>
+		<card><name>Rolling Seas</name><set>TGH</set></card>
+		<card><name>Flight of the Stormcaller</name><set>FotS</set></card>
+		<card><name>Full Sail Ahead! - 2C</name><set>FotS</set></card>
+		<card><name>The Stormcaller</name><set>FotS</set></card>
+		<card><name>Dream-chaser</name><set>TGH</set></card>
+		<card><name>Dawn Star</name><set>TGH</set></card>
+		<card><name>Narelenya</name><set>TGH</set></card>
+		<card><name>Silver Wing</name><set>TGH</set></card>
+		<card><name>Heading</name><set>TGH</set></card>
+	</superzone>
+</deck>

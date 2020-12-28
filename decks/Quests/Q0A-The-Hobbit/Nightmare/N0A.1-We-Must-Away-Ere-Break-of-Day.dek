@@ -1,0 +1,56 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Bilbo Baggins</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Hungry Troll</name><set>OHaUH</set></card>
+		<card><name>Hungry Troll</name><set>OHaUH</set></card>
+		<card><name>Hungry Troll</name><set>OHaUH</set></card>
+		<card><name>Lots or None at All</name><set>OHaUH</set></card>
+		<card><name>Lots or None at All</name><set>OHaUH</set></card>
+		<card><name>Lots or None at All</name><set>OHaUH</set></card>
+		<card><name>Roast Em or Boil Em</name><set>OHaUH</set></card>
+		<card><name>Roast Em or Boil Em</name><set>OHaUH</set></card>
+		<card><name>Roast Em or Boil Em</name><set>OHaUH</set></card>
+		<card><name>Troll Camp</name><set>OHaUH</set></card>
+		<card><name>Troll Camp</name><set>OHaUH</set></card>
+		<card><name>Troll Camp</name><set>OHaUH</set></card>
+		<card><name>Troll Key</name><set>OHaUH</set></card>
+		<card><name>Troll Purse</name><set>OHaUH</set></card>
+		<card><name>Cave Entrance</name><set>OHaUH</set></card>
+		<card><name>Cave Entrance</name><set>OHaUH</set></card>
+		<card><name>Dreary Hills</name><set>OHaUH</set></card>
+		<card><name>Lone-Lands</name><set>OHaUH</set></card>
+		<card><name>More Like a Grocer</name><set>OHaUH</set></card>
+		<card><name>No Campfire</name><set>OHaUH</set></card>
+		<card><name>No Campfire</name><set>OHaUH</set></card>
+		<card><name>Wind-whipped Rain</name><set>OHaUH</set></card>
+		<card><name>Wind-whipped Rain</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>An Unexpected Party</name><set>OHaUH</set></card>
+		<card><name>Roast Mutton</name><set>OHaUH</set></card>
+		<card><name>Dawn Take You All</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>A Deep Sack</name><set>OHaUH</set></card>
+		<card><name>A Foul Sack</name><set>OHaUH</set></card>
+		<card><name>A Large Sack</name><set>OHaUH</set></card>
+		<card><name>A Smelly Sack</name><set>OHaUH</set></card>
+		<card><name>A Strong Sack</name><set>OHaUH</set></card>
+		<card><name>A Tough Sack</name><set>OHaUH</set></card>
+		<card><name>A Worn Sack</name><set>OHaUH</set></card>
+		<card><name>Tom</name><set>OHaUH</set></card>
+		<card><name>Bert</name><set>OHaUH</set></card>
+		<card><name>William</name><set>OHaUH</set></card>
+		<card><name>Troll Cave</name><set>OHaUH</set></card>
+	</superzone>
+</deck>

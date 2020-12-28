@@ -1,0 +1,73 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Bree-land Informant</name><set>MatPP</set></card>
+		<card><name>Bree-land Informant</name><set>MatPP</set></card>
+		<card><name>Lawless Ruffian</name><set>MatPP</set></card>
+		<card><name>Lawless Ruffian</name><set>MatPP</set></card>
+		<card><name>Lawless Ruffian</name><set>MatPP</set></card>
+		<card><name>Greenway Footpad</name><set>MatPP</set></card>
+		<card><name>Greenway Footpad</name><set>MatPP</set></card>
+		<card><name>Greenway Footpad</name><set>MatPP</set></card>
+		<card><name>Greenway Footpad</name><set>MatPP</set></card>
+		<card><name>Chetwood Outlaw</name><set>MatPP</set></card>
+		<card><name>Chetwood Outlaw</name><set>MatPP</set></card>
+		<card><name>Chetwood Outlaw</name><set>MatPP</set></card>
+		<card><name>Ramshackle Manor</name><set>MatPP</set></card>
+		<card><name>Ramshackle Manor</name><set>MatPP</set></card>
+		<card><name>Ramshackle Manor</name><set>MatPP</set></card>
+		<card><name>Dark Alley</name><set>MatPP</set></card>
+		<card><name>Dark Alley</name><set>MatPP</set></card>
+		<card><name>Dark Alley</name><set>MatPP</set></card>
+		<card><name>Old Warehouse</name><set>MatPP</set></card>
+		<card><name>Old Warehouse</name><set>MatPP</set></card>
+		<card><name>Old Warehouse</name><set>MatPP</set></card>
+		<card><name>Village Stable</name><set>MatPP</set></card>
+		<card><name>Village Stable</name><set>MatPP</set></card>
+		<card><name>Hired Muscle</name><set>MatPP</set></card>
+		<card><name>Hired Muscle</name><set>MatPP</set></card>
+		<card><name>Smoke and Mirrors</name><set>MatPP</set></card>
+		<card><name>Smoke and Mirrors</name><set>MatPP</set></card>
+		<card><name>Smoke and Mirrors</name><set>MatPP</set></card>
+		<card><name>Rising Body Count</name><set>MatPP</set></card>
+		<card><name>Rising Body Count</name><set>MatPP</set></card>
+		<card><name>Deadly Accusations</name><set>MatPP</set></card>
+		<card><name>Deadly Accusations</name><set>MatPP</set></card>
+		<card><name>Bill Ferny</name><set>MatPP</set></card>
+		<card><name>Market Square</name><set>MatPP</set></card>
+		<card><name>Market Square</name><set>MatPP</set></card>
+		<card><name>Market Square</name><set>MatPP</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Investigating the Crime</name><set>MatPP</set></card>
+		<card><name>Running out of Time</name><set>MatPP</set></card>
+		<card><name>Apprehending the Killer</name><set>MatPP</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Murder at the Prancing Pony</name><set>MatPP</set></card>
+		<card><name>Murder at the Prancing Pony</name><set>MatPP</set></card>
+		<card><name>Todd the Troll</name><set>MatPP</set></card>
+		<card><name>Susie the Spider</name><set>MatPP</set></card>
+		<card><name>Wolf-pelt Jake</name><set>MatPP</set></card>
+		<card><name>Johnny Goblin-fingers</name><set>MatPP</set></card>
+		<card><name>Old Orc-eyes</name><set>MatPP</set></card>
+		<card><name>Bill Fernys House</name><set>MatPP</set></card>
+		<card><name>Staddle Hiding Hole</name><set>MatPP</set></card>
+		<card><name>Combe Storehouse</name><set>MatPP</set></card>
+		<card><name>Archet Trading Post</name><set>MatPP</set></card>
+		<card><name>Chetwood Campsite</name><set>MatPP</set></card>
+		<card><name>Taken by Surprise</name><set>MatPP</set></card>
+		<card><name>Taken by Surprise</name><set>MatPP</set></card>
+		<card><name>The Prancing Pony</name><set>MatPP</set></card>
+		<card><name>Ramshackle Manor</name><set>MatPP</set></card>
+	</superzone>
+</deck>

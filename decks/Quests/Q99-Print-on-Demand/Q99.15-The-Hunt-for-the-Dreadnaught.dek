@@ -1,0 +1,96 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Black Sails</name><set>THftD</set></card>
+		<card><name>Black Sails</name><set>THftD</set></card>
+		<card><name>Corsair Skiff</name><set>THftD</set></card>
+		<card><name>Corsair Skiff</name><set>THftD</set></card>
+		<card><name>Corsair Skirmisher</name><set>THftD</set></card>
+		<card><name>Corsair Warship</name><set>THftD</set></card>
+		<card><name>Ramming Ship</name><set>THftD</set></card>
+		<card><name>Slave Ship</name><set>THftD</set></card>
+		<card><name>War Galley</name><set>THftD</set></card>
+		<card><name>War Galley</name><set>THftD</set></card>
+		<card><name>War Galley</name><set>THftD</set></card>
+		<card><name>Sea Monster</name><set>THftD</set></card>
+		<card><name>Sea Monster</name><set>THftD</set></card>
+		<card><name>Belfalas Shipyard</name><set>THftD</set></card>
+		<card><name>Belfalas Shipyard</name><set>THftD</set></card>
+		<card><name>Cobas Haven</name><set>THftD</set></card>
+		<card><name>Isle of Fortune</name><set>THftD</set></card>
+		<card><name>Isle of Fortune</name><set>THftD</set></card>
+		<card><name>Isle of Fortune</name><set>THftD</set></card>
+		<card><name>Mouths of Anduin</name><set>THftD</set></card>
+		<card><name>Mouths of Anduin</name><set>THftD</set></card>
+		<card><name>Mouths of Anduin</name><set>THftD</set></card>
+		<card><name>Tolfalas Landing</name><set>THftD</set></card>
+		<card><name>Tolfalas Landing</name><set>THftD</set></card>
+		<card><name>Tolfalas Landing</name><set>THftD</set></card>
+		<card><name>Wicked Cove</name><set>THftD</set></card>
+		<card><name>Wicked Cove</name><set>THftD</set></card>
+		<card><name>Wicked Cove</name><set>THftD</set></card>
+		<card><name>Ballista Barrage</name><set>THftD</set></card>
+		<card><name>Ballista Barrage</name><set>THftD</set></card>
+		<card><name>Ballista Barrage</name><set>THftD</set></card>
+		<card><name>Boarding Party</name><set>THftD</set></card>
+		<card><name>Grappled!</name><set>THftD</set></card>
+		<card><name>Out of the Mist</name><set>THftD</set></card>
+		<card><name>Out of the Mist</name><set>THftD</set></card>
+		<card><name>Out of the Mist</name><set>THftD</set></card>
+		<card><name>Overworked</name><set>THftD</set></card>
+		<card><name>Overworked</name><set>THftD</set></card>
+		<card><name>Taking on Water</name><set>THftD</set></card>
+		<card><name>Taking on Water</name><set>THftD</set></card>
+		<card><name>Violent Tempest</name><set>THftD</set></card>
+		<card><name>Violent Tempest</name><set>THftD</set></card>
+		<card><name>Violent Tempest</name><set>THftD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Searching the High Seas</name><set>THftD</set></card>
+		<card><name>Destroy the Dreadnaught</name><set>THftD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Brash Corsair</name><set>THftD</set></card>
+		<card><name>Corsair Plunderer</name><set>THftD</set></card>
+		<card><name>Corsair Plunderer</name><set>THftD</set></card>
+		<card><name>Corsair Plunderer</name><set>THftD</set></card>
+		<card><name>Daring Buccaneer</name><set>THftD</set></card>
+		<card><name>Daring Buccaneer</name><set>THftD</set></card>
+		<card><name>Daring Buccaneer</name><set>THftD</set></card>
+		<card><name>Fierce Marauder</name><set>THftD</set></card>
+		<card><name>Fierce Marauder</name><set>THftD</set></card>
+		<card><name>Fierce Marauder</name><set>THftD</set></card>
+		<card><name>Southron Sailor</name><set>THftD</set></card>
+		<card><name>Southron Sailor</name><set>THftD</set></card>
+		<card><name>Umbar Captain</name><set>THftD</set></card>
+		<card><name>Easy Mode</name><set>THftD</set></card>
+		<card><name>Standard Mode</name><set>THftD</set></card>
+		<card><name>Hard Mode</name><set>THftD</set></card>
+		<card><name>Eithiliant</name><set>THftD</set></card>
+		<card><name>Golden Wing</name><set>THftD</set></card>
+		<card><name>Pride of Lebennin</name><set>THftD</set></card>
+		<card><name>Silent Mist</name><set>THftD</set></card>
+		<card><name>Swan Ship of Dol Amroth</name><set>THftD</set></card>
+		<card><name>Twilights Call</name><set>THftD</set></card>
+		<card><name>Gondorian Warship</name><set>THftD</set></card>
+		<card><name>Gondorian Warship</name><set>THftD</set></card>
+		<card><name>Gondorian Warship</name><set>THftD</set></card>
+		<card><name>Gondorian Warship</name><set>THftD</set></card>
+		<card><name>Dreadnaught</name><set>THftD</set></card>
+		<card><name>Captain of the Haven</name><set>THftD</set></card>
+		<card><name>Commander of the Dreadnaught</name><set>THftD</set></card>
+		<card><name>Descendant of Castamir</name><set>THftD</set></card>
+		<card><name>Hydraken</name><set>THftD</set></card>
+		<card><name>Ophidian</name><set>THftD</set></card>
+		<card><name>Varjax</name><set>THftD</set></card>
+	</superzone>
+</deck>

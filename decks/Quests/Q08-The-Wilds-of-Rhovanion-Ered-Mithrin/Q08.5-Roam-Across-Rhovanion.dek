@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Grey Mountain Giant</name><set>RAR</set></card>
+		<card><name>Grey Mountain Giant</name><set>RAR</set></card>
+		<card><name>Hunting Eagle</name><set>RAR</set></card>
+		<card><name>Hunting Eagle</name><set>RAR</set></card>
+		<card><name>Hunting Eagle</name><set>RAR</set></card>
+		<card><name>Wilderland Bear</name><set>RAR</set></card>
+		<card><name>Wilderland Bear</name><set>RAR</set></card>
+		<card><name>Grey Moorland</name><set>RAR</set></card>
+		<card><name>Grey Moorland</name><set>RAR</set></card>
+		<card><name>Deep Ravine</name><set>RAR</set></card>
+		<card><name>Deep Ravine</name><set>RAR</set></card>
+		<card><name>Deep Ravine</name><set>RAR</set></card>
+		<card><name>Slopes of Ered Mithrin</name><set>RAR</set></card>
+		<card><name>Slopes of Ered Mithrin</name><set>RAR</set></card>
+		<card><name>Slopes of Ered Mithrin</name><set>RAR</set></card>
+		<card><name>Sneaking Off</name><set>RAR</set></card>
+		<card><name>Sneaking Off</name><set>RAR</set></card>
+		<card><name>Sneaking Off</name><set>RAR</set></card>
+		<card><name>Harsh Weather</name><set>RAR</set></card>
+		<card><name>Harsh Weather</name><set>RAR</set></card>
+		<card><name>Harsh Weather</name><set>RAR</set></card>
+		<card><name>Wild Creatures</name><set>RAR</set></card>
+		<card><name>Wild Creatures</name><set>RAR</set></card>
+		<card><name>Pack of Wargs</name><set>TWoR</set></card>
+		<card><name>Pack of Wargs</name><set>TWoR</set></card>
+		<card><name>Hills of Wilderland</name><set>TWoR</set></card>
+		<card><name>Hills of Wilderland</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Ruined Supplies</name><set>TWoR</set></card>
+		<card><name>Ruined Supplies</name><set>TWoR</set></card>
+		<card><name>Lost in the Wild</name><set>TWoR</set></card>
+		<card><name>Lost in the Wild</name><set>TWoR</set></card>
+		<card><name>Weighed Down</name><set>TWoR</set></card>
+		<card><name>Weighed Down</name><set>TWoR</set></card>
+		<card><name>Stone Troll</name><set>TWoR</set></card>
+		<card><name>Stone Troll</name><set>TWoR</set></card>
+		<card><name>Hobgoblin</name><set>TWoR</set></card>
+		<card><name>Hobgoblin</name><set>TWoR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Goblins Task</name><set>RAR</set></card>
+		<card><name>Rescue Tiny</name><set>RAR</set></card>
+		<card><name>Retrieve Urdugs Horn</name><set>RAR</set></card>
+		<card><name>Find Durins Key</name><set>RAR</set></card>
+		<card><name>Urdugs Gambit</name><set>RAR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Urdug</name><set>RAR</set></card>
+		<card><name>Durins Key</name><set>RAR</set></card>
+		<card><name>Urdugs Horn</name><set>RAR</set></card>
+		<card><name>Tiny</name><set>RAR</set></card>
+	</superzone>
+</deck>

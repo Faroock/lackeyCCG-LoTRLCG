@@ -1,0 +1,77 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Abandoned Mine</name><set>TLD</set></card>
+		<card><name>Abandoned Mine</name><set>TLD</set></card>
+		<card><name>Cave Spider</name><set>TLD</set></card>
+		<card><name>Cave Spider</name><set>TLD</set></card>
+		<card><name>Cave Spider</name><set>TLD</set></card>
+		<card><name>Durins Greaves</name><set>TLD</set></card>
+		<card><name>Dwarven Forge</name><set>TLD</set></card>
+		<card><name>Dwarven Forge</name><set>TLD</set></card>
+		<card><name>Foul Air</name><set>TLD</set></card>
+		<card><name>Foul Air</name><set>TLD</set></card>
+		<card><name>Foul Air</name><set>TLD</set></card>
+		<card><name>Foul Air</name><set>TLD</set></card>
+		<card><name>Gathering Ground</name><set>TLD</set></card>
+		<card><name>Goblin Warlord</name><set>TLD</set></card>
+		<card><name>Silent Caverns</name><set>TLD</set></card>
+		<card><name>Silent Caverns</name><set>TLD</set></card>
+		<card><name>Twisting Passage</name><set>TLD</set></card>
+		<card><name>Twisting Passage</name><set>TLD</set></card>
+		<card><name>Vast and Intricate</name><set>TLD</set></card>
+		<card><name>Vast and Intricate</name><set>TLD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Lightless Passage</name><set>KD</set></card>
+		<card><name>Lightless Passage</name><set>KD</set></card>
+		<card><name>Many Roads</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Great Cave-troll</name><set>KD</set></card>
+		<card><name>Great Cave-troll</name><set>KD</set></card>
+		<card><name>Massing in the Deep</name><set>KD</set></card>
+		<card><name>Massing in the Deep</name><set>KD</set></card>
+		<card><name>Orc Drummer</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>Goblin Stalker</name><set>TLDN</set></card>
+		<card><name>Goblin Stalker</name><set>TLDN</set></card>
+		<card><name>Goblin Stalker</name><set>TLDN</set></card>
+		<card><name>Goblin Stalker</name><set>TLDN</set></card>
+		<card><name>Trapdoor Spider</name><set>TLDN</set></card>
+		<card><name>Trapdoor Spider</name><set>TLDN</set></card>
+		<card><name>Trapdoor Spider</name><set>TLDN</set></card>
+		<card><name>Sentinel of the Deep</name><set>TLDN</set></card>
+		<card><name>Sentinel of the Deep</name><set>TLDN</set></card>
+		<card><name>Eastern Mines</name><set>TLDN</set></card>
+		<card><name>Eastern Mines</name><set>TLDN</set></card>
+		<card><name>Bottomless Chasm</name><set>TLDN</set></card>
+		<card><name>Bottomless Chasm</name><set>TLDN</set></card>
+		<card><name>Bottomless Chasm</name><set>TLDN</set></card>
+		<card><name>Dreadful Deep</name><set>TLDN</set></card>
+		<card><name>Dreadful Deep</name><set>TLDN</set></card>
+		<card><name>Dreadful Deep</name><set>TLDN</set></card>
+		<card><name>Lost and Helpless</name><set>TLDN</set></card>
+		<card><name>Lost and Helpless</name><set>TLDN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Long Dark</name><set>TLDN</set></card>
+		<card><name>Journey in the Black Pit</name><set>TLD</set></card>
+		<card><name>Continuing Eastward</name><set>TLD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Cave Torch</name><set>KD</set></card>
+	</superzone>
+</deck>

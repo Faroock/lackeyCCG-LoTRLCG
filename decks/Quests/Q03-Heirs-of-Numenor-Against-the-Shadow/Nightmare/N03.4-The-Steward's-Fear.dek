@@ -1,0 +1,79 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Underworld Dissident</name><set>TSF</set></card>
+		<card><name>Underworld Dissident</name><set>TSF</set></card>
+		<card><name>Sewers</name><set>TSF</set></card>
+		<card><name>Sewers</name><set>TSF</set></card>
+		<card><name>Sewers</name><set>TSF</set></card>
+		<card><name>Houses of the Dead</name><set>TSF</set></card>
+		<card><name>Unwelcome Discovery</name><set>TSF</set></card>
+		<card><name>Unwelcome Discovery</name><set>TSF</set></card>
+		<card><name>A Knife in the Back</name><set>TSF</set></card>
+		<card><name>A Knife in the Back</name><set>TSF</set></card>
+		<card><name>A Knife in the Back</name><set>TSF</set></card>
+		<card><name>False Lead</name><set>TSF</set></card>
+		<card><name>False Lead</name><set>TSF</set></card>
+		<card><name>Lurking in Shadows</name><set>HoN</set></card>
+		<card><name>Lurking in Shadows</name><set>HoN</set></card>
+		<card><name>Lost in the City</name><set>HoN</set></card>
+		<card><name>City Street</name><set>HoN</set></card>
+		<card><name>City Street</name><set>HoN</set></card>
+		<card><name>City Street</name><set>HoN</set></card>
+		<card><name>Local Trouble</name><set>HoN</set></card>
+		<card><name>Local Trouble</name><set>HoN</set></card>
+		<card><name>Faithless Conspirator</name><set>TSFN</set></card>
+		<card><name>Faithless Conspirator</name><set>TSFN</set></card>
+		<card><name>Faithless Conspirator</name><set>TSFN</set></card>
+		<card><name>Traitors Den</name><set>TSFN</set></card>
+		<card><name>Traitors Den</name><set>TSFN</set></card>
+		<card><name>Rath Celerdain</name><set>TSFN</set></card>
+		<card><name>Rath Celerdain</name><set>TSFN</set></card>
+		<card><name>The Cabalss Champion</name><set>TSFN</set></card>
+		<card><name>The Cabalss Champion</name><set>TSFN</set></card>
+		<card><name>The Cabalss Champion</name><set>TSFN</set></card>
+		<card><name>Arched Tunnel</name><set>TSFN</set></card>
+		<card><name>Arched Tunnel</name><set>TSFN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Stewards Fear</name><set>TSFN</set></card>
+		<card><name>Conspiracy</name><set>TSF</set></card>
+		<card><name>The Grand Design</name><set>TSF</set></card>
+		<card><name>The Confrontation</name><set>TSF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Lossarnach Bandit</name><set>HoN</set></card>
+		<card><name>Lossarnach Bandit</name><set>HoN</set></card>
+		<card><name>Umbar Assassin</name><set>HoN</set></card>
+		<card><name>Zealous Traitor</name><set>HoN</set></card>
+		<card><name>Zealous Traitor</name><set>HoN</set></card>
+		<card><name>Zealous Traitor</name><set>HoN</set></card>
+		<card><name>A Scrap of History</name><set>TSF</set></card>
+		<card><name>Secret Map</name><set>TSF</set></card>
+		<card><name>A Prisoner</name><set>TSF</set></card>
+		<card><name>Murderous Turncoat</name><set>TSFN</set></card>
+		<card><name>Murderous Turncoat</name><set>TSFN</set></card>
+		<card><name>Murderous Turncoat</name><set>TSFN</set></card>
+		<card><name>False Accusations</name><set>TSFN</set></card>
+		<card><name>False Accusations</name><set>TSFN</set></card>
+		<card><name>Daughter of Beruthiel</name><set>TSF</set></card>
+		<card><name>The Hand of Castamir</name><set>TSF</set></card>
+		<card><name>Telemnars Bane</name><set>TSF</set></card>
+		<card><name>Roots of Mindolluin</name><set>TSF</set></card>
+		<card><name>Unholy Alliance</name><set>TSF</set></card>
+		<card><name>Up in Flames</name><set>TSF</set></card>
+		<card><name>Poisoned Counsels</name><set>TSF</set></card>
+		<card><name>Rise To Power</name><set>TSFN</set></card>
+		<card><name>Assassination</name><set>TSFN</set></card>
+		<card><name>The Fourth Star</name><set>TSF</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,58 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Painful Fatigue</name><set>ASitE</set></card>
+		<card><name>Painful Fatigue</name><set>ASitE</set></card>
+		<card><name>An Arduous Journey</name><set>ASitE</set></card>
+		<card><name>Easterling Horse</name><set>ASitE</set></card>
+		<card><name>Easterling Horse</name><set>ASitE</set></card>
+		<card><name>Easterling Horse</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Weary Lands</name><set>ASitE</set></card>
+		<card><name>Weary Lands</name><set>ASitE</set></card>
+		<card><name>Rocky Outcrop</name><set>ASitE</set></card>
+		<card><name>Rocky Outcrop</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Rider of Rhun</name><set>ASitE</set></card>
+		<card><name>Enemies Close Behind</name><set>ASitE</set></card>
+		<card><name>Enemies Close Behind</name><set>ASitE</set></card>
+		<card><name>Exposed Riverbank</name><set>ASitE</set></card>
+		<card><name>Exposed Riverbank</name><set>ASitE</set></card>
+		<card><name>Easterling Outrider</name><set>ASitE</set></card>
+		<card><name>Easterling Outrider</name><set>ASitE</set></card>
+		<card><name>River Running</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Chased by Easterlings</name><set>ASitE</set></card>
+		<card><name>The Crossing of Araw</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Warriors of the East</name><set>ASitE</set></card>
+		<card><name>Easterling Pursuit</name><set>ASitE</set></card>
+		<card><name>Easterling Outrider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Rider of Rhun</name><set>ASitE</set></card>
+		<card><name>Easterling Captain</name><set>ASitE</set></card>
+		<card><name>River Running</name><set>ASitE</set></card>
+	</superzone>
+</deck>

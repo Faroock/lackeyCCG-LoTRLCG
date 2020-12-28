@@ -1,0 +1,118 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Orc Arbalesters</name><set>HoN</set></card>
+		<card><name>Orc Arbalesters</name><set>HoN</set></card>
+		<card><name>Orc Arbalesters</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Orc Scramblers</name><set>HoN</set></card>
+		<card><name>Orc Scramblers</name><set>HoN</set></card>
+		<card><name>Orc Scramblers</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>East Bight Patrol</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Goblintown Scavengers</name><set>HfG</set></card>
+		<card><name>Goblintown Scavengers</name><set>HfG</set></card>
+		<card><name>Orc Horse Thieves</name><set>HoEM</set></card>
+		<card><name>Orc Horse Thieves</name><set>HoEM</set></card>
+		<card><name>Orc Horse Thieves</name><set>HoEM</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Chieftain of the Pit</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Orc Drummer</name><set>KD</set></card>
+		<card><name>Orc Horn Blower</name><set>KD</set></card>
+		<card><name>Patrol Leader</name><set>KD</set></card>
+		<card><name>Patrol Leader</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Goblin Sneak</name><set>TLD</set></card>
+		<card><name>Goblin Sneak</name><set>TLD</set></card>
+		<card><name>Goblin Sneak</name><set>TLD</set></card>
+		<card><name>Goblin Sneak</name><set>TLD</set></card>
+		<card><name>Goblin Warlord</name><set>TLD</set></card>
+		<card><name>Ranging Goblin</name><set>SaF</set></card>
+		<card><name>Ranging Goblin</name><set>SaF</set></card>
+		<card><name>Ranging Goblin</name><set>SaF</set></card>
+		<card><name>The Great Goblin</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

@@ -1,0 +1,76 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Foul-smelling Cave</name><set>SLN</set></card>
+		<card><name>Foul-smelling Cave</name><set>SLN</set></card>
+		<card><name>Torech Ungol</name><set>SLN</set></card>
+		<card><name>Torech Ungol</name><set>SLN</set></card>
+		<card><name>Torech Ungol</name><set>SLN</set></card>
+		<card><name>Cobwebbed Tunnel</name><set>SLN</set></card>
+		<card><name>Cobwebbed Tunnel</name><set>SLN</set></card>
+		<card><name>Cobwebbed Tunnel</name><set>SLN</set></card>
+		<card><name>Orc of Citith Ungol</name><set>LoS</set></card>
+		<card><name>Orc of Citith Ungol</name><set>LoS</set></card>
+		<card><name>Orc of Citith Ungol</name><set>LoS</set></card>
+		<card><name>Orc of Minas Morgul</name><set>SLN</set></card>
+		<card><name>Orc of Minas Morgul</name><set>SLN</set></card>
+		<card><name>Orc of Minas Morgul</name><set>SLN</set></card>
+		<card><name>Under-gate Sentry</name><set>SLN</set></card>
+		<card><name>Under-gate Sentry</name><set>SLN</set></card>
+		<card><name>Under-gate Sentry</name><set>SLN</set></card>
+		<card><name>Impenetrable Dark</name><set>SLN</set></card>
+		<card><name>Impenetrable Dark</name><set>SLN</set></card>
+		<card><name>Impenetrable Dark</name><set>SLN</set></card>
+		<card><name>Growing Stench</name><set>SLN</set></card>
+		<card><name>Growing Stench</name><set>SLN</set></card>
+		<card><name>The Spiders Lair</name><set>LoS</set></card>
+		<card><name>The Spiders Lair</name><set>LoS</set></card>
+		<card><name>Den of Night</name><set>LoS</set></card>
+		<card><name>Den of Night</name><set>LoS</set></card>
+		<card><name>Den of Night</name><set>LoS</set></card>
+		<card><name>Exhalation of Decay</name><set>LoS</set></card>
+		<card><name>Exhalation of Decay</name><set>LoS</set></card>
+		<card><name>Morgul Wraith</name><set>LoS</set></card>
+		<card><name>Morgul Wraith</name><set>LoS</set></card>
+		<card><name>Call of the Ring</name><set>LoS</set></card>
+		<card><name>Call of the Ring</name><set>LoS</set></card>
+		<card><name>We Hates Them</name><set>LoS</set></card>
+		<card><name>We Hates Them</name><set>LoS</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Shelobs Lair</name><set>SLN</set></card>
+		<card><name>Shelobs Lair</name><set>LoS</set></card>
+		<card><name>The Stairs of Cirith Ungol</name><set>LoS</set></card>
+		<card><name>The Spiders Pass</name><set>LoS</set></card>
+		<card><name>Gollums Betrayal</name><set>LoS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Blocked Tunnel</name><set>LoS</set></card>
+		<card><name>Blocked Tunnel</name><set>LoS</set></card>
+		<card><name>Shelobs Poison</name><set>LoS</set></card>
+		<card><name>Shelobs Poison</name><set>LoS</set></card>
+		<card><name>Lurking Malice</name><set>LoS</set></card>
+		<card><name>Lurking Malice</name><set>LoS</set></card>
+		<card><name>Lurking Malice</name><set>LoS</set></card>
+		<card><name>Rage and Hunger</name><set>LoS</set></card>
+		<card><name>Rage and Hunger</name><set>LoS</set></card>
+		<card><name>Rage and Hunger</name><set>LoS</set></card>
+		<card><name>A Heavy Burden</name><set>LoS</set></card>
+		<card><name>The One Ring</name><set>LoS</set></card>
+		<card><name>Frodo Baggins</name><set>LoS</set></card>
+		<card><name>Cleft of Cirith Ungol</name><set>LoS</set></card>
+		<card><name>Shelob</name><set>LoS</set></card>
+		<card><name>Gollum</name><set>LoS</set></card>
+		<card><name>Morgul Vale</name><set>LoS</set></card>
+		<card><name>Smeagols Secret Way</name><set>LoS</set></card>
+	</superzone>
+</deck>

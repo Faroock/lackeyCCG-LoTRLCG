@@ -1,0 +1,40 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Troll</name><set>TRG</set></card>
+		<card><name>Mountain Troll</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

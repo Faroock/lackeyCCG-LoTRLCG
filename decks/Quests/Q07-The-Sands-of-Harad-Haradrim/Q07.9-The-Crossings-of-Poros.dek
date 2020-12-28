@@ -1,0 +1,89 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Poros Garrison</name><set>CoP</set></card>
+		<card><name>The Black Serpent</name><set>CoP</set></card>
+		<card><name>Southron Outrider</name><set>CoP</set></card>
+		<card><name>Southron Outrider</name><set>CoP</set></card>
+		<card><name>Uruk Prowler</name><set>CoP</set></card>
+		<card><name>Uruk Prowler</name><set>CoP</set></card>
+		<card><name>Desert Warg</name><set>CoP</set></card>
+		<card><name>Desert Warg</name><set>CoP</set></card>
+		<card><name>Desolate Land</name><set>CoP</set></card>
+		<card><name>Desolate Land</name><set>CoP</set></card>
+		<card><name>Desolate Land</name><set>CoP</set></card>
+		<card><name>Harondor Waste</name><set>CoP</set></card>
+		<card><name>Harondor Waste</name><set>CoP</set></card>
+		<card><name>Harondor Waste</name><set>CoP</set></card>
+		<card><name>Harondor Waste</name><set>CoP</set></card>
+		<card><name>Danger Close Behind</name><set>CoP</set></card>
+		<card><name>Danger Close Behind</name><set>CoP</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Flight to Gondor</name><set>CoP</set></card>
+		<card><name>The Desert Path</name><set>CoP</set></card>
+		<card><name>The Ephel Duath</name><set>CoP</set></card>
+		<card><name>Deadly Creatures</name><set>CoP</set></card>
+		<card><name>Southron Pursuit</name><set>CoP</set></card>
+		<card><name>Orc Patrols</name><set>CoP</set></card>
+		<card><name>Battle at the Crossings</name><set>CoP</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Find Water</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Desert Oasis</name><set>TSoH</set></card>
+		<card><name>Desert Oasis</name><set>TSoH</set></card>
+		<card><name>Sandstorm</name><set>TSoH</set></card>
+		<card><name>Sandstorm</name><set>TSoH</set></card>
+		<card><name>Heat Exhaustion</name><set>TSoH</set></card>
+		<card><name>Heat Exhaustion</name><set>TSoH</set></card>
+		<card><name>Foothills of Mordor</name><set>CoP</set></card>
+		<card><name>Foothills of Mordor</name><set>CoP</set></card>
+		<card><name>Foothills of Mordor</name><set>CoP</set></card>
+		<card><name>Shadowy Vale</name><set>CoP</set></card>
+		<card><name>Shadowy Vale</name><set>CoP</set></card>
+		<card><name>Mountains of Shadow</name><set>CoP</set></card>
+		<card><name>Mountains of Shadow</name><set>CoP</set></card>
+		<card><name>Find a Way Down</name><set>CoP</set></card>
+		<card><name>Craft Remedy</name><set>TSoH</set></card>
+		<card><name>Sand Viper</name><set>TSoH</set></card>
+		<card><name>Sand Viper</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Southron Champion</name><set>TSoH</set></card>
+		<card><name>Southron Captain</name><set>TSoH</set></card>
+		<card><name>Southron Soldier</name><set>TSoH</set></card>
+		<card><name>Southron Soldier</name><set>TSoH</set></card>
+		<card><name>Southron Soldier</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Nowhere to Hide</name><set>TSoH</set></card>
+		<card><name>Nowhere to Hide</name><set>TSoH</set></card>
+		<card><name>Nowhere to Hide</name><set>TSoH</set></card>
+		<card><name>Uruks of the Eye</name><set>TSoH</set></card>
+		<card><name>Uruk Chieftain</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+	</superzone>
+</deck>

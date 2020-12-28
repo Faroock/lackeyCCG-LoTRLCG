@@ -1,0 +1,79 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Forecastle Deck</name><set>TitD</set></card>
+		<card><name>Forecastle Deck</name><set>TitD</set></card>
+		<card><name>Weather Deck</name><set>TitD</set></card>
+		<card><name>Weather Deck</name><set>TitD</set></card>
+		<card><name>Cargo Hold</name><set>TitD</set></card>
+		<card><name>Cargo Hold</name><set>TitD</set></card>
+		<card><name>Crew Quarters</name><set>TitD</set></card>
+		<card><name>Quarter Deck</name><set>TitD</set></card>
+		<card><name>Quarter Deck</name><set>TitD</set></card>
+		<card><name>Hold Steady!</name><set>TitD</set></card>
+		<card><name>Hold Steady!</name><set>TitD</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Captains Quarters</name><set>TTitDN</set></card>
+		<card><name>Aft Cabin</name><set>TTitDN</set></card>
+		<card><name>Aft Cabin</name><set>TTitDN</set></card>
+		<card><name>Aft Cabin</name><set>TTitDN</set></card>
+		<card><name>Tumultuous Waters</name><set>TTitDN</set></card>
+		<card><name>Tumultuous Waters</name><set>TTitDN</set></card>
+		<card><name>Tumultuous Waters</name><set>TTitDN</set></card>
+		<card><name>Corsair Duelist</name><set>TTitDN</set></card>
+		<card><name>Corsair Duelist</name><set>TTitDN</set></card>
+		<card><name>Corsair Duelist</name><set>TTitDN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Thing in the Depths</name><set>TTitDN</set></card>
+		<card><name>Take the Ship!</name><set>TitD</set></card>
+		<card><name>Change of Plans</name><set>TitD</set></card>
+		<card><name>Defend the Ship!</name><set>TitD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Eye of the Beast</name><set>TitD</set></card>
+		<card><name>Eye of the Beast</name><set>TitD</set></card>
+		<card><name>Thrashing Arm</name><set>TitD</set></card>
+		<card><name>Thrashing Arm</name><set>TitD</set></card>
+		<card><name>Crushing Arm</name><set>TitD</set></card>
+		<card><name>Crushing Arm</name><set>TitD</set></card>
+		<card><name>Grasping Arm</name><set>TitD</set></card>
+		<card><name>Grasping Arm</name><set>TitD</set></card>
+		<card><name>Giant Arm</name><set>TitD</set></card>
+		<card><name>Giant Arm</name><set>TitD</set></card>
+		<card><name>From the Depths</name><set>TitD</set></card>
+		<card><name>From the Depths</name><set>TitD</set></card>
+		<card><name>From the Depths</name><set>TitD</set></card>
+		<card><name>Lashing Tentacles</name><set>TitD</set></card>
+		<card><name>Lashing Tentacles</name><set>TitD</set></card>
+		<card><name>Slithering Arm</name><set>TTitDN</set></card>
+		<card><name>Slithering Arm</name><set>TTitDN</set></card>
+		<card><name>Slithering Arm</name><set>TTitDN</set></card>
+		<card><name>Crashing Arm</name><set>TTitDN</set></card>
+		<card><name>Crashing Arm</name><set>TTitDN</set></card>
+		<card><name>Crashing Arm</name><set>TTitDN</set></card>
+		<card><name>Deep Maelstrom</name><set>TTitDN</set></card>
+		<card><name>Deep Maelstrom</name><set>TTitDN</set></card>
+		<card><name>Deep Maelstrom</name><set>TTitDN</set></card>
+		<card><name>Helm of the Stormcaller</name><set>TitD</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>The Thing in the Depths</name><set>TitD</set></card>
+		<card><name>Captain Sahir</name><set>TGH</set></card>
+		<card><name>Naasiyah</name><set>TGH</set></card>
+		<card><name>The Thing in the Depths </name><set>TitD</set></card>
+	</superzone>
+</deck>

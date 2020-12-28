@@ -1,0 +1,68 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Drawn to the Ring</name><set>MoF</set></card>
+		<card><name>Drawn to the Ring</name><set>MoF</set></card>
+		<card><name>Drawn to the Ring</name><set>MoF</set></card>
+		<card><name>Deep Shadows</name><set>MoF</set></card>
+		<card><name>Deep Shadows</name><set>MoF</set></card>
+		<card><name>Evil Vigilance</name><set>MoF</set></card>
+		<card><name>Evil Vigilance</name><set>MoF</set></card>
+		<card><name>Evil Vigilance</name><set>MoF</set></card>
+		<card><name>Orc-hold</name><set>MoF</set></card>
+		<card><name>Orc-hold</name><set>MoF</set></card>
+		<card><name>Mordor Road</name><set>MoF</set></card>
+		<card><name>Plain of Gorgoroth</name><set>MoF</set></card>
+		<card><name>Plain of Gorgoroth</name><set>MoF</set></card>
+		<card><name>Plain of Gorgoroth</name><set>MoF</set></card>
+		<card><name>Brake of Thorns</name><set>MoF</set></card>
+		<card><name>Gollum</name><set>MoF</set></card>
+		<card><name>Ringwraith of Sauron</name><set>MoF</set></card>
+		<card><name>Ringwraith of Sauron</name><set>MoF</set></card>
+		<card><name>Orc Captain</name><set>MoF</set></card>
+		<card><name>Orc Captain</name><set>MoF</set></card>
+		<card><name>Big Uruk</name><set>MoF</set></card>
+		<card><name>Big Uruk</name><set>MoF</set></card>
+		<card><name>Big Uruk</name><set>MoF</set></card>
+		<card><name>Little Snuffler</name><set>MoF</set></card>
+		<card><name>Little Snuffler</name><set>MoF</set></card>
+		<card><name>Little Snuffler</name><set>MoF</set></card>
+		<card><name>Little Snuffler</name><set>MoF</set></card>
+		<card><name>Wicked Master!</name><set>MoF</set></card>
+		<card><name>The Lidless Eye</name><set>MoF</set></card>
+		<card><name>The Lidless Eye</name><set>MoF</set></card>
+		<card><name>The Lidless Eye</name><set>MoF</set></card>
+		<card><name>The Lidless Eye</name><set>MoF</set></card>
+		<card><name>Foul Fumes</name><set>MoF</set></card>
+		<card><name>Foul Fumes</name><set>MoF</set></card>
+		<card><name>Heavy and Tired</name><set>MoF</set></card>
+		<card><name>Heavy and Tired</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Land of Mordor</name><set>MoF</set></card>
+		<card><name>The Road to Isenmouthe</name><set>MoF</set></card>
+		<card><name>The Last Gasp</name><set>MoF</set></card>
+		<card><name>The Crack of Doom</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Tower of Barad-dur</name><set>MoF</set></card>
+		<card><name>Mount Doom</name><set>MoF</set></card>
+		<card><name>Orc-hold</name><set>MoF</set></card>
+		<card><name>Mordor Road</name><set>MoF</set></card>
+		<card><name>Plain of Gorgoroth</name><set>MoF</set></card>
+		<card><name>Brake of Thorns</name><set>MoF</set></card>
+		<card><name>Old Water-course</name><set>MoF</set></card>
+		<card><name>Brake of Thorns</name><set>MoF</set></card>
+		<card><name>The One Ring</name><set>MoF</set></card>
+	</superzone>
+</deck>

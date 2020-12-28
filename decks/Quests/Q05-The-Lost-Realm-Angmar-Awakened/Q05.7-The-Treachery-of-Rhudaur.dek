@@ -1,0 +1,69 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wight of Rhudaur</name><set>ToR</set></card>
+		<card><name>Wight of Rhudaur</name><set>ToR</set></card>
+		<card><name>Traitorous Wight</name><set>ToR</set></card>
+		<card><name>Traitorous Wight</name><set>ToR</set></card>
+		<card><name>Traitorous Wight</name><set>ToR</set></card>
+		<card><name>Forbidden Descent</name><set>ToR</set></card>
+		<card><name>Forbidden Descent</name><set>ToR</set></card>
+		<card><name>Eerie Halls</name><set>ToR</set></card>
+		<card><name>Eerie Halls</name><set>ToR</set></card>
+		<card><name>Ghostly Ruins</name><set>ToR</set></card>
+		<card><name>Ghostly Ruins</name><set>ToR</set></card>
+		<card><name>Decrepit Remains</name><set>ToR</set></card>
+		<card><name>Decrepit Remains</name><set>ToR</set></card>
+		<card><name>Centuries of Sorrow</name><set>ToR</set></card>
+		<card><name>Centuries of Sorrow</name><set>ToR</set></card>
+		<card><name>Curse of the Years</name><set>ToR</set></card>
+		<card><name>Curse of the Years</name><set>ToR</set></card>
+		<card><name>Curse of the Years</name><set>ToR</set></card>
+		<card><name>Dark Covenant</name><set>ToR</set></card>
+		<card><name>Dark Covenant</name><set>ToR</set></card>
+		<card><name>Dark Covenant</name><set>ToR</set></card>
+		<card><name>Haunting Fog</name><set>ToR</set></card>
+		<card><name>Haunting Fog</name><set>ToR</set></card>
+		<card><name>Haunting Fog</name><set>ToR</set></card>
+		<card><name>Dead Lord</name><set>TLR</set></card>
+		<card><name>Dead Lord</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Restless Evil</name><set>TLR</set></card>
+		<card><name>Restless Evil</name><set>TLR</set></card>
+		<card><name>Seal the Tomb</name><set>TLR</set></card>
+		<card><name>Ruins of Arnor</name><set>TLR</set></card>
+		<card><name>Ruins of Arnor</name><set>TLR</set></card>
+		<card><name>Ruins of Arnor</name><set>TLR</set></card>
+		<card><name>Ancient Causeway</name><set>TLR</set></card>
+		<card><name>Tragic Discovery</name><set>TLR</set></card>
+		<card><name>Tragic Discovery</name><set>TLR</set></card>
+		<card><name>Search the Ruins</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Secrets of Rhudaur</name><set>ToR</set></card>
+		<card><name>Thaurdirs Pursuit</name><set>ToR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Treachery of Rhudaur</name><set>ToR</set></card>
+		<card><name>Amarthiul</name><set>ToR</set></card>
+		<card><name>The Great Hall</name><set>ToR</set></card>
+		<card><name>Thaurdir</name><set>ToR</set></card>
+		<card><name>Quiet the Spirits</name><set>ToR</set></card>
+		<card><name>Sift Through the Debris</name><set>ToR</set></card>
+		<card><name>Decipher Ancient Texts</name><set>ToR</set></card>
+		<card><name>Ancient Causeway</name><set>TLR</set></card>
+	</superzone>
+</deck>

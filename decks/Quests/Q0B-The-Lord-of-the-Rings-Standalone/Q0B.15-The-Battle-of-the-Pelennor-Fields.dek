@@ -1,0 +1,75 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Gate of Gondor</name><set>FotW</set></card>
+		<card><name>City Wall</name><set>FotW</set></card>
+		<card><name>City Wall</name><set>FotW</set></card>
+		<card><name>City Wall</name><set>FotW</set></card>
+		<card><name>Pelennor Field</name><set>FotW</set></card>
+		<card><name>Pelennor Field</name><set>FotW</set></card>
+		<card><name>Pelennor Field</name><set>FotW</set></card>
+		<card><name>Fire-filled Trench</name><set>FotW</set></card>
+		<card><name>Fire-filled Trench</name><set>FotW</set></card>
+		<card><name>Fire-filled Trench</name><set>FotW</set></card>
+		<card><name>Siege Tower</name><set>FotW</set></card>
+		<card><name>Siege Tower</name><set>FotW</set></card>
+		<card><name>Siege Tower</name><set>FotW</set></card>
+		<card><name>The Black Serpent</name><set>FotW</set></card>
+		<card><name>War Mumak</name><set>FotW</set></card>
+		<card><name>War Mumak</name><set>FotW</set></card>
+		<card><name>Southron Champion</name><set>FotW</set></card>
+		<card><name>Southron Champion</name><set>FotW</set></card>
+		<card><name>Morgul Captain</name><set>FotW</set></card>
+		<card><name>Morgul Captain</name><set>FotW</set></card>
+		<card><name>Orc of the Eye</name><set>FotW</set></card>
+		<card><name>Orc of the Eye</name><set>FotW</set></card>
+		<card><name>Orc of the Eye</name><set>FotW</set></card>
+		<card><name>Mordor Orc</name><set>FotW</set></card>
+		<card><name>Mordor Orc</name><set>FotW</set></card>
+		<card><name>Mordor Orc</name><set>FotW</set></card>
+		<card><name>Mordor Orc</name><set>FotW</set></card>
+		<card><name>Mordor Orc</name><set>FotW</set></card>
+		<card><name>The Rammas is Breached</name><set>FotW</set></card>
+		<card><name>The Rammas is Breached</name><set>FotW</set></card>
+		<card><name>Fell Beast</name><set>FotW</set></card>
+		<card><name>Fell Beast</name><set>FotW</set></card>
+		<card><name>Black Dart</name><set>FotW</set></card>
+		<card><name>Black Dart</name><set>FotW</set></card>
+		<card><name>Spells of Ruin</name><set>FotW</set></card>
+		<card><name>Spells of Ruin</name><set>FotW</set></card>
+		<card><name>Dread and Despair</name><set>FotW</set></card>
+		<card><name>Dread and Despair</name><set>FotW</set></card>
+		<card><name>Shadow of Mordor</name><set>FotW</set></card>
+		<card><name>Shadow of Mordor</name><set>FotW</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Garrison of Gondor</name><set>FotW</set></card>
+		<card><name>Retreat from Osgiliath</name><set>FotW</set></card>
+		<card><name>The White City Besieged</name><set>FotW</set></card>
+		<card><name>Rohan has Come!</name><set>FotW</set></card>
+		<card><name>Fighting in the Fields</name><set>FotW</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Aragorn</name><set>FotW</set></card>
+		<card><name>Minas Tirith</name><set>FotW</set></card>
+		<card><name>Grond</name><set>FotW</set></card>
+		<card><name>The Witch-king</name><set>FotW</set></card>
+		<card><name>Wraith on Wings</name><set>FotW</set></card>
+		<card><name>Wraith on Wings</name><set>FotW</set></card>
+		<card><name>Wraith on Wings</name><set>FotW</set></card>
+		<card><name>Wraith on Wings</name><set>FotW</set></card>
+		<card><name>Pelennor Field</name><set>FotW</set></card>
+		<card><name>Esquire of Rohan</name><set>FotW</set></card>
+		<card><name>Esquire of Gondor</name><set>FotW</set></card>
+		<card><name>The Battle of the Pelennor Fields</name><set>FotW</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,58 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Great Warg Chief</name><set>TRD</set></card>
+		<card><name>Hound of Sauron</name><set>TRD</set></card>
+		<card><name>Hound of Sauron</name><set>TRD</set></card>
+		<card><name>Hound of Sauron</name><set>TRD</set></card>
+		<card><name>Hound of Sauron</name><set>TRD</set></card>
+		<card><name>Howling Warg</name><set>TRD</set></card>
+		<card><name>Howling Warg</name><set>TRD</set></card>
+		<card><name>Howling Warg</name><set>TRD</set></card>
+		<card><name>Howling Warg</name><set>TRD</set></card>
+		<card><name>Crebain from Dunland</name><set>TRD</set></card>
+		<card><name>Crebain from Dunland</name><set>TRD</set></card>
+		<card><name>Tree-crowned Hill</name><set>TRD</set></card>
+		<card><name>Hills of Hollin</name><set>TRD</set></card>
+		<card><name>Hills of Hollin</name><set>TRD</set></card>
+		<card><name>Hills of Hollin</name><set>TRD</set></card>
+		<card><name>Redhorn Foothills</name><set>TRD</set></card>
+		<card><name>Redhorn Foothills</name><set>TRD</set></card>
+		<card><name>Redhorn Foothills</name><set>TRD</set></card>
+		<card><name>Eregion</name><set>TRD</set></card>
+		<card><name>Eregion</name><set>TRD</set></card>
+		<card><name>Eregion</name><set>TRD</set></card>
+		<card><name>Regiments of Crows</name><set>TRD</set></card>
+		<card><name>Regiments of Crows</name><set>TRD</set></card>
+		<card><name>Snowdrifts</name><set>TRD</set></card>
+		<card><name>Snowdrifts</name><set>TRD</set></card>
+		<card><name>Bitter Cold</name><set>TRD</set></card>
+		<card><name>Bitter Cold</name><set>TRD</set></card>
+		<card><name>Storm of Howls</name><set>TRD</set></card>
+		<card><name>Storm of Howls</name><set>TRD</set></card>
+		<card><name>Storm of Howls</name><set>TRD</set></card>
+		<card><name>The One Ring</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Council of Elrond</name><set>TRD</set></card>
+		<card><name>The Nine Walkers</name><set>TRD</set></card>
+		<card><name>The Hunt is Up!</name><set>TRD</set></card>
+		<card><name>The Gates of Moria</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Lust for the Ring</name><set>TRD</set></card>
+		<card><name>Redhorn Pass</name><set>TRD</set></card>
+		<card><name>Doors of Durin</name><set>TRD</set></card>
+		<card><name>Watcher in the Water</name><set>TRD</set></card>
+	</superzone>
+</deck>

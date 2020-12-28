@@ -1,0 +1,62 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>The One Ring</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Uruk-hai Captain</name><set>TRD</set></card>
+		<card><name>Uruk-hai Captain</name><set>TRD</set></card>
+		<card><name>Uruk-hai Archer</name><set>TRD</set></card>
+		<card><name>Uruk-hai Archer</name><set>TRD</set></card>
+		<card><name>Uruk-hai Archer</name><set>TRD</set></card>
+		<card><name>Uruk-hai Archer</name><set>TRD</set></card>
+		<card><name>Uruk-hai Tracker</name><set>TRD</set></card>
+		<card><name>Uruk-hai Tracker</name><set>TRD</set></card>
+		<card><name>Uruk-hai Tracker</name><set>TRD</set></card>
+		<card><name>Uruk-hai Hunter</name><set>TRD</set></card>
+		<card><name>Uruk-hai Hunter</name><set>TRD</set></card>
+		<card><name>Uruk-hai Hunter</name><set>TRD</set></card>
+		<card><name>River Anduin</name><set>TRD</set></card>
+		<card><name>River Anduin</name><set>TRD</set></card>
+		<card><name>River Anduin</name><set>TRD</set></card>
+		<card><name>River Anduin</name><set>TRD</set></card>
+		<card><name>Wooded Shoreline</name><set>TRD</set></card>
+		<card><name>Wooded Shoreline</name><set>TRD</set></card>
+		<card><name>Wooded Shoreline</name><set>TRD</set></card>
+		<card><name>Slopes of Amon Hen</name><set>TRD</set></card>
+		<card><name>Slopes of Amon Hen</name><set>TRD</set></card>
+		<card><name>Slopes of Amon Hen</name><set>TRD</set></card>
+		<card><name>Growing Threat</name><set>TRD</set></card>
+		<card><name>Growing Threat</name><set>TRD</set></card>
+		<card><name>Orcs of the White Hand</name><set>TRD</set></card>
+		<card><name>Orcs of the White Hand</name><set>TRD</set></card>
+		<card><name>Black Feathered Arrows</name><set>TRD</set></card>
+		<card><name>Black Feathered Arrows</name><set>TRD</set></card>
+		<card><name>Black Feathered Arrows</name><set>TRD</set></card>
+		<card><name>Fallen into Evil</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Great River</name><set>TRD</set></card>
+		<card><name>The Company Divided</name><set>TRD</set></card>
+		<card><name>Searching the Woods</name><set>TRD</set></card>
+		<card><name>Guard the Hobbits</name><set>TRD</set></card>
+		<card><name>The Seat of Amon Hen</name><set>TRD</set></card>
+		<card><name>Orc Hunting</name><set>TRD</set></card>
+		<card><name>The Ring-bearer Sets Out</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Frodos Choice</name><set>TRD</set></card>
+		<card><name>Seat of Seeing</name><set>TRD</set></card>
+		<card><name>Parth Galen</name><set>TRD</set></card>
+		<card><name>The Argonath</name><set>TRD</set></card>
+		<card><name>Sarn Gebir</name><set>TRD</set></card>
+	</superzone>
+</deck>

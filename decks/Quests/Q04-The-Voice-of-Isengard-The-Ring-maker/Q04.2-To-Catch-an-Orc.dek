@@ -1,0 +1,58 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Methedras Orc</name><set>VoI</set></card>
+		<card><name>Methedras Orc</name><set>VoI</set></card>
+		<card><name>Methedras Orc</name><set>VoI</set></card>
+		<card><name>Methedras</name><set>VoI</set></card>
+		<card><name>Methedras</name><set>VoI</set></card>
+		<card><name>Methedras</name><set>VoI</set></card>
+		<card><name>Methedras</name><set>VoI</set></card>
+		<card><name>Orc Cave</name><set>VoI</set></card>
+		<card><name>Orc Cave</name><set>VoI</set></card>
+		<card><name>Orc Cave</name><set>VoI</set></card>
+		<card><name>Mugashs Lair</name><set>VoI</set></card>
+		<card><name>Mugashs Lair</name><set>VoI</set></card>
+		<card><name>Orc Territory</name><set>VoI</set></card>
+		<card><name>Orc Territory</name><set>VoI</set></card>
+		<card><name>Orc Skirmisher</name><set>VoI</set></card>
+		<card><name>Orc Skirmisher</name><set>VoI</set></card>
+		<card><name>Orc Skirmisher</name><set>VoI</set></card>
+		<card><name>Orc Hunter</name><set>VoI</set></card>
+		<card><name>Orc Hunter</name><set>VoI</set></card>
+		<card><name>Orc Hunter</name><set>VoI</set></card>
+		<card><name>Orc Hound</name><set>VoI</set></card>
+		<card><name>Orc Hound</name><set>VoI</set></card>
+		<card><name>Orc Hunting Party</name><set>VoI</set></card>
+		<card><name>Orc Hunting Party</name><set>VoI</set></card>
+		<card><name>Prowling Wolf</name><set>VoI</set></card>
+		<card><name>Prowling Wolf</name><set>VoI</set></card>
+		<card><name>Prowling Wolf</name><set>VoI</set></card>
+		<card><name>Broken Lands</name><set>VoI</set></card>
+		<card><name>Broken Lands</name><set>VoI</set></card>
+		<card><name>Broken Lands</name><set>VoI</set></card>
+		<card><name>Take Cover!</name><set>VoI</set></card>
+		<card><name>Take Cover!</name><set>VoI</set></card>
+		<card><name>Take Cover!</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Orders from Orthanc</name><set>VoI</set></card>
+		<card><name>Searching for Mugash</name><set>VoI</set></card>
+		<card><name>The Wizards Prize</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Mugash</name><set>VoI</set></card>
+		<card><name>Mugashs Guard</name><set>VoI</set></card>
+		<card><name>Mugashs Guard</name><set>VoI</set></card>
+		<card><name>Mugashs Guard</name><set>VoI</set></card>
+	</superzone>
+</deck>

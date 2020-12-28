@@ -1,0 +1,44 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>Wandering Took</name><set>Core</set></card>
+		<card><name>Wandering Took</name><set>Core</set></card>
+		<card><name>Lorien Guide</name><set>Core</set></card>
+		<card><name>Lorien Guide</name><set>Core</set></card>
+		<card><name>Lorien Guide</name><set>Core</set></card>
+		<card><name>Northern Tracker</name><set>Core</set></card>
+		<card><name>Northern Tracker</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>The Galadhrims Greeting</name><set>Core</set></card>
+		<card><name>The Galadhrims Greeting</name><set>Core</set></card>
+		<card><name>Strength of Will</name><set>Core</set></card>
+		<card><name>Strength of Will</name><set>Core</set></card>
+		<card><name>Hasty Stroke</name><set>Core</set></card>
+		<card><name>Hasty Stroke</name><set>Core</set></card>
+		<card><name>Will of the West</name><set>Core</set></card>
+		<card><name>Will of the West</name><set>Core</set></card>
+		<card><name>A Test of Will</name><set>Core</set></card>
+		<card><name>A Test of Will</name><set>Core</set></card>
+		<card><name>Stand and Fight</name><set>Core</set></card>
+		<card><name>Stand and Fight</name><set>Core</set></card>
+		<card><name>Stand and Fight</name><set>Core</set></card>
+		<card><name>A Light in the Dark</name><set>Core</set></card>
+		<card><name>A Light in the Dark</name><set>Core</set></card>
+		<card><name>Dwarven Tomb</name><set>Core</set></card>
+		<card><name>Fortune or Fate</name><set>Core</set></card>
+		<card><name>The Favor of the Lady</name><set>Core</set></card>
+		<card><name>The Favor of the Lady</name><set>Core</set></card>
+		<card><name>Power in the Earth</name><set>Core</set></card>
+		<card><name>Power in the Earth</name><set>Core</set></card>
+		<card><name>Unexpected Courage</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Eowyn</name><set>Core</set></card>
+		<card><name>Eleanor</name><set>Core</set></card>
+		<card><name>Dunhere</name><set>Core</set></card>
+	</superzone>
+</deck>

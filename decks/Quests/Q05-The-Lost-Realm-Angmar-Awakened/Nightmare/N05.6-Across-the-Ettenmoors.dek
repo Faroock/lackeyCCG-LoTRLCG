@@ -1,0 +1,76 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Coldfell Giant</name><set>AtE</set></card>
+		<card><name>Coldfell Giant</name><set>AtE</set></card>
+		<card><name>Cruel Mountain-troll</name><set>AtE</set></card>
+		<card><name>Cruel Mountain-troll</name><set>AtE</set></card>
+		<card><name>Ruthless Hill-troll</name><set>AtE</set></card>
+		<card><name>Ruthless Hill-troll</name><set>AtE</set></card>
+		<card><name>Barren Moorland</name><set>AtE</set></card>
+		<card><name>Barren Moorland</name><set>AtE</set></card>
+		<card><name>No Rest</name><set>AtE</set></card>
+		<card><name>Biting Wind</name><set>TLR</set></card>
+		<card><name>Biting Wind</name><set>TLR</set></card>
+		<card><name>Biting Wind</name><set>TLR</set></card>
+		<card><name>Freezing Blast</name><set>TLR</set></card>
+		<card><name>Freezing Blast</name><set>TLR</set></card>
+		<card><name>Cold from Angmar</name><set>TLR</set></card>
+		<card><name>Rugged Country</name><set>TLR</set></card>
+		<card><name>Rugged Country</name><set>TLR</set></card>
+		<card><name>Rugged Country</name><set>TLR</set></card>
+		<card><name>Pressing Needs</name><set>TLR</set></card>
+		<card><name>Pressing Needs</name><set>TLR</set></card>
+		<card><name>Weight of Responsibility</name><set>TLR</set></card>
+		<card><name>Weight of Responsibility</name><set>TLR</set></card>
+		<card><name>Hoarwell River Serpent</name><set>AtEN</set></card>
+		<card><name>Hoarwell River Serpent</name><set>AtEN</set></card>
+		<card><name>Scavenging Stone-troll</name><set>AtEN</set></card>
+		<card><name>Scavenging Stone-troll</name><set>AtEN</set></card>
+		<card><name>Giant Beetle</name><set>AtEN</set></card>
+		<card><name>Giant Beetle</name><set>AtEN</set></card>
+		<card><name>Rocky Foothills</name><set>AtEN</set></card>
+		<card><name>Rocky Foothills</name><set>AtEN</set></card>
+		<card><name>Vast Troll-fells</name><set>AtEN</set></card>
+		<card><name>Vast Troll-fells</name><set>AtEN</set></card>
+		<card><name>Crashing Thunder</name><set>AtEN</set></card>
+		<card><name>Crashing Thunder</name><set>AtEN</set></card>
+		<card><name>Crashing Thunder</name><set>AtEN</set></card>
+		<card><name>Barren and Desolate</name><set>AtEN</set></card>
+		<card><name>Barren and Desolate</name><set>AtEN</set></card>
+		<card><name>Barren and Desolate</name><set>AtEN</set></card>
+		<card><name>Savage Trollspawn</name><set>AtE</set></card>
+		<card><name>Savage Trollspawn</name><set>AtE</set></card>
+		<card><name>Savage Trollspawn</name><set>AtE</set></card>
+		<card><name>Savage Trollspawn</name><set>AtE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Across the Ettenmoors</name><set>AtEN</set></card>
+		<card><name>Into the Ettenmoors</name><set>AtEN</set></card>
+		<card><name>A Miserable Journey</name><set>AtE</set></card>
+		<card><name>Journeys End</name><set>AtE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Across the Ettenmoors</name><set>AtE</set></card>
+		<card><name>Amarthiul</name><set>AtE</set></card>
+		<card><name>Isolated</name><set>AtEN</set></card>
+		<card><name>Lie Low</name><set>AtE</set></card>
+		<card><name>Forage for Food</name><set>AtE</set></card>
+		<card><name>Scavenge for Supplies</name><set>AtE</set></card>
+		<card><name>Make Camp</name><set>TLR</set></card>
+		<card><name>Lost in the Wilderness</name><set>TLR</set></card>
+		<card><name>Secluded Cave</name><set>AtE</set></card>
+		<card><name>The Hoarwell</name><set>AtE</set></card>
+		<card><name>Abandoned Camp</name><set>AtE</set></card>
+		<card><name>Patch of Woods</name><set>AtE</set></card>
+	</superzone>
+</deck>

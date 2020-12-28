@@ -1,0 +1,68 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Ancient Barrow</name><set>FotBd</set></card>
+		<card><name>Ancient Barrow</name><set>FotBd</set></card>
+		<card><name>Ancient Barrow</name><set>FotBd</set></card>
+		<card><name>Stone Ring</name><set>FotBd</set></card>
+		<card><name>Stone Ring</name><set>FotBd</set></card>
+		<card><name>Stone Ring</name><set>FotBd</set></card>
+		<card><name>Stone Ring</name><set>FotBd</set></card>
+		<card><name>North Downs</name><set>FotBd</set></card>
+		<card><name>North Downs</name><set>FotBd</set></card>
+		<card><name>North Downs</name><set>FotBd</set></card>
+		<card><name>North Downs</name><set>FotBd</set></card>
+		<card><name>Barrow-wight</name><set>FotBd</set></card>
+		<card><name>Barrow-wight</name><set>FotBd</set></card>
+		<card><name>Barrow-wight</name><set>FotBd</set></card>
+		<card><name>Barrow-wight</name><set>FotBd</set></card>
+		<card><name>Cold-wight</name><set>FotBd</set></card>
+		<card><name>Cold-wight</name><set>FotBd</set></card>
+		<card><name>Cold-wight</name><set>FotBd</set></card>
+		<card><name>Dark-wight</name><set>FotBd</set></card>
+		<card><name>Dark-wight</name><set>FotBd</set></card>
+		<card><name>Dark-wight</name><set>FotBd</set></card>
+		<card><name>Im Waiting for You!</name><set>FotBd</set></card>
+		<card><name>Im Waiting for You!</name><set>FotBd</set></card>
+		<card><name>Long Groping Arm</name><set>FotBd</set></card>
+		<card><name>Long Groping Arm</name><set>FotBd</set></card>
+		<card><name>Long Groping Arm</name><set>FotBd</set></card>
+		<card><name>Chill Fog</name><set>FotBd</set></card>
+		<card><name>Chill Fog</name><set>FotBd</set></card>
+		<card><name>Frozen by Fear</name><set>FotBd</set></card>
+		<card><name>Frozen by Fear</name><set>FotBd</set></card>
+		<card><name>Frozen by Fear</name><set>FotBd</set></card>
+		<card><name>Dreadful Song</name><set>FotBd</set></card>
+		<card><name>Dreadful Song</name><set>FotBd</set></card>
+		<card><name>Tom Bombadil</name><set>FotBd</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The House of Tom Bombadil</name><set>FotBd</set></card>
+		<card><name>Across the Downs</name><set>FotBd</set></card>
+		<card><name>Lost in the Fog</name><set>FotBd</set></card>
+		<card><name>Trapped Inside a Barrow</name><set>FotBd</set></card>
+		<card><name>Trapped Inside a Barrow</name><set>FotBd</set></card>
+		<card><name>Trapped Inside a Barrow</name><set>FotBd</set></card>
+		<card><name>Trapped Inside a Barrow</name><set>FotBd</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Hollow Circle</name><set>FotBd</set></card>
+		<card><name>Standing Stones</name><set>FotBd</set></card>
+		<card><name>Great Barrow</name><set>FotBd</set></card>
+		<card><name>Great Barrow</name><set>FotBd</set></card>
+		<card><name>Great Barrow</name><set>FotBd</set></card>
+		<card><name>Great Barrow</name><set>FotBd</set></card>
+		<card><name>Great Barrow</name><set>FotBd</set></card>
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>Frodo Baggins</name><set>TBR</set></card>
+	</superzone>
+</deck>

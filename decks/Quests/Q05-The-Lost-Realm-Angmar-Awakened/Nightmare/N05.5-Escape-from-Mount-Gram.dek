@@ -1,0 +1,69 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Cruel Torturer</name><set>EfMG</set></card>
+		<card><name>Goblin Tormentor</name><set>EfMG</set></card>
+		<card><name>Patrol Room</name><set>EfMG</set></card>
+		<card><name>Patrol Room</name><set>EfMG</set></card>
+		<card><name>Tunnels of Mount Gram</name><set>EfMG</set></card>
+		<card><name>Tunnels of Mount Gram</name><set>EfMG</set></card>
+		<card><name>Sound the Alarm!</name><set>EfMG</set></card>
+		<card><name>Sound the Alarm!</name><set>EfMG</set></card>
+		<card><name>Feeble and Weary</name><set>EfMG</set></card>
+		<card><name>Feeble and Weary</name><set>EfMG</set></card>
+		<card><name>Captives of Gornakh</name><set>EfMG</set></card>
+		<card><name>Captives of Gornakh</name><set>EfMG</set></card>
+		<card><name>Stop the Executioners!</name><set>EfMG</set></card>
+		<card><name>Prison Guard</name><set>EfMGN</set></card>
+		<card><name>Prison Guard</name><set>EfMGN</set></card>
+		<card><name>Prison Guard</name><set>EfMGN</set></card>
+		<card><name>Torture Chamber</name><set>EfMGN</set></card>
+		<card><name>Torture Chamber</name><set>EfMGN</set></card>
+		<card><name>Cruel Torment</name><set>EfMGN</set></card>
+		<card><name>Cruel Torment</name><set>EfMGN</set></card>
+		<card><name>Cruel Torment</name><set>EfMGN</set></card>
+		<card><name>Goblin Patrol</name><set>EfMGN</set></card>
+		<card><name>Goblin Patrol</name><set>EfMGN</set></card>
+		<card><name>Raid Golfimbuls Vault</name><set>EfMGN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Escape from Mount Gram</name><set>EfMGN</set></card>
+		<card><name>Unexpected Rescue</name><set>EfMG</set></card>
+		<card><name>Gornakhs Dungeons</name><set>EfMG</set></card>
+		<card><name>Gornakhs Dungeons</name><set>EfMG</set></card>
+		<card><name>Gornakhs Dungeons</name><set>EfMG</set></card>
+		<card><name>Gornakhs Dungeons</name><set>EfMG</set></card>
+		<card><name>Flight from Mount Gram</name><set>EfMG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Marauder</name><set>TLR</set></card>
+		<card><name>Angmar Marauder</name><set>TLR</set></card>
+		<card><name>Angmar Marauder</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Orc Ambush</name><set>TLR</set></card>
+		<card><name>Orc of Thaurdir</name><set>EfMGN</set></card>
+		<card><name>Orc of Thaurdir</name><set>EfMGN</set></card>
+		<card><name>Orc of Thaurdir</name><set>EfMGN</set></card>
+		<card><name>Escape from Mount Gram</name><set>EfMG</set></card>
+		<card><name>Escape from Mount Gram</name><set>EfMG</set></card>
+		<card><name>Jailor Gornakh</name><set>EfMGN</set></card>
+		<card><name>Southern Gate</name><set>EfMG</set></card>
+		<card><name>Prison Cell</name><set>EfMGN</set></card>
+		<card><name>Prison Cell</name><set>EfMGN</set></card>
+		<card><name>Prison Cell</name><set>EfMGN</set></card>
+		<card><name>Prison Cell</name><set>EfMGN</set></card>
+	</superzone>
+</deck>

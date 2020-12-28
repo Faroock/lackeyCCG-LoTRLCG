@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>The Enemy is Upon Us!</name><set>TBR</set></card>
+		<card><name>The Enemy is Upon Us!</name><set>TBR</set></card>
+		<card><name>The Nine are Abroad</name><set>TBR</set></card>
+		<card><name>The Nine are Abroad</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Trollshaw Forest</name><set>FttFN</set></card>
+		<card><name>Trollshaw Forest</name><set>FttFN</set></card>
+		<card><name>Trollshaw Forest</name><set>FttFN</set></card>
+		<card><name>Great East Road</name><set>FttFN</set></card>
+		<card><name>Great East Road</name><set>FttFN</set></card>
+		<card><name>Great East Road</name><set>FttFN</set></card>
+		<card><name>Pathless Wilderness</name><set>FttFN</set></card>
+		<card><name>Pathless Wilderness</name><set>FttFN</set></card>
+		<card><name>Ettendales</name><set>FttFN</set></card>
+		<card><name>Ettendales</name><set>FttFN</set></card>
+		<card><name>Come Back!</name><set>FttFN</set></card>
+		<card><name>Come Back!</name><set>FttFN</set></card>
+		<card><name>The Twilight World</name><set>FttFN</set></card>
+		<card><name>The Twilight World</name><set>FttFN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Flight to the Ford</name><set>FttFN</set></card>
+		<card><name>Flight to the Ford</name><set>TBR</set></card>
+		<card><name>Pursued by the Enemy</name><set>TBR</set></card>
+		<card><name>Race To Rivendell</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Overcome by Terror</name><set>TBR</set></card>
+		<card><name>Fear of Discovery</name><set>TBR</set></card>
+		<card><name>Eaten Alive!</name><set>TBR</set></card>
+		<card><name>Panicked</name><set>TBR</set></card>
+		<card><name>Weight of the Ring</name><set>TBR</set></card>
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>An Evil Wound</name><set>TBR</set></card>
+		<card><name>Ford of Bruinen</name><set>FttFN</set></card>
+		<card><name>The Witch-king</name><set>TBR</set></card>
+		<card><name>The Last Bridge</name><set>TBR</set></card>
+		<card><name>Fell Rider</name><set>FttFN</set></card>
+		<card><name>Fell Rider</name><set>FttFN</set></card>
+		<card><name>Fell Rider</name><set>FttFN</set></card>
+		<card><name>Fell Rider</name><set>FttFN</set></card>
+	</superzone>
+</deck>

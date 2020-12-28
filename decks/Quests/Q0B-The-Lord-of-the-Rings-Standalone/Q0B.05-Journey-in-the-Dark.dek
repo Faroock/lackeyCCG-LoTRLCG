@@ -1,0 +1,61 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>The One Ring</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Orc-chieftan</name><set>TRD</set></card>
+		<card><name>Great Cave-troll</name><set>TRD</set></card>
+		<card><name>Great Cave-troll</name><set>TRD</set></card>
+		<card><name>Uruk from Mordor</name><set>TRD</set></card>
+		<card><name>Uruk from Mordor</name><set>TRD</set></card>
+		<card><name>Uruk from Mordor</name><set>TRD</set></card>
+		<card><name>Moria Orc</name><set>TRD</set></card>
+		<card><name>Moria Orc</name><set>TRD</set></card>
+		<card><name>Moria Orc</name><set>TRD</set></card>
+		<card><name>Moria Archer</name><set>TRD</set></card>
+		<card><name>Moria Archer</name><set>TRD</set></card>
+		<card><name>Moria Archer</name><set>TRD</set></card>
+		<card><name>Mines of Moria</name><set>TRD</set></card>
+		<card><name>Mines of Moria</name><set>TRD</set></card>
+		<card><name>Mines of Moria</name><set>TRD</set></card>
+		<card><name>Mines of Moria</name><set>TRD</set></card>
+		<card><name>Many-pillard Hall</name><set>TRD</set></card>
+		<card><name>Many-pillard Hall</name><set>TRD</set></card>
+		<card><name>Many-pillard Hall</name><set>TRD</set></card>
+		<card><name>Many-pillard Hall</name><set>TRD</set></card>
+		<card><name>Darkened Stairway</name><set>TRD</set></card>
+		<card><name>Darkened Stairway</name><set>TRD</set></card>
+		<card><name>Ancient Guardroom</name><set>TRD</set></card>
+		<card><name>Ancient Guardroom</name><set>TRD</set></card>
+		<card><name>They Are Coming!</name><set>TRD</set></card>
+		<card><name>They Are Coming!</name><set>TRD</set></card>
+		<card><name>We Cannot Get Out</name><set>TRD</set></card>
+		<card><name>We Cannot Get Out</name><set>TRD</set></card>
+		<card><name>We Cannot Get Out</name><set>TRD</set></card>
+		<card><name>Deep Fissure</name><set>TRD</set></card>
+		<card><name>Deep Fissure</name><set>TRD</set></card>
+		<card><name>Deep Fissure</name><set>TRD</set></card>
+		<card><name>Fool of a Took!</name><set>TRD</set></card>
+		<card><name>Fool of a Took!</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Long Dark of Moria</name><set>TRD</set></card>
+		<card><name>Drums in the Deep</name><set>TRD</set></card>
+		<card><name>The Bridge of Kazad-dum</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Balrog</name><set>TRD</set></card>
+		<card><name>The Great Bridge</name><set>TRD</set></card>
+		<card><name>Chamber of Mazarbul</name><set>TRD</set></card>
+		<card><name>Doom Doom Doom</name><set>TRD</set></card>
+	</superzone>
+</deck>

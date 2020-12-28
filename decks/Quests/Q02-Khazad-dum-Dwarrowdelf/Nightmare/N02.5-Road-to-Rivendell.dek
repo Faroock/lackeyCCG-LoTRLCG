@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Crebain</name><set>RtR</set></card>
+		<card><name>Crebain</name><set>RtR</set></card>
+		<card><name>Crebain</name><set>RtR</set></card>
+		<card><name>Followed by Night</name><set>RtR</set></card>
+		<card><name>Followed by Night</name><set>RtR</set></card>
+		<card><name>Followed by Night</name><set>RtR</set></card>
+		<card><name>Goblin Gate</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Orc Ambush</name><set>RtR</set></card>
+		<card><name>Orc Ambush</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Pathless Country</name><set>RtR</set></card>
+		<card><name>Pathless Country</name><set>RtR</set></card>
+		<card><name>Pathless Country</name><set>RtR</set></card>
+		<card><name>Sleeping Sentry</name><set>RtR</set></card>
+		<card><name>Sleeping Sentry</name><set>RtR</set></card>
+		<card><name>Wild Bear</name><set>RtR</set></card>
+		<card><name>Wild Bear</name><set>RtR</set></card>
+		<card><name>Wild Bear</name><set>RtR</set></card>
+		<card><name>Chieftain of the Pit</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Knees of the Mountain</name><set>KD</set></card>
+		<card><name>Turbulent Waters</name><set>KD</set></card>
+		<card><name>Turbulent Waters</name><set>KD</set></card>
+		<card><name>Uruk Elf-Stalker</name><set>RtRN</set></card>
+		<card><name>Uruk Elf-Stalker</name><set>RtRN</set></card>
+		<card><name>Uruk Elf-Stalker</name><set>RtRN</set></card>
+		<card><name>Goblin Trapper</name><set>RtRN</set></card>
+		<card><name>Goblin Trapper</name><set>RtRN</set></card>
+		<card><name>Goblin Trapper</name><set>RtRN</set></card>
+		<card><name>Raiding Party</name><set>RtRN</set></card>
+		<card><name>Raiding Party</name><set>RtRN</set></card>
+		<card><name>Vicious Trackers</name><set>RtRN</set></card>
+		<card><name>Vicious Trackers</name><set>RtRN</set></card>
+		<card><name>Treacherous Bluffs</name><set>RtRN</set></card>
+		<card><name>Treacherous Bluffs</name><set>RtRN</set></card>
+		<card><name>Treacherous Bluffs</name><set>RtRN</set></card>
+		<card><name>Concealed Woods</name><set>RtRN</set></card>
+		<card><name>Concealed Woods</name><set>RtRN</set></card>
+		<card><name>Concealed Woods</name><set>RtRN</set></card>
+		<card><name>Tumultuous Assault</name><set>RtRN</set></card>
+		<card><name>Tumultuous Assault</name><set>RtRN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Road to Rivendell</name><set>RtRN</set></card>
+		<card><name>Along the Misty Mountains</name><set>RtR</set></card>
+		<card><name>Ambush in the Night</name><set>RtRN</set></card>
+		<card><name>Approaching Rivendell</name><set>RtR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Arwen Undomiel</name><set>RtR</set></card>
+	</superzone>
+</deck>

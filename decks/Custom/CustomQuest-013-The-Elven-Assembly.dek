@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Nazgul of Dol Guldur</name><set>Core</set></card>
+		<card><name>Cavern Guardian</name><set>Core</set></card>
+		<card><name>Cavern Guardian</name><set>Core</set></card>
+		<card><name>Under the Shadow</name><set>Core</set></card>
+		<card><name>Under the Shadow</name><set>Core</set></card>
+		<card><name>Iron Shackles</name><set>Core</set></card>
+		<card><name>Endless Caverns</name><set>Core</set></card>
+		<card><name>Endless Caverns</name><set>Core</set></card>
+		<card><name>Tower Gate</name><set>Core</set></card>
+		<card><name>Tower Gate</name><set>Core</set></card>
+		<card><name>Gandalfs Map</name><set>Core</set></card>
+		<card><name>Dungeon Torch</name><set>Core</set></card>
+		<card><name>Shadow Key</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Massing at Night</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

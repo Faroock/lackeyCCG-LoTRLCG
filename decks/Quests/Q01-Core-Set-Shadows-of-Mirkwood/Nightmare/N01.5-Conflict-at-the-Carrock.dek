@@ -1,0 +1,65 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>A Frightened Beast</name><set>CatC</set></card>
+		<card><name>A Frightened Beast</name><set>CatC</set></card>
+		<card><name>A Frightened Beast</name><set>CatC</set></card>
+		<card><name>Muck Adder</name><set>CatC</set></card>
+		<card><name>Muck Adder</name><set>CatC</set></card>
+		<card><name>Muck Adder</name><set>CatC</set></card>
+		<card><name>Muck Adder</name><set>CatC</set></card>
+		<card><name>River Langflood</name><set>CatC</set></card>
+		<card><name>River Langflood</name><set>CatC</set></card>
+		<card><name>River Langflood</name><set>CatC</set></card>
+		<card><name>River Langflood</name><set>CatC</set></card>
+		<card><name>Roasted Slowly</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Massing at Night</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Time for Supper</name><set>CatCN</set></card>
+		<card><name>Time for Supper</name><set>CatCN</set></card>
+		<card><name>Time for Supper</name><set>CatCN</set></card>
+		<card><name>Troll Lair</name><set>CatCN</set></card>
+		<card><name>Troll Lair</name><set>CatCN</set></card>
+		<card><name>Troll Lair</name><set>CatCN</set></card>
+		<card><name>Hives and Hives</name><set>CatCN</set></card>
+		<card><name>Hives and Hives</name><set>CatCN</set></card>
+		<card><name>Hives and Hives</name><set>CatCN</set></card>
+		<card><name>Savage Hill-troll</name><set>CatCN</set></card>
+		<card><name>Savage Hill-troll</name><set>CatCN</set></card>
+		<card><name>Savage Hill-troll</name><set>CatCN</set></card>
+		<card><name>Savage Hill-troll</name><set>CatCN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Conflict at the Carrock</name><set>CatCN</set></card>
+		<card><name>Grimbeorns Quest</name><set>CatC</set></card>
+		<card><name>Against the Trolls</name><set>CatC</set></card>
+		<card><name>Grimbeorns Folly</name><set>CatCN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Carrock</name><set>CatC</set></card>
+		<card><name>Rob & Bob</name><set>CatCN</set></card>
+		<card><name>Louis</name><set>CatCN</set></card>
+		<card><name>Morris</name><set>CatCN</set></card>
+		<card><name>Rupert</name><set>CatCN</set></card>
+		<card><name>Stuart</name><set>CatCN</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+	</superzone>
+</deck>

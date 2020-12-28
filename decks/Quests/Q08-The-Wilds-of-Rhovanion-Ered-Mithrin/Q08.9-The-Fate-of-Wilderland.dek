@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Goblin Troop</name><set>TWoR</set></card>
+		<card><name>Goblin Troop</name><set>TWoR</set></card>
+		<card><name>Stray Goblin</name><set>TWoR</set></card>
+		<card><name>Stray Goblin</name><set>TWoR</set></card>
+		<card><name>Stray Goblin</name><set>TWoR</set></card>
+		<card><name>Pack of Wargs</name><set>TWoR</set></card>
+		<card><name>Pack of Wargs</name><set>TWoR</set></card>
+		<card><name>Hills of Wilderland</name><set>TWoR</set></card>
+		<card><name>Hills of Wilderland</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Gathering Gloom</name><set>TWoR</set></card>
+		<card><name>Gathering Gloom</name><set>TWoR</set></card>
+		<card><name>Swarms of Bats</name><set>TWoR</set></card>
+		<card><name>Swarms of Bats</name><set>TWoR</set></card>
+		<card><name>Swarms of Bats</name><set>TWoR</set></card>
+		<card><name>Urdugs Elite</name><set>TFoW</set></card>
+		<card><name>Urdugs Elite</name><set>TFoW</set></card>
+		<card><name>Urdugs Elite</name><set>TFoW</set></card>
+		<card><name>Fierce Vanguard</name><set>TFoW</set></card>
+		<card><name>Fierce Vanguard</name><set>TFoW</set></card>
+		<card><name>Fierce Vanguard</name><set>TFoW</set></card>
+		<card><name>Warg-rider</name><set>TFoW</set></card>
+		<card><name>Warg-rider</name><set>TFoW</set></card>
+		<card><name>Gate of Gundabad</name><set>TFoW</set></card>
+		<card><name>Hilltop Battlements</name><set>TFoW</set></card>
+		<card><name>Hilltop Battlements</name><set>TFoW</set></card>
+		<card><name>Hilltop Battlements</name><set>TFoW</set></card>
+		<card><name>Dwarven Watchtower</name><set>TFoW</set></card>
+		<card><name>Dwarven Watchtower</name><set>TFoW</set></card>
+		<card><name>Dwarven Watchtower</name><set>TFoW</set></card>
+		<card><name>Slopes of Gundabad</name><set>TFoW</set></card>
+		<card><name>Slopes of Gundabad</name><set>TFoW</set></card>
+		<card><name>Slopes of Gundabad</name><set>TFoW</set></card>
+		<card><name>Fierce Attack</name><set>TFoW</set></card>
+		<card><name>Fierce Attack</name><set>TFoW</set></card>
+		<card><name>Fierce Attack</name><set>TFoW</set></card>
+		<card><name>Urdugs Command</name><set>TFoW</set></card>
+		<card><name>Urdugs Command</name><set>TFoW</set></card>
+		<card><name>Urdugs Command</name><set>TFoW</set></card>
+		<card><name>Dark Clouds</name><set>TFoW</set></card>
+		<card><name>Dark Clouds</name><set>TFoW</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Urdugs Assault</name><set>TFoW</set></card>
+		<card><name>Outflanked</name><set>TFoW</set></card>
+		<card><name>The Final Push</name><set>TFoW</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Heroes Defense</name><set>TFoW</set></card>
+		<card><name>The Goblins Assault</name><set>TFoW</set></card>
+		<card><name>Urdug</name><set>TFoW</set></card>
+	</superzone>
+</deck>

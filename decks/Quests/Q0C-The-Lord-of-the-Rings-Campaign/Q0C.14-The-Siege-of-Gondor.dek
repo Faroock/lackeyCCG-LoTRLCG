@@ -1,0 +1,54 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Umbar War Galley</name><set>FotW</set></card>
+		<card><name>Umbar War Galley</name><set>FotW</set></card>
+		<card><name>Umbar War Galley</name><set>FotW</set></card>
+		<card><name>Corsair Dromon</name><set>FotW</set></card>
+		<card><name>Corsair Dromon</name><set>FotW</set></card>
+		<card><name>Corsair Dromon</name><set>FotW</set></card>
+		<card><name>Port of Pelargir</name><set>FotW</set></card>
+		<card><name>Port of Pelargir</name><set>FotW</set></card>
+		<card><name>Port of Pelargir</name><set>FotW</set></card>
+		<card><name>Pelargir Quays</name><set>FotW</set></card>
+		<card><name>Pelargir Quays</name><set>FotW</set></card>
+		<card><name>Corsair Captain</name><set>FotW</set></card>
+		<card><name>Corsair Captain</name><set>FotW</set></card>
+		<card><name>Corsair of Umbar</name><set>FotW</set></card>
+		<card><name>Corsair of Umbar</name><set>FotW</set></card>
+		<card><name>Corsair of Umbar</name><set>FotW</set></card>
+		<card><name>Umbar Pirate Crew</name><set>FotW</set></card>
+		<card><name>Umbar Pirate Crew</name><set>FotW</set></card>
+		<card><name>Haradrim Pirate</name><set>FotW</set></card>
+		<card><name>Haradrim Pirate</name><set>FotW</set></card>
+		<card><name>Haradrim Pirate</name><set>FotW</set></card>
+		<card><name>Fell Folk of Umbar</name><set>FotW</set></card>
+		<card><name>Fell Folk of Umbar</name><set>FotW</set></card>
+		<card><name>Black Sails</name><set>FotW</set></card>
+		<card><name>Black Sails</name><set>FotW</set></card>
+		<card><name>Raiding the Coasts</name><set>FotW</set></card>
+		<card><name>Raiding the Coasts</name><set>FotW</set></card>
+		<card><name>Raiding the Coasts</name><set>FotW</set></card>
+		<card><name>Driven to the Brink</name><set>FotW</set></card>
+		<card><name>Driven to the Brink</name><set>FotW</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Siege of Gondor</name><set>FotW</set></card>
+		<card><name>Attack on Pelargir</name><set>FotW</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Aragorn</name><set>FotW</set></card>
+		<card><name>The Corsair Fleet</name><set>FotW</set></card>
+		<card><name>Great Corsair Ship</name><set>FotW</set></card>
+		<card><name>The Siege of Gondor</name><set>FotW</set></card>
+	</superzone>
+</deck>

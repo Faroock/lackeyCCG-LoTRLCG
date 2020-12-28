@@ -1,0 +1,89 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Overgrown Path</name><set>TWoR</set></card>
+		<card><name>Abadoned Village</name><set>TWoR</set></card>
+		<card><name>Bare Hilltop</name><set>TWoR</set></card>
+		<card><name>Forest Clearing</name><set>TWoR</set></card>
+		<card><name>Twilight Hall</name><set>TWoR</set></card>
+		<card><name>Twilight Hall</name><set>TWoR</set></card>
+		<card><name>Twilight Hall</name><set>TWoR</set></card>
+		<card><name>Mirkwood Patrol</name><set>TWoR</set></card>
+		<card><name>Mirkwood Patrol</name><set>TWoR</set></card>
+		<card><name>Ravenous Spider</name><set>TWoR</set></card>
+		<card><name>Ravenous Spider</name><set>TWoR</set></card>
+		<card><name>Unseen Danger</name><set>TWoR</set></card>
+		<card><name>Unseen Danger</name><set>TWoR</set></card>
+		<card><name>Vastness of Mirkwood</name><set>TWoR</set></card>
+		<card><name>Vastness of Mirkwood</name><set>TWoR</set></card>
+		<card><name>Vastness of Mirkwood</name><set>TWoR</set></card>
+		<card><name>Accursed Forest</name><set>TWoR</set></card>
+		<card><name>Accursed Forest</name><set>TWoR</set></card>
+		<card><name>Dark Black Woods</name><set>TWoR</set></card>
+		<card><name>Dark Black Woods</name><set>TWoR</set></card>
+		<card><name>Dark Black Woods</name><set>TWoR</set></card>
+		<card><name>Gathering Gloom</name><set>TWoR</set></card>
+		<card><name>Gathering Gloom</name><set>TWoR</set></card>
+		<card><name>Swarms of Bats</name><set>TWoR</set></card>
+		<card><name>Swarms of Bats</name><set>TWoR</set></card>
+		<card><name>Swarms of Bats</name><set>TWoR</set></card>
+		<card><name>East Bight Patrol</name><set>Core</set></card>
+		<card><name>Black Forest Bats</name><set>Core</set></card>
+		<card><name>Old Forest Road</name><set>Core</set></card>
+		<card><name>Old Forest Road</name><set>Core</set></card>
+		<card><name>Forest Gate</name><set>Core</set></card>
+		<card><name>Forest Gate</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Ambushed at Night</name><set>TWoR</set></card>
+		<card><name>Spiders of Mirkwood</name><set>TWoR</set></card>
+		<card><name>Dol Guldur Orcs</name><set>TWoR</set></card>
+		<card><name>Carried Away</name><set>TWoR</set></card>
+		<card><name>Truly Lost</name><set>TWoR</set></card>
+		<card><name>The Forest of Great Fear</name><set>TWoR</set></card>
+		<card><name>Escape from Taur-nu-Fuin</name><set>TWoR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>Hummerhorns</name><set>Core</set></card>
+		<card><name>Ungoliants Spawn</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Eyes of the Forest</name><set>Core</set></card>
+		<card><name>Caught in a Web</name><set>Core</set></card>
+		<card><name>Caught in a Web</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Searching for a Way Out</name><set>TWoR</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Woodman Village</name><set>TWoR</set></card>
+	</superzone>
+</deck>

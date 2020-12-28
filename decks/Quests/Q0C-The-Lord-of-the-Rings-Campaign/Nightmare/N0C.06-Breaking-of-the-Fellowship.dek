@@ -1,0 +1,80 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>The One Ring</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Frodo Baggins</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Uruk-hai Captain</name><set>TRD</set></card>
+		<card><name>Uruk-hai Captain</name><set>TRD</set></card>
+		<card><name>Uruk-hai Tracker</name><set>TRD</set></card>
+		<card><name>Uruk-hai Tracker</name><set>TRD</set></card>
+		<card><name>Uruk-hai Tracker</name><set>TRD</set></card>
+		<card><name>Uruk-hai Hunter</name><set>TRD</set></card>
+		<card><name>Uruk-hai Hunter</name><set>TRD</set></card>
+		<card><name>Uruk-hai Hunter</name><set>TRD</set></card>
+		<card><name>River Anduin</name><set>TRD</set></card>
+		<card><name>River Anduin</name><set>TRD</set></card>
+		<card><name>Wooded Shoreline</name><set>TRD</set></card>
+		<card><name>Wooded Shoreline</name><set>TRD</set></card>
+		<card><name>Wooded Shoreline</name><set>TRD</set></card>
+		<card><name>Slopes of Amon Hen</name><set>TRD</set></card>
+		<card><name>Slopes of Amon Hen</name><set>TRD</set></card>
+		<card><name>Growing Threat</name><set>TRD</set></card>
+		<card><name>Growing Threat</name><set>TRD</set></card>
+		<card><name>Orcs of the White Hand</name><set>TRD</set></card>
+		<card><name>Orcs of the White Hand</name><set>TRD</set></card>
+		<card><name>Black Feathered Arrows</name><set>TRD</set></card>
+		<card><name>Fallen into Evil</name><set>TRD</set></card>
+		<card><name>Followed by Night</name><set>TRD</set></card>
+		<card><name>Ill Fate</name><set>TRD</set></card>
+		<card><name>Isengard Archer</name><set>BotFN</set></card>
+		<card><name>Isengard Archer</name><set>BotFN</set></card>
+		<card><name>Isengard Archer</name><set>BotFN</set></card>
+		<card><name>Isengard Tracker</name><set>BotFN</set></card>
+		<card><name>Isengard Tracker</name><set>BotFN</set></card>
+		<card><name>Isengard Tracker</name><set>BotFN</set></card>
+		<card><name>Isengard Tracker</name><set>BotFN</set></card>
+		<card><name>Langflood River</name><set>BotFN</set></card>
+		<card><name>Langflood River</name><set>BotFN</set></card>
+		<card><name>Langflood River</name><set>BotFN</set></card>
+		<card><name>Western Emyn Muil</name><set>BotFN</set></card>
+		<card><name>Western Emyn Muil</name><set>BotFN</set></card>
+		<card><name>Western Emyn Muil</name><set>BotFN</set></card>
+		<card><name>Arrows in the Night</name><set>BotFN</set></card>
+		<card><name>Arrows in the Night</name><set>BotFN</set></card>
+		<card><name>Hunting the Ring</name><set>BotFN</set></card>
+		<card><name>Hunting the Ring</name><set>BotFN</set></card>
+		<card><name>Discord and Distrust</name><set>BotFN</set></card>
+		<card><name>Discord and Distrust</name><set>BotFN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Breaking of the Fellowship</name><set>BotFN</set></card>
+		<card><name>Breaking of the Fellowship</name><set>TRD</set></card>
+		<card><name>The Great River</name><set>TRD</set></card>
+		<card><name>The Company Divided</name><set>TRD</set></card>
+		<card><name>Searching the Woods</name><set>TRD</set></card>
+		<card><name>Guard the Hobbits</name><set>TRD</set></card>
+		<card><name>The Seat of Amon Hen</name><set>TRD</set></card>
+		<card><name>Orc Hunting</name><set>TRD</set></card>
+		<card><name>The Ring-bearer Sets Out</name><set>TRD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Frodos Choice</name><set>TRD</set></card>
+		<card><name>Seat of Seeing</name><set>TRD</set></card>
+		<card><name>Parth Galen</name><set>TRD</set></card>
+		<card><name>Lorien Rope</name><set>TRD</set></card>
+		<card><name>Leaf-wrapped Lembas</name><set>TRD</set></card>
+		<card><name>Phial of Galadriel</name><set>TRD</set></card>
+		<card><name>Three Golden Hairs</name><set>TRD</set></card>
+		<card><name>The Argonath</name><set>TRD</set></card>
+		<card><name>Sarn Gebir</name><set>TRD</set></card>
+	</superzone>
+</deck>

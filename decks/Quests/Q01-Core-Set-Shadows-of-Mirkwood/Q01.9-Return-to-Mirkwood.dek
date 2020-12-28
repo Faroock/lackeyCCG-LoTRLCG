@@ -1,0 +1,76 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Attercop Attercop</name><set>RtM</set></card>
+		<card><name>Attercop Attercop</name><set>RtM</set></card>
+		<card><name>Attercop Attercop</name><set>RtM</set></card>
+		<card><name>Dry Watercourse</name><set>RtM</set></card>
+		<card><name>Dry Watercourse</name><set>RtM</set></card>
+		<card><name>Dry Watercourse</name><set>RtM</set></card>
+		<card><name>Gollums Anguish</name><set>RtM</set></card>
+		<card><name>Gollums Anguish</name><set>RtM</set></card>
+		<card><name>Gollums Bite</name><set>RtM</set></card>
+		<card><name>Gollums Bite</name><set>RtM</set></card>
+		<card><name>Mirkwood Bats</name><set>RtM</set></card>
+		<card><name>Mirkwood Bats</name><set>RtM</set></card>
+		<card><name>Mirkwood Bats</name><set>RtM</set></card>
+		<card><name>Mirkwood Bats</name><set>RtM</set></card>
+		<card><name>The Spiders Ring</name><set>RtM</set></card>
+		<card><name>The Spiders Ring</name><set>RtM</set></card>
+		<card><name>The Spiders Ring</name><set>RtM</set></card>
+		<card><name>The Spiders Ring</name><set>RtM</set></card>
+		<card><name>Wasted Provisions</name><set>RtM</set></card>
+		<card><name>Wasted Provisions</name><set>RtM</set></card>
+		<card><name>Wasted Provisions</name><set>RtM</set></card>
+		<card><name>Wood Elf Path</name><set>RtM</set></card>
+		<card><name>Wood Elf Path</name><set>RtM</set></card>
+		<card><name>Wood Elf Path</name><set>RtM</set></card>
+		<card><name>Woodmans Glade</name><set>RtM</set></card>
+		<card><name>Woodmans Glade</name><set>RtM</set></card>
+		<card><name>Woodmans Glade</name><set>RtM</set></card>
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Despair</name><set>Core</set></card>
+		<card><name>Despair</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>Hummerhorns</name><set>Core</set></card>
+		<card><name>Ungoliants Spawn</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Eyes of the Forest</name><set>Core</set></card>
+		<card><name>Caught in a Web</name><set>Core</set></card>
+		<card><name>Caught in a Web</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Through the Forest</name><set>RtM</set></card>
+		<card><name>Escape Attempt</name><set>RtM</set></card>
+		<card><name>To the Elvin Kings Halls</name><set>RtM</set></card>
+		<card><name>Ambush</name><set>RtM</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Gollum</name><set>RtM</set></card>
+	</superzone>
+</deck>

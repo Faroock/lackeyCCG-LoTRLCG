@@ -1,0 +1,69 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Champion of Rhun</name><set>WaR</set></card>
+		<card><name>Champion of Rhun</name><set>WaR</set></card>
+		<card><name>Easterling Skirmisher</name><set>WaR</set></card>
+		<card><name>Easterling Skirmisher</name><set>WaR</set></card>
+		<card><name>Easterling Skirmisher</name><set>WaR</set></card>
+		<card><name>Easterling Skirmisher</name><set>WaR</set></card>
+		<card><name>Contested Square</name><set>WaR</set></card>
+		<card><name>Contested Square</name><set>WaR</set></card>
+		<card><name>Ransacked House</name><set>WaR</set></card>
+		<card><name>Ransacked House</name><set>WaR</set></card>
+		<card><name>Makeshift Fortification</name><set>WaR</set></card>
+		<card><name>Makeshift Fortification</name><set>WaR</set></card>
+		<card><name>Captured Tower</name><set>WaR</set></card>
+		<card><name>Fury</name><set>WaR</set></card>
+		<card><name>Fury</name><set>WaR</set></card>
+		<card><name>Caught Off Guard</name><set>WaR</set></card>
+		<card><name>Caught Off Guard</name><set>WaR</set></card>
+		<card><name>Street Fighting</name><set>WaR</set></card>
+		<card><name>Street Fighting</name><set>WaR</set></card>
+		<card><name>Under Siege</name><set>WaR</set></card>
+		<card><name>Under Siege</name><set>WaR</set></card>
+		<card><name>Ulchors Revenge</name><set>WaR</set></card>
+		<card><name>Ulchors Revenge</name><set>WaR</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Rhun Backstabber</name><set>ASitE</set></card>
+		<card><name>Rhun Backstabber</name><set>ASitE</set></card>
+		<card><name>Treacherous Easterling</name><set>ASitE</set></card>
+		<card><name>Treacherous Easterling</name><set>ASitE</set></card>
+		<card><name>City Forum</name><set>ASitE</set></card>
+		<card><name>Seedy Tavern</name><set>ASitE</set></card>
+		<card><name>Darkness in the East</name><set>ASitE</set></card>
+		<card><name>Darkness in the East</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Inside the Walls</name><set>WaR</set></card>
+		<card><name>Drive them Out</name><set>WaR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Thane Ulchor</name><set>WaR</set></card>
+		<card><name>Gate of Dorwinion</name><set>WaR</set></card>
+		<card><name>Contested Square</name><set>WaR</set></card>
+		<card><name>Ransacked House</name><set>WaR</set></card>
+		<card><name>Captured Tower</name><set>WaR</set></card>
+		<card><name>Makeshift Fortification</name><set>WaR</set></card>
+		<card><name>City Forum</name><set>ASitE</set></card>
+		<card><name>Seedy Tavern</name><set>ASitE</set></card>
+	</superzone>
+</deck>

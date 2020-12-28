@@ -1,0 +1,73 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Host of Dol Guldur</name><set>AoDG</set></card>
+		<card><name>Host of Dol Guldur</name><set>AoDG</set></card>
+		<card><name>Mirkwood Olog-hai</name><set>AoDG</set></card>
+		<card><name>Mirkwood Olog-hai</name><set>AoDG</set></card>
+		<card><name>Beast of Taur-nu-Fuin</name><set>AoDG</set></card>
+		<card><name>Beast of Taur-nu-Fuin</name><set>AoDG</set></card>
+		<card><name>Amon Lanc Archer</name><set>AoDG</set></card>
+		<card><name>Amon Lanc Archer</name><set>AoDG</set></card>
+		<card><name>Amon Lanc Archer</name><set>AoDG</set></card>
+		<card><name>Battle Warg</name><set>AoDG</set></card>
+		<card><name>Battle Warg</name><set>AoDG</set></card>
+		<card><name>Battle Warg</name><set>AoDG</set></card>
+		<card><name>Gate of Dol Guldur</name><set>AoDG</set></card>
+		<card><name>Gate of Dol Guldur</name><set>AoDG</set></card>
+		<card><name>The Sorcerers Tower</name><set>AoDG</set></card>
+		<card><name>The Sorcerers Tower</name><set>AoDG</set></card>
+		<card><name>The Shadow Road</name><set>AoDG</set></card>
+		<card><name>The Shadow Road</name><set>AoDG</set></card>
+		<card><name>Dungeon Door</name><set>AoDG</set></card>
+		<card><name>Dungeon Door</name><set>AoDG</set></card>
+		<card><name>Forest Battleground</name><set>AoDG</set></card>
+		<card><name>Forest Battleground</name><set>AoDG</set></card>
+		<card><name>Blackened Woods</name><set>AoDG</set></card>
+		<card><name>Blackened Woods</name><set>AoDG</set></card>
+		<card><name>Blackened Woods</name><set>AoDG</set></card>
+		<card><name>Servant of Sauron</name><set>AoDG</set></card>
+		<card><name>Servant of Sauron</name><set>AoDG</set></card>
+		<card><name>Servant of Sauron</name><set>AoDG</set></card>
+		<card><name>Power Sevenfold</name><set>AoDG</set></card>
+		<card><name>Power Sevenfold</name><set>AoDG</set></card>
+		<card><name>The Necromancers Rage</name><set>AoDG</set></card>
+		<card><name>The Necromancers Rage</name><set>AoDG</set></card>
+		<card><name>Fear and Despair</name><set>AoDG</set></card>
+		<card><name>Fear and Despair</name><set>AoDG</set></card>
+		<card><name>Fastness of Mirkwood</name><set>AoDG</set></card>
+		<card><name>Fastness of Mirkwood</name><set>AoDG</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Assault on the Golden Wood</name><set>AoDG</set></card>
+		<card><name>Crossing the Anduin</name><set>AoDG</set></card>
+		<card><name>The Siege of Dol Guldur</name><set>AoDG</set></card>
+		<card><name>The Tower of Sorcery</name><set>AoDG</set></card>
+		<card><name>Battle Under the Trees</name><set>AoDG</set></card>
+		<card><name>Dungeons of the Necromancer</name><set>AoDG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Standard Game Mode</name><set>AoDG</set></card>
+		<card><name>Epic Multiplayer Mode</name><set>AoDG</set></card>
+		<card><name>Host of Lorien</name><set>AoDG</set></card>
+		<card><name>Bane of Amon Lanc</name><set>AoDG</set></card>
+		<card><name>Sorcerer of Dol Guldur</name><set>AoDG</set></card>
+		<card><name>Chieftain Morlug</name><set>AoDG</set></card>
+		<card><name>Dungeon Dweller</name><set>AoDG</set></card>
+		<card><name>Dol Guldur</name><set>AoDG</set></card>
+		<card><name>Power of Lorien</name><set>AoDG</set></card>
+		<card><name>Dol Guldur Marauder</name><set>AoDG</set></card>
+		<card><name>Dol Guldur Marauder</name><set>AoDG</set></card>
+		<card><name>Dol Guldur Marauder</name><set>AoDG</set></card>
+		<card><name>Dol Guldur Marauder</name><set>AoDG</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Temple of Sauron</name><set>ASitE</set></card>
+		<card><name>Temple of Sauron</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Lost in the Dark</name><set>ASitE</set></card>
+		<card><name>Warriors of the East</name><set>ASitE</set></card>
+		<card><name>Fearful Shadows</name><set>ASitE</set></card>
+		<card><name>Fearful Shadows</name><set>ASitE</set></card>
+		<card><name>Narrow Opening</name><set>ASitE</set></card>
+		<card><name>Narrow Opening</name><set>ASitE</set></card>
+		<card><name>Crumbling Passage</name><set>ASitE</set></card>
+		<card><name>Crumbling Passage</name><set>ASitE</set></card>
+		<card><name>Twisted Tunnel</name><set>ASitE</set></card>
+		<card><name>Twisted Tunnel</name><set>ASitE</set></card>
+		<card><name>Fanaticism</name><set>ASitE</set></card>
+		<card><name>Fanaticism</name><set>ASitE</set></card>
+		<card><name>Ulchors Rage</name><set>ASitE</set></card>
+		<card><name>Ulchors Rage</name><set>ASitE</set></card>
+		<card><name>Ulchors Rage</name><set>ASitE</set></card>
+		<card><name>Place of Evil</name><set>ASitE</set></card>
+		<card><name>Place of Evil</name><set>ASitE</set></card>
+		<card><name>Place of Evil</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Hall of Horrors</name><set>ASitE</set></card>
+		<card><name>Hall of Horrors</name><set>ASitE</set></card>
+		<card><name>Hall of Horrors</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Forgotten Temple</name><set>ASitE</set></card>
+		<card><name>Memory of the Dark Years</name><set>ASitE</set></card>
+		<card><name>Shrine to Sauron</name><set>ASitE</set></card>
+		<card><name>The Lord of Middle-earth</name><set>ASitE</set></card>
+		<card><name>The Legacy of Mordor</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Khamul the Easterling</name><set>ASitE</set></card>
+		<card><name>The Tower of Barad-dur</name><set>ASitE</set></card>
+		<card><name>Under the Watchful Eye</name><set>ASitE</set></card>
+		<card><name>The Armies of Mordor</name><set>ASitE</set></card>
+		<card><name>Covered in Darkness</name><set>ASitE</set></card>
+		<card><name>Thane Ulchor</name><set>ASitE</set></card>
+		<card><name>Tribute to Mordor</name><set>ASitE</set></card>
+	</superzone>
+</deck>

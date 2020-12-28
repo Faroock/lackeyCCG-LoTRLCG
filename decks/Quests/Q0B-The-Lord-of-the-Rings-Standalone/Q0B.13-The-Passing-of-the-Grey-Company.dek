@@ -1,0 +1,61 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Dark Door</name><set>FotW</set></card>
+		<card><name>Dark Door</name><set>FotW</set></card>
+		<card><name>Trysting Place</name><set>FotW</set></card>
+		<card><name>Trysting Place</name><set>FotW</set></card>
+		<card><name>Trysting Place</name><set>FotW</set></card>
+		<card><name>Deadly Road</name><set>FotW</set></card>
+		<card><name>Deadly Road</name><set>FotW</set></card>
+		<card><name>Deadly Road</name><set>FotW</set></card>
+		<card><name>Haunted Path</name><set>FotW</set></card>
+		<card><name>Haunted Path</name><set>FotW</set></card>
+		<card><name>Haunted Path</name><set>FotW</set></card>
+		<card><name>Dead Man of Dunharrow</name><set>FotW</set></card>
+		<card><name>Dead Man of Dunharrow</name><set>FotW</set></card>
+		<card><name>Dead Man of Dunharrow</name><set>FotW</set></card>
+		<card><name>Dead Man of Dunharrow</name><set>FotW</set></card>
+		<card><name>Faithless Dead</name><set>FotW</set></card>
+		<card><name>Faithless Dead</name><set>FotW</set></card>
+		<card><name>Faithless Dead</name><set>FotW</set></card>
+		<card><name>Ghosts of Men</name><set>FotW</set></card>
+		<card><name>Ghosts of Men</name><set>FotW</set></card>
+		<card><name>Shadow Host</name><set>FotW</set></card>
+		<card><name>Shadow Host</name><set>FotW</set></card>
+		<card><name>Blood Runs Chill</name><set>FotW</set></card>
+		<card><name>Blood Runs Chill</name><set>FotW</set></card>
+		<card><name>Blood Runs Chill</name><set>FotW</set></card>
+		<card><name>The Way is Shut</name><set>FotW</set></card>
+		<card><name>The Way is Shut</name><set>FotW</set></card>
+		<card><name>Whispers in the Dark</name><set>FotW</set></card>
+		<card><name>Whispers in the Dark</name><set>FotW</set></card>
+		<card><name>Whispers in the Dark</name><set>FotW</set></card>
+		<card><name>No Turning Back</name><set>FotW</set></card>
+		<card><name>No Turning Back</name><set>FotW</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Forbidden Door</name><set>FotW</set></card>
+		<card><name>The Paths of the Dead</name><set>FotW</set></card>
+		<card><name>The Dead are Following</name><set>FotW</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Aragorn</name><set>FotW</set></card>
+		<card><name>The Stone of Erech</name><set>FotW</set></card>
+		<card><name>Army of the Dead</name><set>FotW</set></card>
+		<card><name>Overcome by Fear</name><set>FotW</set></card>
+		<card><name>Overcome by Fear</name><set>FotW</set></card>
+		<card><name>Overcome by Fear</name><set>FotW</set></card>
+		<card><name>Overcome by Fear</name><set>FotW</set></card>
+		<card><name>The Passing of the Grey Company</name><set>FotW</set></card>
+	</superzone>
+</deck>

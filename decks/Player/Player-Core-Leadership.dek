@@ -1,0 +1,43 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>Guard of the Citadel</name><set>Core</set></card>
+		<card><name>Guard of the Citadel</name><set>Core</set></card>
+		<card><name>Guard of the Citadel</name><set>Core</set></card>
+		<card><name>Faramir</name><set>Core</set></card>
+		<card><name>Faramir</name><set>Core</set></card>
+		<card><name>Son of Arnor</name><set>Core</set></card>
+		<card><name>Son of Arnor</name><set>Core</set></card>
+		<card><name>Snowbourn Scout</name><set>Core</set></card>
+		<card><name>Snowbourn Scout</name><set>Core</set></card>
+		<card><name>Snowbourn Scout</name><set>Core</set></card>
+		<card><name>Silverlode Archer</name><set>Core</set></card>
+		<card><name>Silverlode Archer</name><set>Core</set></card>
+		<card><name>Longbeard Orc Slayer</name><set>Core</set></card>
+		<card><name>Longbeard Orc Slayer</name><set>Core</set></card>
+		<card><name>Brok Ironfist</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Ever Vigilant</name><set>Core</set></card>
+		<card><name>Ever Vigilant</name><set>Core</set></card>
+		<card><name>Common Cause</name><set>Core</set></card>
+		<card><name>For Gondor!</name><set>Core</set></card>
+		<card><name>For Gondor!</name><set>Core</set></card>
+		<card><name>Sneak Attack</name><set>Core</set></card>
+		<card><name>Sneak Attack</name><set>Core</set></card>
+		<card><name>Valiant Sacrifice</name><set>Core</set></card>
+		<card><name>Valiant Sacrifice</name><set>Core</set></card>
+		<card><name>Grim Resolve</name><set>Core</set></card>
+		<card><name>Steward of Gondor</name><set>Core</set></card>
+		<card><name>Steward of Gondor</name><set>Core</set></card>
+		<card><name>Celebrians Stone</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Aragorn</name><set>Core</set></card>
+		<card><name>Theodred</name><set>Core</set></card>
+		<card><name>Gloin</name><set>Core</set></card>
+	</superzone>
+</deck>

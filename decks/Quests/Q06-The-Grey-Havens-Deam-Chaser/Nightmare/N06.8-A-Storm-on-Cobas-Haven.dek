@@ -1,0 +1,90 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Siege Ship</name><set>SoCH</set></card>
+		<card><name>Siege Ship</name><set>SoCH</set></card>
+		<card><name>Siege Ship</name><set>SoCH</set></card>
+		<card><name>Heavy Cruiser</name><set>SoCH</set></card>
+		<card><name>Coast of Anfalas</name><set>SoCH</set></card>
+		<card><name>Coast of Anfalas</name><set>SoCH</set></card>
+		<card><name>Coast of Anfalas</name><set>SoCH</set></card>
+		<card><name>Ramming Speed!</name><set>SoCH</set></card>
+		<card><name>Taking on Water</name><set>SoCH</set></card>
+		<card><name>Taking on Water</name><set>SoCH</set></card>
+		<card><name>The Raiders Assault</name><set>SoCH</set></card>
+		<card><name>The Raiders Assault</name><set>SoCH</set></card>
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+		<card><name>Starlit Sea</name><set>TGH</set></card>
+		<card><name>Starlit Sea</name><set>TGH</set></card>
+		<card><name>Light Cruiser</name><set>TGH</set></card>
+		<card><name>Light Cruiser</name><set>TGH</set></card>
+		<card><name>Corsair Warship</name><set>TGH</set></card>
+		<card><name>Corsair Warship</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Boarding Party</name><set>TGH</set></card>
+		<card><name>Boarding Party</name><set>TGH</set></card>
+		<card><name>Ramming Ship</name><set>ASoCHN</set></card>
+		<card><name>Ramming Ship</name><set>ASoCHN</set></card>
+		<card><name>Fang of Sahir</name><set>ASoCHN</set></card>
+		<card><name>Fang of Sahir</name><set>ASoCHN</set></card>
+		<card><name>Fang of Sahir</name><set>ASoCHN</set></card>
+		<card><name>City Under Siege</name><set>ASoCHN</set></card>
+		<card><name>City Under Siege</name><set>ASoCHN</set></card>
+		<card><name>Sea-wall</name><set>ASoCHN</set></card>
+		<card><name>Sea-wall</name><set>ASoCHN</set></card>
+		<card><name>Sea-wall</name><set>ASoCHN</set></card>
+		<card><name>War-torn Waters</name><set>ASoCHN</set></card>
+		<card><name>War-torn Waters</name><set>ASoCHN</set></card>
+		<card><name>Broken Rudder</name><set>ASoCHN</set></card>
+		<card><name>Broken Rudder</name><set>ASoCHN</set></card>
+		<card><name>Grappled!</name><set>ASoCHN</set></card>
+		<card><name>Grappled!</name><set>ASoCHN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>A Storm on Cobas Haven</name><set>ASoCHN</set></card>
+		<card><name>Outmaneuver the Enemy</name><set>SoCH</set></card>
+		<card><name>Battle in the Bay</name><set>SoCH</set></card>
+		<card><name>Break Through the Fleet!</name><set>SoCH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Southron Sailor</name><set>TGH</set></card>
+		<card><name>Southron Sailor</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Cunning Pirate</name><set>TGH</set></card>
+		<card><name>Vicious Marauder</name><set>TGH</set></card>
+		<card><name>Vicious Marauder</name><set>TGH</set></card>
+		<card><name>Umbar Captain</name><set>TGH</set></card>
+		<card><name>Umbar Captain</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Dol Amroth Warship</name><set>SoCH</set></card>
+		<card><name>Dol Amroth Warship</name><set>SoCH</set></card>
+		<card><name>Dream-chaser</name><set>TGH</set></card>
+		<card><name>Dawn Star</name><set>TGH</set></card>
+		<card><name>Narelenya</name><set>TGH</set></card>
+		<card><name>Silver Wing</name><set>TGH</set></card>
+		<card><name>Heading</name><set>TGH</set></card>
+		<card><name>A Storm on Cobas Haven</name><set>SoCH</set></card>
+		<card><name>Raider Flagship</name><set>SoCH</set></card>
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+		<card><name>Sea-ward Tower</name><set>SoCH</set></card>
+		<card><name>Tower of the Gull</name><set>SoCH</set></card>
+		<card><name>The Beacon</name><set>SoCH</set></card>
+		<card><name>Tower of the Heron</name><set>SoCH</set></card>
+		<card><name>Aearlang</name><set>ASoCHN</set></card>
+		<card><name>Docks of Dol Amroth</name><set>ASoCHN</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,69 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Avalanche!</name><set>TRG</set></card>
+		<card><name>Celebdil</name><set>TRG</set></card>
+		<card><name>Fanuidhol</name><set>TRG</set></card>
+		<card><name>Freezing Cold</name><set>TRG</set></card>
+		<card><name>Freezing Cold</name><set>TRG</set></card>
+		<card><name>Freezing Cold</name><set>TRG</set></card>
+		<card><name>Mountain Troll</name><set>TRG</set></card>
+		<card><name>Mountain Troll</name><set>TRG</set></card>
+		<card><name>Rocky Crags</name><set>TRG</set></card>
+		<card><name>Rocky Crags</name><set>TRG</set></card>
+		<card><name>Rocky Crags</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Wolfpelt Goblin</name><set>TRGN</set></card>
+		<card><name>Wolfpelt Goblin</name><set>TRGN</set></card>
+		<card><name>Wolfpelt Goblin</name><set>TRGN</set></card>
+		<card><name>Silvertine Marauder</name><set>TRGN</set></card>
+		<card><name>Silvertine Marauder</name><set>TRGN</set></card>
+		<card><name>Silvertine Marauder</name><set>TRGN</set></card>
+		<card><name>Silvertine Marauder</name><set>TRGN</set></card>
+		<card><name>Snow-Giant</name><set>TRGN</set></card>
+		<card><name>Snow-Giant</name><set>TRGN</set></card>
+		<card><name>Snow-Giant</name><set>TRGN</set></card>
+		<card><name>Icy Cavern</name><set>TRGN</set></card>
+		<card><name>Icy Cavern</name><set>TRGN</set></card>
+		<card><name>Icy Cavern</name><set>TRGN</set></card>
+		<card><name>Frozen Silverlode</name><set>TRGN</set></card>
+		<card><name>Frozen Silverlode</name><set>TRGN</set></card>
+		<card><name>Frozen Silverlode</name><set>TRGN</set></card>
+		<card><name>Caradhras the Cruel</name><set>TRGN</set></card>
+		<card><name>Caradhras the Cruel</name><set>TRGN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Redhorn Gate</name><set>TRGN</set></card>
+		<card><name>Up the Pass</name><set>TRG</set></card>
+		<card><name>Snowdrifts</name><set>TRG</set></card>
+		<card><name>The Mountains Peaks</name><set>TRG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Caradhras</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Blinding Blizzard</name><set>TRGN</set></card>
+		<card><name>Blinding Blizzard</name><set>TRGN</set></card>
+		<card><name>Arwen Undomiel</name><set>TRG</set></card>
+	</superzone>
+</deck>

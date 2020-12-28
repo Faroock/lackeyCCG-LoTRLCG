@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Groping Dead</name><set>LoS</set></card>
+		<card><name>Groping Dead</name><set>LoS</set></card>
+		<card><name>Groping Dead</name><set>LoS</set></card>
+		<card><name>Dead Things</name><set>LoS</set></card>
+		<card><name>Dead Things</name><set>LoS</set></card>
+		<card><name>Dead Things</name><set>LoS</set></card>
+		<card><name>Candle-bearer</name><set>LoS</set></card>
+		<card><name>Candle-bearer</name><set>LoS</set></card>
+		<card><name>Candle-bearer</name><set>LoS</set></card>
+		<card><name>Evil-smelling Fens</name><set>LoS</set></card>
+		<card><name>Evil-smelling Fens</name><set>LoS</set></card>
+		<card><name>Evil-smelling Fens</name><set>LoS</set></card>
+		<card><name>Shifting Quagmire</name><set>LoS</set></card>
+		<card><name>Shifting Quagmire</name><set>LoS</set></card>
+		<card><name>Haunted Mere</name><set>LoS</set></card>
+		<card><name>Haunted Mere</name><set>LoS</set></card>
+		<card><name>Haunted Mere</name><set>LoS</set></card>
+		<card><name>Stagnant Pools</name><set>LoS</set></card>
+		<card><name>Stagnant Pools</name><set>LoS</set></card>
+		<card><name>Soft Mires</name><set>LoS</set></card>
+		<card><name>Soft Mires</name><set>LoS</set></card>
+		<card><name>Soft Mires</name><set>LoS</set></card>
+		<card><name>Soft Mires</name><set>LoS</set></card>
+		<card><name>Creeping Marshes</name><set>LoS</set></card>
+		<card><name>Creeping Marshes</name><set>LoS</set></card>
+		<card><name>Bitter Reek</name><set>LoS</set></card>
+		<card><name>Bitter Reek</name><set>LoS</set></card>
+		<card><name>Bitter Reek</name><set>LoS</set></card>
+		<card><name>A Fell Light</name><set>LoS</set></card>
+		<card><name>A Fell Light</name><set>LoS</set></card>
+		<card><name>Morgul Wraith</name><set>LoS</set></card>
+		<card><name>Morgul Wraith</name><set>LoS</set></card>
+		<card><name>Call of the Ring</name><set>LoS</set></card>
+		<card><name>Call of the Ring</name><set>LoS</set></card>
+		<card><name>We Hates Them</name><set>LoS</set></card>
+		<card><name>We Hates Them</name><set>LoS</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Passage of the Marshes</name><set>LoS</set></card>
+		<card><name>The Taming of Smeagol</name><set>LoS</set></card>
+		<card><name>Across the Marshes</name><set>LoS</set></card>
+		<card><name>Dont Look at the Lights!</name><set>LoS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Searching Eye</name><set>LoS</set></card>
+		<card><name>The Searching Eye</name><set>LoS</set></card>
+		<card><name>The Searching Eye</name><set>LoS</set></card>
+		<card><name>The Searching Eye</name><set>LoS</set></card>
+		<card><name>The One Ring</name><set>LoS</set></card>
+		<card><name>Frodo Baggins</name><set>LoS</set></card>
+		<card><name>The Passage of the Marshes</name><set>LoS</set></card>
+		<card><name>Gollum</name><set>LoS</set></card>
+	</superzone>
+</deck>

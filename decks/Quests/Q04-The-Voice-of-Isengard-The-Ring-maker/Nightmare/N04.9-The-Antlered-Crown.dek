@@ -1,0 +1,76 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Raven Warrior</name><set>TAC</set></card>
+		<card><name>Raven Warrior</name><set>TAC</set></card>
+		<card><name>Raven Warrior</name><set>TAC</set></card>
+		<card><name>Raven Warrior</name><set>TAC</set></card>
+		<card><name>Raven Village</name><set>TAC</set></card>
+		<card><name>Raven Village</name><set>TAC</set></card>
+		<card><name>Raven Village</name><set>TAC</set></card>
+		<card><name>Raven Clan Elite</name><set>TACN</set></card>
+		<card><name>Raven Clan Elite</name><set>TACN</set></card>
+		<card><name>Raven Clan Elite</name><set>TACN</set></card>
+		<card><name>Raven Clan Elite</name><set>TACN</set></card>
+		<card><name>Raven Clan Druid</name><set>TACN</set></card>
+		<card><name>Raven Clan Druid</name><set>TACN</set></card>
+		<card><name>Raven Clan Druid</name><set>TACN</set></card>
+		<card><name>Raven Stronghold</name><set>TACN</set></card>
+		<card><name>Raven Stronghold</name><set>TACN</set></card>
+		<card><name>Raven Stronghold</name><set>TACN</set></card>
+		<card><name>Raven Stronghold</name><set>TACN</set></card>
+		<card><name>Highlands of Dunland</name><set>TACN</set></card>
+		<card><name>Highlands of Dunland</name><set>TACN</set></card>
+		<card><name>Dunland Battlefield</name><set>TAC</set></card>
+		<card><name>Dunland Battlefield</name><set>TAC</set></card>
+		<card><name>Raven Country</name><set>TAC</set></card>
+		<card><name>Raven Country</name><set>TAC</set></card>
+		<card><name>Raven Talisman</name><set>TACN</set></card>
+		<card><name>Raven Talisman</name><set>TACN</set></card>
+		<card><name>Gathering Forces</name><set>TACN</set></card>
+		<card><name>Gathering Forces</name><set>TACN</set></card>
+		<card><name>Raising the Cry</name><set>TAC</set></card>
+		<card><name>Raising the Cry</name><set>TAC</set></card>
+		<card><name>Raising the Cry</name><set>TAC</set></card>
+		<card><name>Fierce Folk</name><set>TAC</set></card>
+		<card><name>Fierce Folk</name><set>TAC</set></card>
+		<card><name>Old Hatreds</name><set>VoI</set></card>
+		<card><name>Old Hatreds</name><set>VoI</set></card>
+		<card><name>Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name>Wild Men of Dunland</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Antlered Crown</name><set>TACN</set></card>
+		<card><name>Battle for Dunland</name><set>TAC</set></card>
+		<card><name>The Raven Clan</name><set>TAC</set></card>
+		<card><name>The Last Stage</name><set>TAC</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Dunlending Horde</name><set>TACN</set></card>
+		<card><name>Dunlending Horde</name><set>TACN</set></card>
+		<card><name>Dunland Prowler</name><set>VoI</set></card>
+		<card><name>Dunland Prowler</name><set>VoI</set></card>
+		<card><name>Dunland Raider</name><set>VoI</set></card>
+		<card><name>Dunland Raider</name><set>VoI</set></card>
+		<card><name>Dunland Tribesman</name><set>VoI</set></card>
+		<card><name>Dunland Tribesman</name><set>VoI</set></card>
+		<card><name>Dunland Chieftain</name><set>VoI</set></card>
+		<card><name>Dunland Chieftain</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Raven Chief</name><set>TAC</set></card>
+		<card><name>Raven Chiefs Camp</name><set>TAC</set></card>
+		<card><name>Chief Turch</name><set>TAC</set></card>
+		<card><name>Dunland Battlefield</name><set>TAC</set></card>
+		<card><name>Raven War-camp</name><set>TAC</set></card>
+	</superzone>
+</deck>

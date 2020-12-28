@@ -1,0 +1,46 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Blocking Wargs</name><set>HoN</set></card>
+		<card><name>Blocking Wargs</name><set>HoN</set></card>
+		<card><name>Ithilien Guardian</name><set>HoN</set></card>
+		<card><name>Ithilien Guardian</name><set>HoN</set></card>
+		<card><name>Ithilien Road</name><set>HoN</set></card>
+		<card><name>Southron Company</name><set>HoN</set></card>
+		<card><name>Southron Company</name><set>HoN</set></card>
+		<card><name>Southron Company</name><set>HoN</set></card>
+		<card><name>Southron Company</name><set>HoN</set></card>
+		<card><name>Overgrown Trail</name><set>HoN</set></card>
+		<card><name>Secluded Glade</name><set>HoN</set></card>
+		<card><name>Secluded Glade</name><set>HoN</set></card>
+		<card><name>Secluded Glade</name><set>HoN</set></card>
+		<card><name>Forest Bat</name><set>HoN</set></card>
+		<card><name>Forest Bat</name><set>HoN</set></card>
+		<card><name>Forest Bat</name><set>HoN</set></card>
+		<card><name>Morgul Spider</name><set>HoN</set></card>
+		<card><name>Haradrim Elite</name><set>HoN</set></card>
+		<card><name>Haradrim Elite</name><set>HoN</set></card>
+		<card><name>Southron Mercenaries</name><set>HoN</set></card>
+		<card><name>Southron Mercenaries</name><set>HoN</set></card>
+		<card><name>Southron Mercenaries</name><set>HoN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Ambush in Ithilien</name><set>HoN</set></card>
+		<card><name>Southron Counter-attack</name><set>HoN</set></card>
+		<card><name>The Hidden Way</name><set>HoN</set></card>
+		<card><name>Approaching Cair Andros</name><set>HoN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Celador</name><set>HoN</set></card>
+		<card><name>Ithilien Road</name><set>HoN</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Impassable Chasm</name><set>HoEM</set></card>
+		<card><name>Impassable Chasm</name><set>HoEM</set></card>
+		<card><name>Orc Horse Thieves</name><set>HoEM</set></card>
+		<card><name>Orc Horse Thieves</name><set>HoEM</set></card>
+		<card><name>Orc Horse Thieves</name><set>HoEM</set></card>
+		<card><name>Rauros Falls</name><set>HoEM</set></card>
+		<card><name>Rauros Falls</name><set>HoEM</set></card>
+		<card><name>Rockslide</name><set>HoEM</set></card>
+		<card><name>Rockslide</name><set>HoEM</set></card>
+		<card><name>Rockslide</name><set>HoEM</set></card>
+		<card><name>Slick Footing</name><set>HoEM</set></card>
+		<card><name>The East Wall of Rohan</name><set>HoEM</set></card>
+		<card><name>The North Stair</name><set>HoEM</set></card>
+		<card><name>The Outer Ridge</name><set>HoEM</set></card>
+		<card><name>The Outer Ridge</name><set>HoEM</set></card>
+		<card><name>The Outer Ridge</name><set>HoEM</set></card>
+		<card><name>The Shores of Nen Hithoel</name><set>HoEM</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Tunneling Nameless Thing</name><set>THoEMN</set></card>
+		<card><name>Tunneling Nameless Thing</name><set>THoEMN</set></card>
+		<card><name>Tunneling Nameless Thing</name><set>THoEMN</set></card>
+		<card><name>Orc Interceptor</name><set>THoEMN</set></card>
+		<card><name>Orc Interceptor</name><set>THoEMN</set></card>
+		<card><name>Brambles and Thorns</name><set>THoEMN</set></card>
+		<card><name>Brambles and Thorns</name><set>THoEMN</set></card>
+		<card><name>Brambles and Thorns</name><set>THoEMN</set></card>
+		<card><name>Sarn Gebir Rapids</name><set>THoEMN</set></card>
+		<card><name>Sarn Gebir Rapids</name><set>THoEMN</set></card>
+		<card><name>A Hurrying Darkness</name><set>THoEMN</set></card>
+		<card><name>A Hurrying Darkness</name><set>THoEMN</set></card>
+		<card><name>Blast of Savage Wind</name><set>THoEMN</set></card>
+		<card><name>Blast of Savage Wind</name><set>THoEMN</set></card>
+		<card><name>Blast of Savage Wind</name><set>THoEMN</set></card>
+		<card><name>Hazardous Terrain</name><set>THoEMN</set></card>
+		<card><name>Hazardous Terrain</name><set>THoEMN</set></card>
+		<card><name>Retraced Steps</name><set>THoEMN</set></card>
+		<card><name>Retraced Steps</name><set>THoEMN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Hills of Emyn Muil</name><set>THoEMN</set></card>
+		<card><name>The Hills of Emyn Muil</name><set>HoEM</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Amon Hen</name><set>HoEM</set></card>
+		<card><name>Amon Lhaw</name><set>HoEM</set></card>
+	</superzone>
+</deck>

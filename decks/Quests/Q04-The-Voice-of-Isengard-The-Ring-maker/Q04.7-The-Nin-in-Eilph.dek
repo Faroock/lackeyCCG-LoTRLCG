@@ -1,0 +1,57 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name>Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name>Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name>Giant Swamp Adder</name><set>NiE</set></card>
+		<card><name>Neekerbreekers</name><set>NiE</set></card>
+		<card><name>Neekerbreekers</name><set>NiE</set></card>
+		<card><name>Neekerbreekers</name><set>NiE</set></card>
+		<card><name>Fen of Reeds</name><set>NiE</set></card>
+		<card><name>Fen of Reeds</name><set>NiE</set></card>
+		<card><name>Fen of Reeds</name><set>NiE</set></card>
+		<card><name>Finger of Glanduin</name><set>NiE</set></card>
+		<card><name>Finger of Glanduin</name><set>NiE</set></card>
+		<card><name>Finger of Glanduin</name><set>NiE</set></card>
+		<card><name>Hidden Eyot</name><set>NiE</set></card>
+		<card><name>Hidden Eyot</name><set>NiE</set></card>
+		<card><name>Sinking Bog</name><set>NiE</set></card>
+		<card><name>Sinking Bog</name><set>NiE</set></card>
+		<card><name>Sinking Bog</name><set>NiE</set></card>
+		<card><name>Shifting Marshland</name><set>NiE</set></card>
+		<card><name>Shifting Marshland</name><set>NiE</set></card>
+		<card><name>Shifting Marshland</name><set>NiE</set></card>
+		<card><name>Remnants of Elder Days</name><set>NiE</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Off Track</name><set>VoI</set></card>
+		<card><name>Off Track</name><set>VoI</set></card>
+		<card><name>In Need of Rest</name><set>VoI</set></card>
+		<card><name>In Need of Rest</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Fleeing from Tharbad</name><set>NiE</set></card>
+		<card><name>Through the Marsh - No End in Sight</name><set>NiE</set></card>
+		<card><name>Through the Marsh - A Weary Passage</name><set>NiE</set></card>
+		<card><name>Through the Marsh - A Forgotten Land</name><set>NiE</set></card>
+		<card><name>Lost in the Swanfleet - Impassable Marshland</name><set>NiE</set></card>
+		<card><name>Lost in the Swanfleet - A Treacherous Swamp</name><set>NiE</set></card>
+		<card><name>Lost in the Swanfleet - Creatures of a Forgotten Age</name><set>NiE</set></card>
+		<card><name>Out of the Swamp</name><set>NiE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Ancient Marsh-dweller</name><set>NiE</set></card>
+		<card><name>Nalir</name><set>NiE</set></card>
+	</superzone>
+</deck>

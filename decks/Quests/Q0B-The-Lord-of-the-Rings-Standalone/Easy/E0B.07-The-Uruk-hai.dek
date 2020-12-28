@@ -1,0 +1,49 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Ugluks Uruk-hai</name><set>ToS</set></card>
+		<card><name>The Wold</name><set>ToS</set></card>
+		<card><name>The Wold</name><set>ToS</set></card>
+		<card><name>The Wold</name><set>ToS</set></card>
+		<card><name>Eastemnet</name><set>ToS</set></card>
+		<card><name>Eastemnet</name><set>ToS</set></card>
+		<card><name>Plains of Rohan</name><set>ToS</set></card>
+		<card><name>Plains of Rohan</name><set>ToS</set></card>
+		<card><name>Plains of Rohan</name><set>ToS</set></card>
+		<card><name>Banks of Entwash</name><set>ToS</set></card>
+		<card><name>Banks of Entwash</name><set>ToS</set></card>
+		<card><name>Rest by Night</name><set>ToS</set></card>
+		<card><name>Rest by Night</name><set>ToS</set></card>
+		<card><name>Strange Weariness</name><set>ToS</set></card>
+		<card><name>Unseen Barrier</name><set>ToS</set></card>
+		<card><name>Unseen Barrier</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Uruk-hai Fighter</name><set>ToS</set></card>
+		<card><name>Uruk-hai Fighter</name><set>ToS</set></card>
+		<card><name>Uruk-hai Fighter</name><set>ToS</set></card>
+		<card><name>Fighting Uruk-hai</name><set>ToS</set></card>
+		<card><name>Snaga</name><set>ToS</set></card>
+		<card><name>Snaga</name><set>ToS</set></card>
+		<card><name>Sarumans Orders</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Follow the Orcs</name><set>ToS</set></card>
+		<card><name>Rescue the Captives</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Eastemnet</name><set>ToS</set></card>
+		<card><name>To Isengard!</name><set>ToS</set></card>
+		<card><name>Ugluk</name><set>ToS</set></card>
+		<card><name>Aragorn</name><set>ToS</set></card>
+	</superzone>
+</deck>

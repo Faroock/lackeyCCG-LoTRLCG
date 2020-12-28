@@ -1,0 +1,43 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>Daughter of the Nimrodel</name><set>Core</set></card>
+		<card><name>Daughter of the Nimrodel</name><set>Core</set></card>
+		<card><name>Daughter of the Nimrodel</name><set>Core</set></card>
+		<card><name>Erebor Hammersmith</name><set>Core</set></card>
+		<card><name>Erebor Hammersmith</name><set>Core</set></card>
+		<card><name>Henamarth Riversong</name><set>Core</set></card>
+		<card><name>Miner of the Iron Hills</name><set>Core</set></card>
+		<card><name>Miner of the Iron Hills</name><set>Core</set></card>
+		<card><name>Gleowine</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Lore of Imladris</name><set>Core</set></card>
+		<card><name>Lore of Imladris</name><set>Core</set></card>
+		<card><name>Lore of Imladris</name><set>Core</set></card>
+		<card><name>Loriens Wealth</name><set>Core</set></card>
+		<card><name>Loriens Wealth</name><set>Core</set></card>
+		<card><name>Radagasts Cunning</name><set>Core</set></card>
+		<card><name>Radagasts Cunning</name><set>Core</set></card>
+		<card><name>Secret Paths</name><set>Core</set></card>
+		<card><name>Secret Paths</name><set>Core</set></card>
+		<card><name>Gandalfs Search</name><set>Core</set></card>
+		<card><name>Gandalfs Search</name><set>Core</set></card>
+		<card><name>Beorns Hospitality</name><set>Core</set></card>
+		<card><name>Forest Snare</name><set>Core</set></card>
+		<card><name>Forest Snare</name><set>Core</set></card>
+		<card><name>Protector of Lorien</name><set>Core</set></card>
+		<card><name>Protector of Lorien</name><set>Core</set></card>
+		<card><name>Dark Knowledge</name><set>Core</set></card>
+		<card><name>Self Preservation</name><set>Core</set></card>
+		<card><name>Self Preservation</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Denethor</name><set>Core</set></card>
+		<card><name>Glorfindel</name><set>Core</set></card>
+		<card><name>Beravor</name><set>Core</set></card>
+	</superzone>
+</deck>

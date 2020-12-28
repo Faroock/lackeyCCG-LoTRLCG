@@ -1,0 +1,55 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>The Kings Road</name><set>VoI</set></card>
+		<card><name>The Kings Road</name><set>VoI</set></card>
+		<card><name>Fords of Isen</name><set>VoI</set></card>
+		<card><name>Fords of Isen</name><set>VoI</set></card>
+		<card><name>Fords of Isen</name><set>VoI</set></card>
+		<card><name>Gap of Rohan</name><set>VoI</set></card>
+		<card><name>Gap of Rohan</name><set>VoI</set></card>
+		<card><name>Gap of Rohan</name><set>VoI</set></card>
+		<card><name>Gap of Rohan</name><set>VoI</set></card>
+		<card><name>Pillaging and Burning</name><set>VoI</set></card>
+		<card><name>Pillaging and Burning</name><set>VoI</set></card>
+		<card><name>Down From The Hills</name><set>VoI</set></card>
+		<card><name>Ill Tidings</name><set>VoI</set></card>
+		<card><name>Ill Tidings</name><set>VoI</set></card>
+		<card><name>Dunland Prowler</name><set>VoI</set></card>
+		<card><name>Dunland Prowler</name><set>VoI</set></card>
+		<card><name>Dunland Prowler</name><set>VoI</set></card>
+		<card><name>Dunland Chieftain</name><set>VoI</set></card>
+		<card><name>Dunland Chieftain</name><set>VoI</set></card>
+		<card><name>Dunland Tribesman</name><set>VoI</set></card>
+		<card><name>Dunland Tribesman</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name>Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name>Old Hatreds</name><set>VoI</set></card>
+		<card><name>Old Hatreds</name><set>VoI</set></card>
+		<card><name>Dunlending Bandit</name><set>VoI</set></card>
+		<card><name>Dunlending Bandit</name><set>VoI</set></card>
+		<card><name>Dunland Raider</name><set>VoI</set></card>
+		<card><name>Dunland Raider</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Fight at the Fords</name><set>VoI</set></card>
+		<card><name>Dunlending Attack</name><set>VoI</set></card>
+		<card><name>Hold the Fords</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Grima</name><set>VoI</set></card>
+		<card><name>The Islet</name><set>VoI</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Easterling Guard</name><set>TLoS</set></card>
+		<card><name>Easterling Guard</name><set>TLoS</set></card>
+		<card><name>Easterling Guard</name><set>TLoS</set></card>
+		<card><name>Nurn Slaver</name><set>TLoS</set></card>
+		<card><name>Nurn Slaver</name><set>TLoS</set></card>
+		<card><name>Nurn Slaver</name><set>TLoS</set></card>
+		<card><name>Nurn Slaver</name><set>TLoS</set></card>
+		<card><name>Working Fields</name><set>TLoS</set></card>
+		<card><name>Working Fields</name><set>TLoS</set></card>
+		<card><name>Working Fields</name><set>TLoS</set></card>
+		<card><name>Watch Tower</name><set>TLoS</set></card>
+		<card><name>Watch Tower</name><set>TLoS</set></card>
+		<card><name>Watch Tower</name><set>TLoS</set></card>
+		<card><name>Overseers Whip</name><set>TLoS</set></card>
+		<card><name>Overseers Whip</name><set>TLoS</set></card>
+		<card><name>Cruelty of Mordor</name><set>TLoS</set></card>
+		<card><name>Cruelty of Mordor</name><set>TLoS</set></card>
+		<card><name>Cruelty of Mordor</name><set>TLoS</set></card>
+		<card><name>Broken Captives</name><set>TLoS</set></card>
+		<card><name>Broken Captives</name><set>TLoS</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Easterling Raider</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Warrior of Rhun</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Sword of Rhun</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Recurve Bow</name><set>ASitE</set></card>
+		<card><name>Warriors of the East</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rollings Plains</name><set>ASitE</set></card>
+		<card><name>Rocky Outcrop</name><set>ASitE</set></card>
+		<card><name>Rocky Outcrop</name><set>ASitE</set></card>
+		<card><name>Weary Lands</name><set>ASitE</set></card>
+		<card><name>Weary Lands</name><set>ASitE</set></card>
+		<card><name>Painful Fatigue</name><set>ASitE</set></card>
+		<card><name>Painful Fatigue</name><set>ASitE</set></card>
+		<card><name>An Arduous Journey</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Slaves of the Dark Lord</name><set>TLoS</set></card>
+		<card><name>Lead the Revolt</name><set>TLoS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Edrahil</name><set>TLoS</set></card>
+		<card><name>Arador</name><set>TLoS</set></card>
+		<card><name>Farin</name><set>TLoS</set></card>
+		<card><name>Ulwarth</name><set>TLoS</set></card>
+		<card><name>Lorgan</name><set>TLoS</set></card>
+		<card><name>Borlach</name><set>TLoS</set></card>
+		<card><name>The Barracks</name><set>TLoS</set></card>
+		<card><name>Slave Quarters</name><set>TLoS</set></card>
+		<card><name>The Storehouse</name><set>TLoS</set></card>
+	</superzone>
+</deck>

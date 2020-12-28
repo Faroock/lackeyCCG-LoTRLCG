@@ -1,0 +1,74 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Morgul Bodyguard</name><set>TMV</set></card>
+		<card><name>Morgul Bodyguard</name><set>TMV</set></card>
+		<card><name>Morgul Bodyguard</name><set>TMV</set></card>
+		<card><name>Morgul Bodyguard</name><set>TMV</set></card>
+		<card><name>Morgul Tracker</name><set>TMV</set></card>
+		<card><name>Morgul Vale</name><set>TMV</set></card>
+		<card><name>Morgul Vale</name><set>TMV</set></card>
+		<card><name>Impenetrable Fog</name><set>TMV</set></card>
+		<card><name>Impenetrable Fog</name><set>TMV</set></card>
+		<card><name>Sleepless Malice</name><set>TMV</set></card>
+		<card><name>Sleepless Malice</name><set>TMV</set></card>
+		<card><name>Terror Drives Them</name><set>TMV</set></card>
+		<card><name>Terror Drives Them</name><set>TMV</set></card>
+		<card><name>Terror Drives Them</name><set>TMV</set></card>
+		<card><name>The Dead City Looms</name><set>TMV</set></card>
+		<card><name>The Dead City Looms</name><set>TMV</set></card>
+		<card><name>Morgul Spider</name><set>HoN</set></card>
+		<card><name>Morgul Spider</name><set>HoN</set></card>
+		<card><name>Morgul Spider</name><set>HoN</set></card>
+		<card><name>Watcher in the Wood</name><set>HoN</set></card>
+		<card><name>Lieutenant of Mordor</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc War Camp</name><set>HoN</set></card>
+		<card><name>Orc War Camp</name><set>HoN</set></card>
+		<card><name>The Masters Malice</name><set>HoN</set></card>
+		<card><name>The Masters Malice</name><set>HoN</set></card>
+		<card><name>Warrior of Nurn</name><set>TMVN</set></card>
+		<card><name>Warrior of Nurn</name><set>TMVN</set></card>
+		<card><name>Warrior of Nurn</name><set>TMVN</set></card>
+		<card><name>Orc Captor</name><set>TMVN</set></card>
+		<card><name>Orc Captor</name><set>TMVN</set></card>
+		<card><name>Orc Captor</name><set>TMVN</set></card>
+		<card><name>Sentry of the White Bridge</name><set>TMVN</set></card>
+		<card><name>Sentry of the White Bridge</name><set>TMVN</set></card>
+		<card><name>Banks of Morgulduin</name><set>TMVN</set></card>
+		<card><name>Banks of Morgulduin</name><set>TMVN</set></card>
+		<card><name>Ephel Duath</name><set>TMVN</set></card>
+		<card><name>Ephel Duath</name><set>TMVN</set></card>
+		<card><name>Ephel Duath</name><set>TMVN</set></card>
+		<card><name>White-flowered Fields</name><set>TMVN</set></card>
+		<card><name>White-flowered Fields</name><set>TMVN</set></card>
+		<card><name>The Tower Beckons</name><set>TMVN</set></card>
+		<card><name>The Tower Beckons</name><set>TMVN</set></card>
+		<card><name>Noxious Fumes</name><set>TMVN</set></card>
+		<card><name>Noxious Fumes</name><set>TMVN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Morgul Vale</name><set>TMVN</set></card>
+		<card><name>The Rearguard</name><set>TMV</set></card>
+		<card><name>The Betrayal</name><set>TMV</set></card>
+		<card><name>The Morgul Rider</name><set>TMV</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Lord Alcaron</name><set>TMV</set></card>
+		<card><name>Nazgul of Minas Morgul</name><set>TMV</set></card>
+		<card><name>The White Bridge</name><set>TMV</set></card>
+		<card><name>To the Tower</name><set>TMV</set></card>
+		<card><name>Murzag</name><set>TMV</set></card>
+		<card><name>Morgul Vale</name><set>TMV</set></card>
+	</superzone>
+</deck>

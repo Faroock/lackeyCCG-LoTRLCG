@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Catching Fire</name><set>TBoLt</set></card>
+		<card><name>Catching Fire</name><set>TBoLt</set></card>
+		<card><name>Close to the Flame</name><set>TBoLt</set></card>
+		<card><name>Close to the Flame</name><set>TBoLt</set></card>
+		<card><name>Close to the Flame</name><set>TBoLt</set></card>
+		<card><name>Dire Magnificence</name><set>TBoLt</set></card>
+		<card><name>Dire Magnificence</name><set>TBoLt</set></card>
+		<card><name>Dire Magnificence</name><set>TBoLt</set></card>
+		<card><name>East Pier</name><set>TBoLt</set></card>
+		<card><name>Esgaroth Wharf</name><set>TBoLt</set></card>
+		<card><name>Esgaroth Wharf</name><set>TBoLt</set></card>
+		<card><name>Esgaroth Wharf</name><set>TBoLt</set></card>
+		<card><name>Esgaroth Wharf</name><set>TBoLt</set></card>
+		<card><name>Fishermans Dock</name><set>TBoLt</set></card>
+		<card><name>Fishermans Dock</name><set>TBoLt</set></card>
+		<card><name>Fishermans Dock</name><set>TBoLt</set></card>
+		<card><name>Fishermans Dock</name><set>TBoLt</set></card>
+		<card><name>Great Bridge</name><set>TBoLt</set></card>
+		<card><name>Great House</name><set>TBoLt</set></card>
+		<card><name>Merchants District</name><set>TBoLt</set></card>
+		<card><name>Merchants District</name><set>TBoLt</set></card>
+		<card><name>Merchants District</name><set>TBoLt</set></card>
+		<card><name>Merchants District</name><set>TBoLt</set></card>
+		<card><name>North Pier</name><set>TBoLt</set></card>
+		<card><name>Reckless in His Rage</name><set>TBoLt</set></card>
+		<card><name>Reckless in His Rage</name><set>TBoLt</set></card>
+		<card><name>Scorching Blast</name><set>TBoLt</set></card>
+		<card><name>Scorching Blast</name><set>TBoLt</set></card>
+		<card><name>Scorching Blast</name><set>TBoLt</set></card>
+		<card><name>South Pier</name><set>TBoLt</set></card>
+		<card><name>The Masters Manor</name><set>TBoLt</set></card>
+		<card><name>The Old Thrush</name><set>TBoLt</set></card>
+		<card><name>Town-Baiting</name><set>TBoLt</set></card>
+		<card><name>Town-Baiting</name><set>TBoLt</set></card>
+		<card><name>Town-Baiting</name><set>TBoLt</set></card>
+		<card><name>West Pier</name><set>TBoLt</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Terror from the Mountain</name><set>TBoLt</set></card>
+		<card><name>Fire and Water</name><set>TBoLt</set></card>
+		<card><name>The Dragons Wrath</name><set>TBoLt</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Smaug the Magnificent</name><set>TBoLt</set></card>
+		<card><name>Smaug the Magnificent</name><set>TBoLt</set></card>
+		<card><name>Smaug the Magnificent</name><set>TBoLt</set></card>
+		<card><name>Smaug the Mighty</name><set>TBoLt</set></card>
+		<card><name>Smaug the Mighty</name><set>TBoLt</set></card>
+		<card><name>Smaug the Mighty</name><set>TBoLt</set></card>
+		<card><name>Smaug the Terrible</name><set>TBoLt</set></card>
+		<card><name>Smaug the Terrible</name><set>TBoLt</set></card>
+		<card><name>Smaug the Terrible</name><set>TBoLt</set></card>
+		<card><name>Lake-town</name><set>TBoLt</set></card>
+	</superzone>
+</deck>

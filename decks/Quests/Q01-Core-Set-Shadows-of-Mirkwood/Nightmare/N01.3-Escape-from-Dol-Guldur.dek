@@ -1,0 +1,65 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Eyes of the Forest</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Hummerhorns</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>Ungoliants Spawn</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Cavern Guardian</name><set>Core</set></card>
+		<card><name>Cavern Guardian</name><set>Core</set></card>
+		<card><name>Endless Caverns</name><set>Core</set></card>
+		<card><name>Endless Caverns</name><set>Core</set></card>
+		<card><name>Catacomb Inspection</name><set>EFDGN</set></card>
+		<card><name>Catacomb Inspection</name><set>EFDGN</set></card>
+		<card><name>Crazed Captive</name><set>EFDGN</set></card>
+		<card><name>Crazed Captive</name><set>EFDGN</set></card>
+		<card><name>Dark Interrogation</name><set>EFDGN</set></card>
+		<card><name>Dark Interrogation</name><set>EFDGN</set></card>
+		<card><name>Dungeon Labyrinth</name><set>EFDGN</set></card>
+		<card><name>Dungeon Labyrinth</name><set>EFDGN</set></card>
+		<card><name>Dungeon Labyrinth</name><set>EFDGN</set></card>
+		<card><name>Sentinel of Shadow</name><set>EFDGN</set></card>
+		<card><name>Sentinel of Shadow</name><set>EFDGN</set></card>
+		<card><name>Spider of Dol Guldur</name><set>EFDGN</set></card>
+		<card><name>Spider of Dol Guldur</name><set>EFDGN</set></card>
+		<card><name>Spider of Dol Guldur</name><set>EFDGN</set></card>
+		<card><name>Torture Chamber</name><set>EFDGN</set></card>
+		<card><name>Torture Chamber</name><set>EFDGN</set></card>
+		<card><name>Torture Master</name><set>EFDGN</set></card>
+		<card><name>Torture Master</name><set>EFDGN</set></card>
+		<card><name>Torture Master</name><set>EFDGN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Escape from Dol Guldur</name><set>EFDGN</set></card>
+		<card><name>The Necromancers Tower</name><set>Core</set></card>
+		<card><name>Through the Caverns</name><set>Core</set></card>
+		<card><name>Out of the Dungeons</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Nazgul of Dol Guldur</name><set>Core</set></card>
+		<card><name>Gandalfs Map</name><set>Core</set></card>
+		<card><name>Shadow Key</name><set>Core</set></card>
+		<card><name>Dungeon Torch</name><set>Core</set></card>
+	</superzone>
+</deck>

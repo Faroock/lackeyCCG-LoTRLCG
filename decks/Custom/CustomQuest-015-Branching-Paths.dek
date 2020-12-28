@@ -1,0 +1,87 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Despair</name><set>Core</set></card>
+		<card><name>Despair</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Cavern Guardian</name><set>Core</set></card>
+		<card><name>Cavern Guardian</name><set>Core</set></card>
+		<card><name>Under the Shadow</name><set>Core</set></card>
+		<card><name>Under the Shadow</name><set>Core</set></card>
+		<card><name>Iron Shackles</name><set>Core</set></card>
+		<card><name>Endless Caverns</name><set>Core</set></card>
+		<card><name>Endless Caverns</name><set>Core</set></card>
+		<card><name>Tower Gate</name><set>Core</set></card>
+		<card><name>Tower Gate</name><set>Core</set></card>
+		<card><name>False Lead</name><set>HfG</set></card>
+		<card><name>False Lead</name><set>HfG</set></card>
+		<card><name>Flooding</name><set>HfG</set></card>
+		<card><name>Flooding</name><set>HfG</set></card>
+		<card><name>Goblintown Scavengers</name><set>HfG</set></card>
+		<card><name>Goblintown Scavengers</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Old Wives Tales</name><set>HfG</set></card>
+		<card><name>Old Wives Tales</name><set>HfG</set></card>
+		<card><name>Old Wives Tales</name><set>HfG</set></card>
+		<card><name>River Ninglor</name><set>HfG</set></card>
+		<card><name>River Ninglor</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>The East Bank</name><set>HfG</set></card>
+		<card><name>The East Bank</name><set>HfG</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>HfG</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>HfG</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>HfG</set></card>
+		<card><name>The Old Ford</name><set>HfG</set></card>
+		<card><name>The Old Ford</name><set>HfG</set></card>
+		<card><name>The West Bank</name><set>HfG</set></card>
+		<card><name>The West Bank</name><set>HfG</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Nazgul of Dol Guldur</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+		<card><name>Dungeon Jailor</name><set>Core</set></card>
+	</superzone>
+</deck>

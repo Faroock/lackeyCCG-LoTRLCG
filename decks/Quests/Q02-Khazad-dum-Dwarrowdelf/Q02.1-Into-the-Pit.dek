@@ -1,0 +1,75 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Patrol Leader</name><set>KD</set></card>
+		<card><name>Patrol Leader</name><set>KD</set></card>
+		<card><name>Signs of Conflict</name><set>KD</set></card>
+		<card><name>Signs of Conflict</name><set>KD</set></card>
+		<card><name>Signs of Conflict</name><set>KD</set></card>
+		<card><name>Signs of Conflict</name><set>KD</set></card>
+		<card><name>Signs of Conflict</name><set>KD</set></card>
+		<card><name>Stairs of Nain</name><set>KD</set></card>
+		<card><name>Stairs of Nain</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Burning Low</name><set>KD</set></card>
+		<card><name>Burning Low</name><set>KD</set></card>
+		<card><name>Burning Low</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Lightless Passage</name><set>KD</set></card>
+		<card><name>Lightless Passage</name><set>KD</set></card>
+		<card><name>Many Roads</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Crumbling Ruin</name><set>KD</set></card>
+		<card><name>Crumbling Ruin</name><set>KD</set></card>
+		<card><name>Dark and Dreadful</name><set>KD</set></card>
+		<card><name>Dark and Dreadful</name><set>KD</set></card>
+		<card><name>Dreadful Gap</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Sudden Pitfall</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Entering the Mines</name><set>KD</set></card>
+		<card><name>Goblin Patrol</name><set>KD</set></card>
+		<card><name>A Way Up</name><set>KD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>East-gate</name><set>KD</set></card>
+		<card><name>Cave Torch</name><set>KD</set></card>
+		<card><name>First Hall</name><set>KD</set></card>
+		<card><name>Bridge of Khazad-dum</name><set>KD</set></card>
+	</superzone>
+</deck>

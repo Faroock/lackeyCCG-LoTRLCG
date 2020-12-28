@@ -1,0 +1,69 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Massing at Night</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>A Flooded Ford</name><set>JAtAN</set></card>
+		<card><name>A Flooded Ford</name><set>JAtAN</set></card>
+		<card><name>Anduin Troll Spawn</name><set>JAtAN</set></card>
+		<card><name>Anduin Troll Spawn</name><set>JAtAN</set></card>
+		<card><name>Anduin Troll Spawn</name><set>JAtAN</set></card>
+		<card><name>Brown Water Rats</name><set>JAtAN</set></card>
+		<card><name>Brown Water Rats</name><set>JAtAN</set></card>
+		<card><name>Brown Water Rats</name><set>JAtAN</set></card>
+		<card><name>Gladden Marshlands</name><set>JAtAN</set></card>
+		<card><name>Gladden Marshlands</name><set>JAtAN</set></card>
+		<card><name>Gladden Marshlands</name><set>JAtAN</set></card>
+		<card><name>Marshland Outlaws</name><set>JAtAN</set></card>
+		<card><name>Marshland Outlaws</name><set>JAtAN</set></card>
+		<card><name>Pursuit on the Shore</name><set>JAtAN</set></card>
+		<card><name>Pursuit on the Shore</name><set>JAtAN</set></card>
+		<card><name>Smoking Blood</name><set>JAtAN</set></card>
+		<card><name>Smoking Blood</name><set>JAtAN</set></card>
+		<card><name>Troll Attack</name><set>JAtAN</set></card>
+		<card><name>Troll Attack</name><set>JAtAN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Journey Along the Anduin</name><set>JAtAN</set></card>
+		<card><name>To the River...</name><set>Core</set></card>
+		<card><name>Anduin Passage</name><set>Core</set></card>
+		<card><name>Ambush on the Shore</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

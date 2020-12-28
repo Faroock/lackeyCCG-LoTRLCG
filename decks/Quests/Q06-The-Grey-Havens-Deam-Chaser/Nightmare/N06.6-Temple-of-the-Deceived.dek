@@ -1,0 +1,76 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Island Watcher</name><set>TotD</set></card>
+		<card><name>Island Watcher</name><set>TotD</set></card>
+		<card><name>Profane Dead</name><set>TotD</set></card>
+		<card><name>Profane Dead</name><set>TotD</set></card>
+		<card><name>Deeper into the Ruins</name><set>TotD</set></card>
+		<card><name>Deeper into the Ruins</name><set>TotD</set></card>
+		<card><name>Furious Rainstorm</name><set>TotD</set></card>
+		<card><name>Furious Rainstorm</name><set>TotD</set></card>
+		<card><name>Furious Rainstorm</name><set>TotD</set></card>
+		<card><name>Dwindling Supplies</name><set>TotD</set></card>
+		<card><name>Dwindling Supplies</name><set>TotD</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Soulless Cadaver</name><set>TGH</set></card>
+		<card><name>Soulless Cadaver</name><set>TGH</set></card>
+		<card><name>Throngs of Unfaithful</name><set>TGH</set></card>
+		<card><name>Throngs of Unfaithful</name><set>TGH</set></card>
+		<card><name>Kings Knight</name><set>TotDN</set></card>
+		<card><name>Kings Knight</name><set>TotDN</set></card>
+		<card><name>Cursed Soldier</name><set>TotDN</set></card>
+		<card><name>Cursed Soldier</name><set>TotDN</set></card>
+		<card><name>Cursed Soldier</name><set>TotDN</set></card>
+		<card><name>Deceitful Island</name><set>TotDN</set></card>
+		<card><name>Deceitful Island</name><set>TotDN</set></card>
+		<card><name>Call of the Curse</name><set>TotDN</set></card>
+		<card><name>Call of the Curse</name><set>TotDN</set></card>
+		<card><name>Call of the Curse</name><set>TotDN</set></card>
+		<card><name>Sudden Precipice</name><set>TotDN</set></card>
+		<card><name>Sudden Precipice</name><set>TotDN</set></card>
+		<card><name>Sudden Precipice</name><set>TotDN</set></card>
+		<card><name>Aimless Wandering</name><set>TGH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Temple of the Deceived</name><set>TotDN</set></card>
+		<card><name>Searching the Island</name><set>TotD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Temple of the Deceived</name><set>TotD</set></card>
+		<card><name>Temple of the Deceived</name><set>TotD</set></card>
+		<card><name>Temple of the Deceived</name><set>TotD</set></card>
+		<card><name>Lost Island</name><set>TotD</set></card>
+		<card><name>Lost Island</name><set>TotD</set></card>
+		<card><name>Lost Island</name><set>TotD</set></card>
+		<card><name>Lost Island</name><set>TotD</set></card>
+		<card><name>Lost Island</name><set>TotD</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Lost Island</name><set>TGH</set></card>
+		<card><name>Edge of the Temple</name><set>TotDN</set></card>
+		<card><name>Edge of the Temple</name><set>TotDN</set></card>
+		<card><name>Edge of the Temple</name><set>TotDN</set></card>
+		<card><name>Edge of the Temple</name><set>TotDN</set></card>
+		<card><name>Edge of the Temple</name><set>TotDN</set></card>
+		<card><name>Edge of the Temple</name><set>TotDN</set></card>
+		<card><name>Temple of the Deceived</name><set>TotD</set></card>
+		<card><name>Temple of the Deceived</name><set>TotD</set></card>
+		<card><name>Temple Guardian</name><set>TotD</set></card>
+		<card><name>Gate Key</name><set>TotD</set></card>
+		<card><name>Naasiyah</name><set>TGH</set></card>
+		<card><name>Captain Sahir</name><set>TGH</set></card>
+	</superzone>
+</deck>

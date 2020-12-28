@@ -1,0 +1,62 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Drowned Cave</name><set>DR</set></card>
+		<card><name>Drowned Cave</name><set>DR</set></card>
+		<card><name>Powerful Undertow</name><set>DR</set></card>
+		<card><name>Powerful Undertow</name><set>DR</set></card>
+		<card><name>Powerful Undertow</name><set>DR</set></card>
+		<card><name>Into the Abyss</name><set>DR</set></card>
+		<card><name>Into the Abyss</name><set>DR</set></card>
+		<card><name>Into the Abyss</name><set>DR</set></card>
+		<card><name>Tangling and Grasping</name><set>DR</set></card>
+		<card><name>Tangling and Grasping</name><set>DR</set></card>
+		<card><name>Tangling and Grasping</name><set>DR</set></card>
+		<card><name>Tangling and Grasping</name><set>DR</set></card>
+		<card><name>Ancient Depths</name><set>DR</set></card>
+		<card><name>Ancient Depths</name><set>DR</set></card>
+		<card><name>Ancient Depths</name><set>DR</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Drowned Dead</name><set>TGH</set></card>
+		<card><name>Soulless Cadaver</name><set>TGH</set></card>
+		<card><name>Soulless Cadaver</name><set>TGH</set></card>
+		<card><name>Throngs of Unfaithful</name><set>TGH</set></card>
+		<card><name>Throngs of Unfaithful</name><set>TGH</set></card>
+		<card><name>Curse of the Downfallen</name><set>TGH</set></card>
+		<card><name>Curse of the Downfallen</name><set>TGH</set></card>
+		<card><name>Sea-Scorpion</name><set>DR</set></card>
+		<card><name>Sea-Scorpion</name><set>DR</set></card>
+		<card><name>Sea-Scorpion</name><set>DR</set></card>
+		<card><name>Cave Eel</name><set>DR</set></card>
+		<card><name>Cave Eel</name><set>DR</set></card>
+		<card><name>Cave Eel</name><set>DR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Grotto</name><set>DR</set></card>
+		<card><name>Sahirs Betrayal</name><set>DR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Undersea Grotto</name><set>DR</set></card>
+		<card><name>Undersea Grotto</name><set>DR</set></card>
+		<card><name>Cursed Caverns</name><set>DR</set></card>
+		<card><name>Cursed Caverns</name><set>DR</set></card>
+		<card><name>Cursed Caverns</name><set>DR</set></card>
+		<card><name>Water-Logged Halls</name><set>DR</set></card>
+		<card><name>Undersea Grotto</name><set>DR</set></card>
+		<card><name>Water-Logged Halls</name><set>DR</set></card>
+		<card><name>Shrine to Morgoth</name><set>DR</set></card>
+		<card><name>Captain Sahir</name><set>TGH</set></card>
+		<card><name>Naasiyah</name><set>TGH</set></card>
+		<card><name>The Drowned Ruins</name><set>DR</set></card>
+	</superzone>
+</deck>

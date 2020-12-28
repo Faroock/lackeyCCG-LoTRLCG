@@ -1,0 +1,50 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Collateral Damage</name><set>HoN</set></card>
+		<card><name>Collateral Damage</name><set>HoN</set></card>
+		<card><name>Collateral Damage</name><set>HoN</set></card>
+		<card><name>Collateral Damage</name><set>HoN</set></card>
+		<card><name>Harbor Storehouse</name><set>HoN</set></card>
+		<card><name>Harbor Storehouse</name><set>HoN</set></card>
+		<card><name>Harbor Thug</name><set>HoN</set></card>
+		<card><name>Harbor Thug</name><set>HoN</set></card>
+		<card><name>Harbor Thug</name><set>HoN</set></card>
+		<card><name>Harbor Thug</name><set>HoN</set></card>
+		<card><name>Harbor Thug</name><set>HoN</set></card>
+		<card><name>City Street</name><set>HoN</set></card>
+		<card><name>City Street</name><set>HoN</set></card>
+		<card><name>City Street</name><set>HoN</set></card>
+		<card><name>Local Trouble</name><set>HoN</set></card>
+		<card><name>Market Square</name><set>HoN</set></card>
+		<card><name>Market Square</name><set>HoN</set></card>
+		<card><name>Pickpocket</name><set>HoN</set></card>
+		<card><name>Pickpocket</name><set>HoN</set></card>
+		<card><name>Pickpocket</name><set>HoN</set></card>
+		<card><name>Lossarnach Bandit</name><set>HoN</set></card>
+		<card><name>Lossarnach Bandit</name><set>HoN</set></card>
+		<card><name>Lurking in Shadows</name><set>HoN</set></card>
+		<card><name>Lurking in Shadows</name><set>HoN</set></card>
+		<card><name>Zealous Traitor</name><set>HoN</set></card>
+		<card><name>Zealous Traitor</name><set>HoN</set></card>
+		<card><name>Zealous Traitor</name><set>HoN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Leaping Fish</name><set>HoN</set></card>
+		<card><name>Fighting in the Streets</name><set>HoN</set></card>
+		<card><name>Escape to the Quays</name><set>HoN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Leaping Fish</name><set>HoN</set></card>
+		<card><name>Alcarons Scroll</name><set>HoN</set></card>
+	</superzone>
+</deck>

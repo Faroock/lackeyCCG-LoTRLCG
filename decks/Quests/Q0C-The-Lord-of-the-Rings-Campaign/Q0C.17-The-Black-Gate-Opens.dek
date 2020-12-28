@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Aragorn</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Towers of the Teeth</name><set>MoF</set></card>
+		<card><name>Towers of the Teeth</name><set>MoF</set></card>
+		<card><name>Beleaguered Hills</name><set>MoF</set></card>
+		<card><name>Beleaguered Hills</name><set>MoF</set></card>
+		<card><name>Waste of Dagorlad</name><set>MoF</set></card>
+		<card><name>Waste of Dagorlad</name><set>MoF</set></card>
+		<card><name>Waste of Dagorlad</name><set>MoF</set></card>
+		<card><name>Slopes of Cirith Gorgor</name><set>MoF</set></card>
+		<card><name>Slopes of Cirith Gorgor</name><set>MoF</set></card>
+		<card><name>Reeking Moat</name><set>MoF</set></card>
+		<card><name>Reeking Moat</name><set>MoF</set></card>
+		<card><name>Wall of Morannon</name><set>MoF</set></card>
+		<card><name>Wall of Morannon</name><set>MoF</set></card>
+		<card><name>Nazgul of Mordor</name><set>MoF</set></card>
+		<card><name>Nazgul of Mordor</name><set>MoF</set></card>
+		<card><name>Nazgul of Mordor</name><set>MoF</set></card>
+		<card><name>Gorgoroth Hill-troll</name><set>MoF</set></card>
+		<card><name>Gorgoroth Hill-troll</name><set>MoF</set></card>
+		<card><name>Easterling Bowman</name><set>MoF</set></card>
+		<card><name>Easterling Bowman</name><set>MoF</set></card>
+		<card><name>Easterling Bowman</name><set>MoF</set></card>
+		<card><name>Warrior of Rhun</name><set>MoF</set></card>
+		<card><name>Warrior of Rhun</name><set>MoF</set></card>
+		<card><name>Warrior of Rhun</name><set>MoF</set></card>
+		<card><name>Hell-hawk</name><set>MoF</set></card>
+		<card><name>Hell-hawk</name><set>MoF</set></card>
+		<card><name>The Hour of Doom</name><set>MoF</set></card>
+		<card><name>The Hour of Doom</name><set>MoF</set></card>
+		<card><name>The Hour of Doom</name><set>MoF</set></card>
+		<card><name>Jaws of Steel</name><set>MoF</set></card>
+		<card><name>Jaws of Steel</name><set>MoF</set></card>
+		<card><name>Rage Filled Him</name><set>MoF</set></card>
+		<card><name>Rage Filled Him</name><set>MoF</set></card>
+		<card><name>Rage Filled Him</name><set>MoF</set></card>
+		<card><name>Onslaught of Mordor</name><set>MoF</set></card>
+		<card><name>Onslaught of Mordor</name><set>MoF</set></card>
+		<card><name>Onslaught of Mordor</name><set>MoF</set></card>
+		<card><name>Orc of Mordor</name><set>MoF</set></card>
+		<card><name>Orc of Mordor</name><set>MoF</set></card>
+		<card><name>Orc of Mordor</name><set>MoF</set></card>
+		<card><name>Snaga Archer</name><set>MoF</set></card>
+		<card><name>Snaga Archer</name><set>MoF</set></card>
+		<card><name>Snaga Archer</name><set>MoF</set></card>
+		<card><name>Uruk Soldier</name><set>MoF</set></card>
+		<card><name>Uruk Soldier</name><set>MoF</set></card>
+		<card><name>Uruk Soldier</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Black Gate Opens</name><set>MoF</set></card>
+		<card><name>Embassy from The Dark Tower</name><set>MoF</set></card>
+		<card><name>The Battle of the Morannon</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Gwaihir</name><set>MoF</set></card>
+		<card><name>The Black Gate</name><set>MoF</set></card>
+		<card><name>The Mouth of Sauron</name><set>MoF</set></card>
+	</superzone>
+</deck>

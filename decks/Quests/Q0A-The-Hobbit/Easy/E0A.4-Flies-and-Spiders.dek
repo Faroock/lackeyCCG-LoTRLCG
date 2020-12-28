@@ -1,0 +1,53 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Bilbo Baggins</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Caught in Webs</name><set>OtD</set></card>
+		<card><name>Caught in Webs</name><set>OtD</set></card>
+		<card><name>Crazy Cob</name><set>OtD</set></card>
+		<card><name>Crazy Cob</name><set>OtD</set></card>
+		<card><name>Fat Spider</name><set>OtD</set></card>
+		<card><name>Fat Spider</name><set>OtD</set></card>
+		<card><name>Fat Spider</name><set>OtD</set></card>
+		<card><name>Forest Stream</name><set>OtD</set></card>
+		<card><name>Forest Stream</name><set>OtD</set></card>
+		<card><name>Giant Web</name><set>OtD</set></card>
+		<card><name>Giant Web</name><set>OtD</set></card>
+		<card><name>Giant Web</name><set>OtD</set></card>
+		<card><name>Lazy Lob</name><set>OtD</set></card>
+		<card><name>Old Tomnoddy</name><set>OtD</set></card>
+		<card><name>Wicked Spider</name><set>OtD</set></card>
+		<card><name>Wicked Spider</name><set>OtD</set></card>
+		<card><name>Wicked Spider</name><set>OtD</set></card>
+		<card><name>Wicked Spider</name><set>OtD</set></card>
+		<card><name>Wicked Spider</name><set>OtD</set></card>
+		<card><name>Dark Bats</name><set>OtD</set></card>
+		<card><name>Dark Bats</name><set>OtD</set></card>
+		<card><name>Dark Bats</name><set>OtD</set></card>
+		<card><name>Hidden Path</name><set>OtD</set></card>
+		<card><name>Hidden Path</name><set>OtD</set></card>
+		<card><name>Hidden Path</name><set>OtD</set></card>
+		<card><name>Weighed Down</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Into Mirkwood</name><set>OtD</set></card>
+		<card><name>Lost in the Dark</name><set>OtD</set></card>
+		<card><name>Captured by Spiders</name><set>OtD</set></card>
+		<card><name>Battle with the Spiders</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Spiders Glade</name><set>OtD</set></card>
+		<card><name>Bilbos Magic Ring</name><set>OtD</set></card>
+		<card><name>Bilbos Magic Ring</name><set>OtD</set></card>
+		<card><name>Bilbos Magic Ring</name><set>OtD</set></card>
+	</superzone>
+</deck>

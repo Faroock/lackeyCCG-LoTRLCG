@@ -1,0 +1,15 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>Mr. Underhill</name><set>TBR</set></card>
+		<card><name>Valiant Warrior</name><set>TBR</set></card>
+		<card><name>Noble Hero</name><set>TBR</set></card>
+		<card><name>Skilled Healer</name><set>TBR</set></card>
+		<card><name>Tireless Ranger</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+</deck>

@@ -1,0 +1,54 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Goblin Troop</name><set>Starter</set></card>
+		<card><name>Goblin Sniper</name><set>Starter</set></card>
+		<card><name>Goblin Sniper</name><set>Starter</set></card>
+		<card><name>Goblin Runners</name><set>Starter</set></card>
+		<card><name>Goblin Runners</name><set>Starter</set></card>
+		<card><name>Goblintown Scavengers</name><set>Starter</set></card>
+		<card><name>Goblintown Scavengers</name><set>Starter</set></card>
+		<card><name>Goblins are Upon You!</name><set>Starter</set></card>
+		<card><name>Eyes in the Dark</name><set>Starter</set></card>
+		<card><name>Eyes in the Dark</name><set>Starter</set></card>
+		<card><name>Great Cave-troll</name><set>Starter</set></card>
+		<card><name>Great Cave-troll</name><set>Starter</set></card>
+		<card><name>Cavern Warg</name><set>Starter</set></card>
+		<card><name>Cavern Warg</name><set>Starter</set></card>
+		<card><name>Goblin Tunnels</name><set>Starter</set></card>
+		<card><name>Lightless Passage</name><set>Starter</set></card>
+		<card><name>Branching Paths</name><set>Starter</set></card>
+		<card><name>Collapsed Mine</name><set>Starter</set></card>
+		<card><name>Goblin Dungeon</name><set>Starter</set></card>
+		<card><name>Crumbling Ruin</name><set>Starter</set></card>
+		<card><name>Crumbling Ruin</name><set>Starter</set></card>
+		<card><name>Lost in the Dark</name><set>Starter</set></card>
+		<card><name>Lost in the Dark</name><set>Starter</set></card>
+		<card><name>Watchful Eyes</name><set>Starter</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Dark of Nibin-Dum</name><set>Starter</set></card>
+		<card><name>Surprise Attack</name><set>Starter</set></card>
+		<card><name>The Chasm</name><set>Starter</set></card>
+		<card><name>Oathkeepers</name><set>Starter</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Cracked Pillar</name><set>Starter</set></card>
+		<card><name>Goblin Chieftain</name><set>Starter</set></card>
+		<card><name>Cave Torch</name><set>Starter</set></card>
+		<card><name>Goblin Dungeon</name><set>Starter</set></card>
+		<card><name>Collapsed Mine</name><set>Starter</set></card>
+		<card><name>Branching Paths</name><set>Starter</set></card>
+		<card><name>Lightless Passage</name><set>Starter</set></card>
+		<card><name>Goblin Tunnels</name><set>Starter</set></card>
+	</superzone>
+</deck>

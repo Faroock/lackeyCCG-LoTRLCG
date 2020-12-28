@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Northern Warg</name><set>WoE</set></card>
+		<card><name>Northern Warg</name><set>WoE</set></card>
+		<card><name>Blood-thirsty Warg</name><set>WoE</set></card>
+		<card><name>Blood-thirsty Warg</name><set>WoE</set></card>
+		<card><name>Hunting Pack</name><set>WoE</set></card>
+		<card><name>Hunting Pack</name><set>WoE</set></card>
+		<card><name>White Warg</name><set>WoE</set></card>
+		<card><name>White Warg</name><set>WoE</set></card>
+		<card><name>Wolf of Angmar</name><set>WoE</set></card>
+		<card><name>Wolf of Angmar</name><set>WoE</set></card>
+		<card><name>Wolf of Angmar</name><set>WoE</set></card>
+		<card><name>Wargs Den</name><set>WoE</set></card>
+		<card><name>Wargs Den</name><set>WoE</set></card>
+		<card><name>North Downs</name><set>WoE</set></card>
+		<card><name>North Downs</name><set>WoE</set></card>
+		<card><name>Sudden Darkness</name><set>WoE</set></card>
+		<card><name>Predatory Wolves</name><set>WoE</set></card>
+		<card><name>Predatory Wolves</name><set>WoE</set></card>
+		<card><name>Predatory Wolves</name><set>WoE</set></card>
+		<card><name>Freezing Blast</name><set>TLR</set></card>
+		<card><name>Cold from Angmar</name><set>TLR</set></card>
+		<card><name>Cold from Angmar</name><set>TLR</set></card>
+		<card><name>Make Camp</name><set>TLR</set></card>
+		<card><name>Weight of Responsibility</name><set>TLR</set></card>
+		<card><name>Weight of Responsibility</name><set>TLR</set></card>
+		<card><name>Lost in the Wilderness</name><set>TLR</set></card>
+		<card><name>Pack Hunters</name><set>TWoEN</set></card>
+		<card><name>Pack Hunters</name><set>TWoEN</set></card>
+		<card><name>Pack Hunters</name><set>TWoEN</set></card>
+		<card><name>Pack Hunters</name><set>TWoEN</set></card>
+		<card><name>Pack Hunters</name><set>TWoEN</set></card>
+		<card><name>Shrouded Wilderness</name><set>TWoEN</set></card>
+		<card><name>Shrouded Wilderness</name><set>TWoEN</set></card>
+		<card><name>Shrouded Wilderness</name><set>TWoEN</set></card>
+		<card><name>Snowy Badlands</name><set>TWoEN</set></card>
+		<card><name>Snowy Badlands</name><set>TWoEN</set></card>
+		<card><name>Snowy Badlands</name><set>TWoEN</set></card>
+		<card><name>Cunning Wolves</name><set>TWoEN</set></card>
+		<card><name>Cunning Wolves</name><set>TWoEN</set></card>
+		<card><name>Cunning Wolves</name><set>TWoEN</set></card>
+		<card><name>Torrent of Hail</name><set>TWoEN</set></card>
+		<card><name>Torrent of Hail</name><set>TWoEN</set></card>
+		<card><name>Torrent of Hail</name><set>TWoEN</set></card>
+		<card><name>Make a Stand</name><set>TWoEN</set></card>
+		<card><name>Forced off Track</name><set>TWoEN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Wastes of Eriador</name><set>TWoEN</set></card>
+		<card><name>Across the Wastes</name><set>WoE</set></card>
+		<card><name>Howling at Night</name><set>WoE</set></card>
+		<card><name>Battle with the Pack</name><set>WoE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Pack Leader</name><set>WoE</set></card>
+		<card><name>Amarthiul</name><set>WoE</set></card>
+		<card><name>Daybreak</name><set>WoE</set></card>
+		<card><name>Shrouded Hills</name><set>TLR</set></card>
+	</superzone>
+</deck>

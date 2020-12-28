@@ -1,0 +1,63 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wainrider Captain</name><set>TMaO</set></card>
+		<card><name>Wainrider Captain</name><set>TMaO</set></card>
+		<card><name>Wainrider Captain</name><set>TMaO</set></card>
+		<card><name>Uruk Vanguard</name><set>TMaO</set></card>
+		<card><name>Uruk Vanguard</name><set>TMaO</set></card>
+		<card><name>Uruk Vanguard</name><set>TMaO</set></card>
+		<card><name>Captured Watchtower</name><set>TMaO</set></card>
+		<card><name>Captured Watchtower</name><set>TMaO</set></card>
+		<card><name>Captured Watchtower</name><set>TMaO</set></card>
+		<card><name>Emyn Arnen Overlook</name><set>TMaO</set></card>
+		<card><name>Morgulduin</name><set>TMaO</set></card>
+		<card><name>Morgulduin</name><set>TMaO</set></card>
+		<card><name>Pelennor Fields</name><set>TMaO</set></card>
+		<card><name>Pelennor Fields</name><set>TMaO</set></card>
+		<card><name>Ruins of Osgiliath</name><set>TMaO</set></card>
+		<card><name>Ruins of Osgiliath</name><set>TMaO</set></card>
+		<card><name>Ruins of Osgiliath</name><set>TMaO</set></card>
+		<card><name>Cut Off</name><set>TMaO</set></card>
+		<card><name>Cut Off</name><set>TMaO</set></card>
+		<card><name>Cut Off</name><set>TMaO</set></card>
+		<card><name>Cut Off</name><set>TMaO</set></card>
+		<card><name>Dark Pursuit</name><set>TMaO</set></card>
+		<card><name>Dark Pursuit</name><set>TMaO</set></card>
+		<card><name>Massing at Osgiliath</name><set>TMaO</set></card>
+		<card><name>Massing at Osgiliath</name><set>TMaO</set></card>
+		<card><name>Massing at Osgiliath</name><set>TMaO</set></card>
+		<card><name>Ranger of Ithilien</name><set>TMaO</set></card>
+		<card><name>Ranger of Ithilien</name><set>TMaO</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Beyond Expectations</name><set>TMaO</set></card>
+		<card><name>Through the Ruins</name><set>TMaO</set></card>
+		<card><name>Anduin Crossing</name><set>TMaO</set></card>
+		<card><name>Race to Minas Tirith</name><set>TMaO</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Witch-king</name><set>TMaO</set></card>
+		<card><name>Snaga Scouts</name><set>TMaO</set></card>
+		<card><name>Snaga Scouts</name><set>TMaO</set></card>
+		<card><name>Snaga Scouts</name><set>TMaO</set></card>
+		<card><name>Snaga Scouts</name><set>TMaO</set></card>
+		<card><name>Wolves from Mordor</name><set>TMaO</set></card>
+		<card><name>Wolves from Mordor</name><set>TMaO</set></card>
+		<card><name>Wolves from Mordor</name><set>TMaO</set></card>
+		<card><name>Wolves from Mordor</name><set>TMaO</set></card>
+		<card><name>Wainriders</name><set>TMaO</set></card>
+		<card><name>Wainriders</name><set>TMaO</set></card>
+		<card><name>Wainriders</name><set>TMaO</set></card>
+		<card><name>Wainriders</name><set>TMaO</set></card>
+	</superzone>
+</deck>

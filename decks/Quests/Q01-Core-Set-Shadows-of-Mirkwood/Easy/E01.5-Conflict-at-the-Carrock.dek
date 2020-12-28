@@ -1,0 +1,57 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>A Frightened Beast</name><set>CatC</set></card>
+		<card><name>Bee Pastures</name><set>CatC</set></card>
+		<card><name>Bee Pastures</name><set>CatC</set></card>
+		<card><name>Bee Pastures</name><set>CatC</set></card>
+		<card><name>Grimbeorn the Old</name><set>CatC</set></card>
+		<card><name>Muck Adder</name><set>CatC</set></card>
+		<card><name>Muck Adder</name><set>CatC</set></card>
+		<card><name>Oak-wood Grove</name><set>CatC</set></card>
+		<card><name>Oak-wood Grove</name><set>CatC</set></card>
+		<card><name>Oak-wood Grove</name><set>CatC</set></card>
+		<card><name>River Langflood</name><set>CatC</set></card>
+		<card><name>River Langflood</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Grimbeorns Quest</name><set>CatC</set></card>
+		<card><name>Against the Trolls</name><set>CatC</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Carrock</name><set>CatC</set></card>
+		<card><name>Louis</name><set>CatC</set></card>
+		<card><name>Morris</name><set>CatC</set></card>
+		<card><name>Rupert</name><set>CatC</set></card>
+		<card><name>Stuart</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+		<card><name>Sacked!</name><set>CatC</set></card>
+	</superzone>
+</deck>

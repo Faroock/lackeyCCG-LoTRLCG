@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Jailer of Cirith Gurat</name><set>DoCG</set></card>
+		<card><name>Prison Guard</name><set>DoCG</set></card>
+		<card><name>Prison Guard</name><set>DoCG</set></card>
+		<card><name>Dungeon Warg</name><set>DoCG</set></card>
+		<card><name>Dungeon Warg</name><set>DoCG</set></card>
+		<card><name>Dungeon Warg</name><set>DoCG</set></card>
+		<card><name>Gate of Iron</name><set>DoCG</set></card>
+		<card><name>Gate of Iron</name><set>DoCG</set></card>
+		<card><name>Gate of Iron</name><set>DoCG</set></card>
+		<card><name>Dungeon Cell</name><set>DoCG</set></card>
+		<card><name>Dungeon Cell</name><set>DoCG</set></card>
+		<card><name>Uruk Guardroom</name><set>DoCG</set></card>
+		<card><name>Uruk Guardroom</name><set>DoCG</set></card>
+		<card><name>Mines of Cirith Gurat</name><set>DoCG</set></card>
+		<card><name>Mines of Cirith Gurat</name><set>DoCG</set></card>
+		<card><name>Mines of Cirith Gurat</name><set>DoCG</set></card>
+		<card><name>Torture Room</name><set>DoCG</set></card>
+		<card><name>Torture Room</name><set>DoCG</set></card>
+		<card><name>Taken Prisoner</name><set>DoCG</set></card>
+		<card><name>Taken Prisoner</name><set>DoCG</set></card>
+		<card><name>Tormented by Orcs</name><set>DoCG</set></card>
+		<card><name>Tormented by Orcs</name><set>DoCG</set></card>
+		<card><name>Tormented by Orcs</name><set>DoCG</set></card>
+		<card><name>Captured!</name><set>DoCG</set></card>
+		<card><name>In Hostile Territory</name><set>TSoH</set></card>
+		<card><name>Injured Companion</name><set>TSoH</set></card>
+		<card><name>Injured Companion</name><set>TSoH</set></card>
+		<card><name>Injured Companion</name><set>TSoH</set></card>
+		<card><name>Enfeebled</name><set>TSoH</set></card>
+		<card><name>Enfeebled</name><set>TSoH</set></card>
+		<card><name>Uruks of the Eye</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Rescue the Prisoners</name><set>DoCG</set></card>
+		<card><name>Sneak Past the Guards</name><set>DoCG</set></card>
+		<card><name>Fight Your Way Out</name><set>DoCG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Uruk Chieftain</name><set>TSoH</set></card>
+		<card><name>The Captives of Cirith Gurat</name><set>DoCG</set></card>
+		<card><name>Dungeon Cell</name><set>DoCG</set></card>
+		<card><name>Abaan</name><set>DoCG</set></card>
+		<card><name>Jailer of Cirith Gurat</name><set>DoCG</set></card>
+		<card><name>Prison Guard</name><set>DoCG</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+	</superzone>
+</deck>

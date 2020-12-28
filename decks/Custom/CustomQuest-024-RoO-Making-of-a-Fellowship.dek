@@ -1,0 +1,38 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Despair</name><set>Core</set></card>
+		<card><name>Despair</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

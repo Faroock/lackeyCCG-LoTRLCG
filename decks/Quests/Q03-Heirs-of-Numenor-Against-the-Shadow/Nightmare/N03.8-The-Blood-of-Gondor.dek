@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Southern Road</name><set>BoG</set></card>
+		<card><name>Western Road</name><set>BoG</set></card>
+		<card><name>Northern Road</name><set>BoG</set></card>
+		<card><name>Eastern Road</name><set>BoG</set></card>
+		<card><name>Lying in Wait</name><set>BoG</set></card>
+		<card><name>Lying in Wait</name><set>BoG</set></card>
+		<card><name>Mordor Looms</name><set>BoG</set></card>
+		<card><name>Mordor Looms</name><set>BoG</set></card>
+		<card><name>Mordor Looms</name><set>BoG</set></card>
+		<card><name>Conflict at the Crossroads</name><set>BoG</set></card>
+		<card><name>Conflict at the Crossroads</name><set>BoG</set></card>
+		<card><name>Orc Ambusher</name><set>BoG</set></card>
+		<card><name>Orc Ambusher</name><set>BoG</set></card>
+		<card><name>Orc Ambusher</name><set>BoG</set></card>
+		<card><name>Orc Ambusher</name><set>BoG</set></card>
+		<card><name>Brutal Uruk</name><set>BoG</set></card>
+		<card><name>Brutal Uruk</name><set>BoG</set></card>
+		<card><name>Brutal Uruk</name><set>BoG</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Scourge of Mordor</name><set>HoN</set></card>
+		<card><name>Orc Trickster</name><set>TBoGN</set></card>
+		<card><name>Orc Trickster</name><set>TBoGN</set></card>
+		<card><name>Orc Trickster</name><set>TBoGN</set></card>
+		<card><name>Orc Trickster</name><set>TBoGN</set></card>
+		<card><name>Uruk Marksman</name><set>TBoGN</set></card>
+		<card><name>Uruk Marksman</name><set>TBoGN</set></card>
+		<card><name>Uruk Marksman</name><set>TBoGN</set></card>
+		<card><name>Edge of Ithilien</name><set>TBoGN</set></card>
+		<card><name>Edge of Ithilien</name><set>TBoGN</set></card>
+		<card><name>Edge of Ithilien</name><set>TBoGN</set></card>
+		<card><name>Mountains of Shadow</name><set>TBoGN</set></card>
+		<card><name>Mountains of Shadow</name><set>TBoGN</set></card>
+		<card><name>Mountains of Shadow</name><set>TBoGN</set></card>
+		<card><name>Surrounded by Shadow</name><set>TBoGN</set></card>
+		<card><name>Surrounded by Shadow</name><set>TBoGN</set></card>
+		<card><name>Surrounded by Shadow</name><set>TBoGN</set></card>
+		<card><name>Sudden Onslaught</name><set>TBoGN</set></card>
+		<card><name>Sudden Onslaught</name><set>TBoGN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Blood of Gondor</name><set>TBoGN</set></card>
+		<card><name>The Ambush</name><set>BoG</set></card>
+		<card><name>Captured!</name><set>BoG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Cross-roads</name><set>BoG</set></card>
+		<card><name>Black Numenorean</name><set>TBoGN</set></card>
+		<card><name>Faramir</name><set>BoG</set></card>
+		<card><name>Lord Alcaron</name><set>BoG</set></card>
+	</superzone>
+</deck>

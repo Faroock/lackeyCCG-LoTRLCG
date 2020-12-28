@@ -1,0 +1,54 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Encounter Deck">
+		<card><name>Dark Bats</name><set>OtD</set></card>
+		<card><name>Dark Bats</name><set>OtD</set></card>
+		<card><name>Dark Bats</name><set>OtD</set></card>
+		<card><name>Fighting Among Friends</name><set>OtD</set></card>
+		<card><name>Fighting Among Friends</name><set>OtD</set></card>
+		<card><name>Hidden Path</name><set>OtD</set></card>
+		<card><name>Hidden Path</name><set>OtD</set></card>
+		<card><name>Hidden Path</name><set>OtD</set></card>
+		<card><name>Weighed Down</name><set>OtD</set></card>
+		<card><name>Weighed Down</name><set>OtD</set></card>
+		<card><name>Belching Fire</name><set>OtD</set></card>
+		<card><name>Belching Fire</name><set>OtD</set></card>
+		<card><name>Belching Fire</name><set>OtD</set></card>
+		<card><name>Belching Fire</name><set>OtD</set></card>
+		<card><name>Croaking Crows</name><set>OtD</set></card>
+		<card><name>Croaking Crows</name><set>OtD</set></card>
+		<card><name>Croaking Crows</name><set>OtD</set></card>
+		<card><name>Desolation of Smaug</name><set>OtD</set></card>
+		<card><name>Desolation of Smaug</name><set>OtD</set></card>
+		<card><name>Desolation of Smaug</name><set>OtD</set></card>
+		<card><name>Known to an Ounce</name><set>OtD</set></card>
+		<card><name>Known to an Ounce</name><set>OtD</set></card>
+		<card><name>Secret Entrance</name><set>OtD</set></card>
+		<card><name>Secret Entrance</name><set>OtD</set></card>
+		<card><name>Western Slopes</name><set>OtD</set></card>
+		<card><name>Western Slopes</name><set>OtD</set></card>
+		<card><name>Western Slopes</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>A Warm Welcome</name><set>OtD</set></card>
+		<card><name>The Burglars Turn</name><set>OtD</set></card>
+		<card><name>Inside Information</name><set>OtD</set></card>
+		<card><name>Thieves! Fire! Murder!</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Mithril Shirt</name><set>OtD</set></card>
+		<card><name>The Arkenstone</name><set>OtD</set></card>
+		<card><name>Thrors Battle Axe</name><set>OtD</set></card>
+		<card><name>Thrors Golden Cup</name><set>OtD</set></card>
+		<card><name>Thrors Hunting Bow</name><set>OtD</set></card>
+		<card><name>The Lonely Mountain</name><set>OtD</set></card>
+		<card><name>Smaug the Golden</name><set>OtD</set></card>
+		<card><name>Smaug the Magnificent</name><set>OtD</set></card>
+		<card><name>A Bare Patch</name><set>OtD</set></card>
+	</superzone>
+</deck>

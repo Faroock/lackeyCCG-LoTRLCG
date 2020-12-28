@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Man of Harad</name><set>LoS</set></card>
+		<card><name>Man of Harad</name><set>LoS</set></card>
+		<card><name>Man of Harad</name><set>LoS</set></card>
+		<card><name>Man of Harad</name><set>LoS</set></card>
+		<card><name>Captain of Harad</name><set>LoS</set></card>
+		<card><name>Captain of Harad</name><set>LoS</set></card>
+		<card><name>Captain of Harad</name><set>LoS</set></card>
+		<card><name>Henneth Annun</name><set>LoS</set></card>
+		<card><name>Southward Road</name><set>LoS</set></card>
+		<card><name>Southward Road</name><set>LoS</set></card>
+		<card><name>Foothills of Ephel Duath</name><set>LoS</set></card>
+		<card><name>Foothills of Ephel Duath</name><set>LoS</set></card>
+		<card><name>Foothills of Ephel Duath</name><set>LoS</set></card>
+		<card><name>Ithilien Woods</name><set>LoS</set></card>
+		<card><name>Ithilien Woods</name><set>LoS</set></card>
+		<card><name>Hills of Ithilien</name><set>LoS</set></card>
+		<card><name>Hills of Ithilien</name><set>LoS</set></card>
+		<card><name>Hills of Ithilien</name><set>LoS</set></card>
+		<card><name>Hills of Ithilien</name><set>LoS</set></card>
+		<card><name>The Dark Lords Summons</name><set>LoS</set></card>
+		<card><name>The Dark Lords Summons</name><set>LoS</set></card>
+		<card><name>The Dark Lords Summons</name><set>LoS</set></card>
+		<card><name>Marching Up the Road</name><set>LoS</set></card>
+		<card><name>Marching Up the Road</name><set>LoS</set></card>
+		<card><name>Fierce Southrons</name><set>LoS</set></card>
+		<card><name>Fierce Southrons</name><set>LoS</set></card>
+		<card><name>Arrows Thick in the Air</name><set>LoS</set></card>
+		<card><name>Arrows Thick in the Air</name><set>LoS</set></card>
+		<card><name>Arrows Thick in the Air</name><set>LoS</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Journey to the Cross-roads</name><set>LoS</set></card>
+		<card><name>Ambush the Men of Harad</name><set>LoS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Oliphaunt</name><set>LoS</set></card>
+		<card><name>Oliphaunt</name><set>LoS</set></card>
+		<card><name>Oliphaunt</name><set>LoS</set></card>
+		<card><name>Haradrim Soldier</name><set>LoS</set></card>
+		<card><name>Haradrim Soldier</name><set>LoS</set></card>
+		<card><name>Haradrim Soldier</name><set>LoS</set></card>
+		<card><name>Haradrim Archer</name><set>LoS</set></card>
+		<card><name>Haradrim Archer</name><set>LoS</set></card>
+		<card><name>Haradrim Archer</name><set>LoS</set></card>
+		<card><name>Brace of Conies</name><set>LoS</set></card>
+		<card><name>Brace of Conies</name><set>LoS</set></card>
+		<card><name>Brace of Conies</name><set>LoS</set></card>
+		<card><name>Brace of Conies</name><set>LoS</set></card>
+		<card><name>The Black Gate</name><set>LoS</set></card>
+		<card><name>The Cross-roads</name><set>LoS</set></card>
+		<card><name>The One Ring</name><set>LoS</set></card>
+		<card><name>Frodo Baggins</name><set>LoS</set></card>
+	</superzone>
+</deck>

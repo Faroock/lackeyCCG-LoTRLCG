@@ -1,0 +1,49 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Goblin Sniper</name><set>Starter</set></card>
+		<card><name>Goblin Sniper</name><set>Starter</set></card>
+		<card><name>Goblin Runners</name><set>Starter</set></card>
+		<card><name>Goblin Runners</name><set>Starter</set></card>
+		<card><name>Goblintown Scavengers</name><set>Starter</set></card>
+		<card><name>Goblintown Scavengers</name><set>Starter</set></card>
+		<card><name>Goblins are Upon You!</name><set>Starter</set></card>
+		<card><name>Eyes in the Dark</name><set>Starter</set></card>
+		<card><name>Eyes in the Dark</name><set>Starter</set></card>
+		<card><name>Spiders of Mirkwood</name><set>Starter</set></card>
+		<card><name>Spiders of Mirkwood</name><set>Starter</set></card>
+		<card><name>Great Spider</name><set>Starter</set></card>
+		<card><name>Great Spider</name><set>Starter</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>Starter</set></card>
+		<card><name>Tangled Grove</name><set>Starter</set></card>
+		<card><name>Tangled Grove</name><set>Starter</set></card>
+		<card><name>Forest Gate</name><set>Starter</set></card>
+		<card><name>Forest Gate</name><set>Starter</set></card>
+		<card><name>Spider Den</name><set>Starter</set></card>
+		<card><name>Spider Den</name><set>Starter</set></card>
+		<card><name>Goblin Trail</name><set>Starter</set></card>
+		<card><name>Goblin Trail</name><set>Starter</set></card>
+		<card><name>Driven by Shadow</name><set>Starter</set></card>
+		<card><name>Driven by Shadow</name><set>Starter</set></card>
+		<card><name>Surprising Speed</name><set>Starter</set></card>
+		<card><name>Surprising Speed</name><set>Starter</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>After the Raid</name><set>Starter</set></card>
+		<card><name>Mirkwood Forest</name><set>Starter</set></card>
+		<card><name>The Rearguard</name><set>Starter</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Goblin Troop</name><set>Starter</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>Starter</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,57 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>A Wisp of Pale Sheen</name><set>TDM</set></card>
+		<card><name>Nightfall</name><set>TDM</set></card>
+		<card><name>Nightfall</name><set>TDM</set></card>
+		<card><name>Nightfall</name><set>TDM</set></card>
+		<card><name>The Lights of the Dead</name><set>TDM</set></card>
+		<card><name>The Lights of the Dead</name><set>TDM</set></card>
+		<card><name>Through the Mist</name><set>TDM</set></card>
+		<card><name>Through the Mist</name><set>TDM</set></card>
+		<card><name>Through the Mist</name><set>TDM</set></card>
+		<card><name>Giant Marsh Worm</name><set>TDM</set></card>
+		<card><name>Giant Marsh Worm</name><set>TDM</set></card>
+		<card><name>Fens and Mires</name><set>TDM</set></card>
+		<card><name>Fens and Mires</name><set>TDM</set></card>
+		<card><name>Fens and Mires</name><set>TDM</set></card>
+		<card><name>Fens and Mires</name><set>TDM</set></card>
+		<card><name>Impassable Bog</name><set>TDM</set></card>
+		<card><name>Impassable Bog</name><set>TDM</set></card>
+		<card><name>The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name>The Heart of the Marshes</name><set>TDM</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Into the Marshes</name><set>TDM</set></card>
+		<card><name>The Capture</name><set>TDM</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Gollum</name><set>TDM</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,63 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Echoing Passage</name><set>MoF</set></card>
+		<card><name>Echoing Passage</name><set>MoF</set></card>
+		<card><name>Echoing Passage</name><set>MoF</set></card>
+		<card><name>Bloodied Courtyard</name><set>MoF</set></card>
+		<card><name>Bloodied Courtyard</name><set>MoF</set></card>
+		<card><name>Bloodied Courtyard</name><set>MoF</set></card>
+		<card><name>Winding Stairs</name><set>MoF</set></card>
+		<card><name>Winding Stairs</name><set>MoF</set></card>
+		<card><name>Winding Stairs</name><set>MoF</set></card>
+		<card><name>Torch-lit Hall</name><set>MoF</set></card>
+		<card><name>Torch-lit Hall</name><set>MoF</set></card>
+		<card><name>Torch-lit Hall</name><set>MoF</set></card>
+		<card><name>Gorbag</name><set>MoF</set></card>
+		<card><name>Wounded Uruk</name><set>MoF</set></card>
+		<card><name>Wounded Uruk</name><set>MoF</set></card>
+		<card><name>Wounded Uruk</name><set>MoF</set></card>
+		<card><name>Orcish Howls</name><set>MoF</set></card>
+		<card><name>Orcish Howls</name><set>MoF</set></card>
+		<card><name>Orcish Howls</name><set>MoF</set></card>
+		<card><name>Orc of Mordor</name><set>MoF</set></card>
+		<card><name>Orc of Mordor</name><set>MoF</set></card>
+		<card><name>Orc of Mordor</name><set>MoF</set></card>
+		<card><name>Snaga Archer</name><set>MoF</set></card>
+		<card><name>Snaga Archer</name><set>MoF</set></card>
+		<card><name>Snaga Archer</name><set>MoF</set></card>
+		<card><name>Uruk Soldier</name><set>MoF</set></card>
+		<card><name>Uruk Soldier</name><set>MoF</set></card>
+		<card><name>Uruk Soldier</name><set>MoF</set></card>
+		<card><name>Drawn to the Ring</name><set>MoF</set></card>
+		<card><name>Drawn to the Ring</name><set>MoF</set></card>
+		<card><name>Drawn to the Ring</name><set>MoF</set></card>
+		<card><name>Deep Shadows</name><set>MoF</set></card>
+		<card><name>Deep Shadows</name><set>MoF</set></card>
+		<card><name>Evil Vigilance</name><set>MoF</set></card>
+		<card><name>Evil Vigilance</name><set>MoF</set></card>
+		<card><name>Evil Vigilance</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Pass the Two Watchers</name><set>MoF</set></card>
+		<card><name>Fighting in the Tower</name><set>MoF</set></card>
+		<card><name>Escape from Cirith Ungol</name><set>MoF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Shagrat</name><set>MoF</set></card>
+		<card><name>Last of the Company</name><set>MoF</set></card>
+		<card><name>The One Ring</name><set>MoF</set></card>
+		<card><name>The Two Watchers</name><set>MoF</set></card>
+		<card><name>Topmost Chamber</name><set>MoF</set></card>
+		<card><name>Frodo Baggins</name><set>MoF</set></card>
+	</superzone>
+</deck>

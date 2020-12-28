@@ -1,0 +1,49 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Encounter Deck">
+		<card><name>Squint-Eyed Southerner</name><set>TBR</set></card>
+		<card><name>Squint-Eyed Southerner</name><set>TBR</set></card>
+		<card><name>Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name>Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name>Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name>Shady Bree-Lander</name><set>TBR</set></card>
+		<card><name>Weather Hills</name><set>TBR</set></card>
+		<card><name>Weather Hills</name><set>TBR</set></card>
+		<card><name>Weather Hills</name><set>TBR</set></card>
+		<card><name>Chetwood</name><set>TBR</set></card>
+		<card><name>Chetwood</name><set>TBR</set></card>
+		<card><name>Chetwood</name><set>TBR</set></card>
+		<card><name>Unwanted Attention</name><set>TBR</set></card>
+		<card><name>Unwanted Attention</name><set>TBR</set></card>
+		<card><name>Unwanted Attention</name><set>TBR</set></card>
+		<card><name>Pathless Country</name><set>TBR</set></card>
+		<card><name>Pathless Country</name><set>TBR</set></card>
+		<card><name>Pathless Country</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Power In Their Terror</name><set>TBR</set></card>
+		<card><name>Pale Blade</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Trouble in Bree</name><set>TBR</set></card>
+		<card><name>Into the Wild</name><set>TBR</set></card>
+		<card><name>The Ringwraiths Attack</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>The Witch-king</name><set>TBR</set></card>
+		<card><name>Midgewater</name><set>TBR</set></card>
+		<card><name>Weathertop</name><set>TBR</set></card>
+		<card><name>The Prancing Pony</name><set>TBR</set></card>
+		<card><name>Bill Ferny</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+		<card><name>Ringwraith</name><set>TBR</set></card>
+	</superzone>
+</deck>

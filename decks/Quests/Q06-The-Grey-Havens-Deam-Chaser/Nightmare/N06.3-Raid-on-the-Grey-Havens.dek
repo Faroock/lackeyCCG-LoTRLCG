@@ -1,0 +1,68 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Sahirs Ravager</name><set>TGH</set></card>
+		<card><name>Sahirs Ravager</name><set>TGH</set></card>
+		<card><name>Mithlond Harbor</name><set>TGH</set></card>
+		<card><name>Mithlond Harbor</name><set>TGH</set></card>
+		<card><name>Burning Piers</name><set>TGH</set></card>
+		<card><name>Burning Piers</name><set>TGH</set></card>
+		<card><name>Pillaged Ship</name><set>TGH</set></card>
+		<card><name>Pillaged Ship</name><set>TGH</set></card>
+		<card><name>White Ship</name><set>TGH</set></card>
+		<card><name>White Ship</name><set>TGH</set></card>
+		<card><name>Elven Caravel</name><set>TGH</set></card>
+		<card><name>Elven Caravel</name><set>TGH</set></card>
+		<card><name>Put to the Torch</name><set>TGH</set></card>
+		<card><name>Put to the Torch</name><set>TGH</set></card>
+		<card><name>The Fires Spread</name><set>TGH</set></card>
+		<card><name>The Fires Spread</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Corsair Infiltrator</name><set>TGH</set></card>
+		<card><name>Corsair Infiltrator</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Corsair Pillager</name><set>RotGHN</set></card>
+		<card><name>Corsair Pillager</name><set>RotGHN</set></card>
+		<card><name>Corsair Pillager</name><set>RotGHN</set></card>
+		<card><name>Corsair Pyromaniac</name><set>RotGHN</set></card>
+		<card><name>Corsair Pyromaniac</name><set>RotGHN</set></card>
+		<card><name>Corsair Pyromaniac</name><set>RotGHN</set></card>
+		<card><name>Elite Marauder</name><set>RotGHN</set></card>
+		<card><name>Burning Tower</name><set>RotGHN</set></card>
+		<card><name>Burning Tower</name><set>RotGHN</set></card>
+		<card><name>Sudden Assault</name><set>RotGHN</set></card>
+		<card><name>Sudden Assault</name><set>RotGHN</set></card>
+		<card><name>Sudden Assault</name><set>RotGHN</set></card>
+		<card><name>Infiltration</name><set>RotGHN</set></card>
+		<card><name>Infiltration</name><set>RotGHN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Raid on the Grey Havens</name><set>RotGHN</set></card>
+		<card><name>The Corsairs Assault</name><set>TGH</set></card>
+		<card><name>Sahirs Advance</name><set>RotGHN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Raid on the Grey Havens</name><set>TGH</set></card>
+		<card><name>Captain Sahir</name><set>TGH</set></card>
+		<card><name>Naasiyah</name><set>TGH</set></card>
+		<card><name>The Havens Burn</name><set>TGH</set></card>
+		<card><name>Dream-chaser</name><set>TGH</set></card>
+		<card><name>Narelenya</name><set>RotGHN</set></card>
+		<card><name>Dawn Star</name><set>RotGHN</set></card>
+		<card><name>Silver Wing</name><set>RotGHN</set></card>
+		<card><name>Sahirs Ravager</name><set>TGH</set></card>
+	</superzone>
+</deck>

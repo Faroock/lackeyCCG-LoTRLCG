@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Banks of Morthond</name><set>TSoE</set></card>
+		<card><name>Banks of Morthond</name><set>TSoE</set></card>
+		<card><name>Blackroot Graves</name><set>TSoE</set></card>
+		<card><name>Blackroot Graves</name><set>TSoE</set></card>
+		<card><name>Blackroot Graves</name><set>TSoE</set></card>
+		<card><name>Relic from the Dark Years</name><set>TSoE</set></card>
+		<card><name>Shadow-man</name><set>TSoE</set></card>
+		<card><name>Shadow-man</name><set>TSoE</set></card>
+		<card><name>Restless Dead</name><set>TSoE</set></card>
+		<card><name>Restless Dead</name><set>TSoE</set></card>
+		<card><name>Restless Dead</name><set>TSoE</set></card>
+		<card><name>Restless Dead</name><set>TSoE</set></card>
+		<card><name>Whisperer</name><set>TSoE</set></card>
+		<card><name>Whisperer</name><set>TSoE</set></card>
+		<card><name>Whisperer</name><set>TSoE</set></card>
+		<card><name>Shadow Host Captain</name><set>TSoE</set></card>
+		<card><name>Shadow Host Captain</name><set>TSoE</set></card>
+		<card><name>Regretful Shade</name><set>TSoE</set></card>
+		<card><name>Regretful Shade</name><set>TSoE</set></card>
+		<card><name>Regretful Shade</name><set>TSoE</set></card>
+		<card><name>Vale of Shadows</name><set>TSoE</set></card>
+		<card><name>Vale of Shadows</name><set>TSoE</set></card>
+		<card><name>Shadow of Dwimorberg</name><set>TSoE</set></card>
+		<card><name>Shadow of Dwimorberg</name><set>TSoE</set></card>
+		<card><name>Haunted Valley</name><set>TSoE</set></card>
+		<card><name>Haunted Valley</name><set>TSoE</set></card>
+		<card><name>Midnight Throng</name><set>TSoE</set></card>
+		<card><name>Midnight Throng</name><set>TSoE</set></card>
+		<card><name>Murmurs of Dread</name><set>TSoE</set></card>
+		<card><name>Murmurs of Dread</name><set>TSoE</set></card>
+		<card><name>Groping Horror</name><set>TSoE</set></card>
+		<card><name>Groping Horror</name><set>TSoE</set></card>
+		<card><name>The Gloaming</name><set>TSoE</set></card>
+		<card><name>The Gloaming</name><set>TSoE</set></card>
+		<card><name>Driven by Fear</name><set>TSoE</set></card>
+		<card><name>Driven by Fear</name><set>TSoE</set></card>
+		<card><name>The Dead Ride Behind</name><set>TSoE</set></card>
+		<card><name>The Dead Ride Behind</name><set>TSoE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Disappearance</name><set>TSoE</set></card>
+		<card><name>Terror of the Dead</name><set>TSoE</set></card>
+		<card><name>The Shadow Host</name><set>TSoE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Tarlangs Neck</name><set>TSoE</set></card>
+		<card><name>Eventide</name><set>TSoE</set></card>
+		<card><name>Dusk</name><set>TSoE</set></card>
+		<card><name>Midnight</name><set>TSoE</set></card>
+		<card><name>Derufin</name><set>TSoE</set></card>
+		<card><name>The Lord of the Dead</name><set>TSoE</set></card>
+		<card><name>The Stone of Erech</name><set>TSoE</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,53 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Orcs</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The Brown Lands</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>The East Bight</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>To the River...</name><set>Core</set></card>
+		<card><name>Anduin Passage</name><set>Core</set></card>
+		<card><name>Ambush on the Shore</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

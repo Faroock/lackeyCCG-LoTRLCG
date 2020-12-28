@@ -1,0 +1,78 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Guardian of Gundabad</name><set>MG</set></card>
+		<card><name>Guardian of Gundabad</name><set>MG</set></card>
+		<card><name>Guardian of Gundabad</name><set>MG</set></card>
+		<card><name>Dagnirs Slave</name><set>MG</set></card>
+		<card><name>Dagnirs Slave</name><set>MG</set></card>
+		<card><name>Dagnirs Slave</name><set>MG</set></card>
+		<card><name>Deep-dweller</name><set>MG</set></card>
+		<card><name>Deep-dweller</name><set>MG</set></card>
+		<card><name>Mines of Gundabad</name><set>MG</set></card>
+		<card><name>Mines of Gundabad</name><set>MG</set></card>
+		<card><name>Mines of Gundabad</name><set>MG</set></card>
+		<card><name>Narrow Stair</name><set>MG</set></card>
+		<card><name>Narrow Stair</name><set>MG</set></card>
+		<card><name>Desecrated Ruins</name><set>MG</set></card>
+		<card><name>Desecrated Ruins</name><set>MG</set></card>
+		<card><name>Wilderlands Bane</name><set>MG</set></card>
+		<card><name>Wilderlands Bane</name><set>MG</set></card>
+		<card><name>Suffocating Shadows</name><set>MG</set></card>
+		<card><name>Suffocating Shadows</name><set>MG</set></card>
+		<card><name>Afraid of the Dark</name><set>TWoR</set></card>
+		<card><name>Afraid of the Dark</name><set>TWoR</set></card>
+		<card><name>Eyes in the Dark</name><set>TWoR</set></card>
+		<card><name>Eyes in the Dark</name><set>TWoR</set></card>
+		<card><name>Eyes in the Dark</name><set>TWoR</set></card>
+		<card><name>Stone Troll</name><set>TWoR</set></card>
+		<card><name>Stone Troll</name><set>TWoR</set></card>
+		<card><name>Hobgoblin</name><set>TWoR</set></card>
+		<card><name>Hobgoblin</name><set>TWoR</set></card>
+		<card><name>Dragon Breath</name><set>TWoR</set></card>
+		<card><name>Dragon Breath</name><set>TWoR</set></card>
+		<card><name>Dragon Scales</name><set>TWoR</set></card>
+		<card><name>Dragon Scales</name><set>TWoR</set></card>
+		<card><name>Forked Passage</name><set>TWoR</set></card>
+		<card><name>Forked Passage</name><set>TWoR</set></card>
+		<card><name>Dark Tunnel</name><set>TWoR</set></card>
+		<card><name>Dark Tunnel</name><set>TWoR</set></card>
+		<card><name>Dark Tunnel</name><set>TWoR</set></card>
+		<card><name>Dark Tunnel</name><set>TWoR</set></card>
+		<card><name>Dark Places</name><set>TWoR</set></card>
+		<card><name>Dark Places</name><set>TWoR</set></card>
+		<card><name>Dark Places</name><set>TWoR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Side Door</name><set>MG</set></card>
+		<card><name>Exploring Gundabad</name><set>MG</set></card>
+		<card><name>Exploring Gundabad - The Lower Deeps</name><set>MG</set></card>
+		<card><name>Exploring Gundabad - Frenzied Warrens</name><set>MG</set></card>
+		<card><name>Exploring Gundabad - Dagnirs Wrath</name><set>MG</set></card>
+		<card><name>Exploring Gundabad - Foreboding Darkness</name><set>MG</set></card>
+		<card><name>Exploring Gundabad - Imminent Pursuit</name><set>MG</set></card>
+		<card><name>Exploring Gundabad - The Great Worm</name><set>MG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Throat of the Mountain</name><set>MG</set></card>
+		<card><name>Lost Armory</name><set>TWoR</set></card>
+		<card><name>Ancient Treasury</name><set>TWoR</set></card>
+		<card><name>Frightful Den</name><set>TWoR</set></card>
+		<card><name>Lightless Grotto</name><set>TWoR</set></card>
+		<card><name>Crumbling Cavern</name><set>TWoR</set></card>
+		<card><name>Underground Lake</name><set>TWoR</set></card>
+		<card><name>Dagnirs Hoard</name><set>MG</set></card>
+		<card><name>The First Forge</name><set>MG</set></card>
+		<card><name>Dagnir</name><set>MG</set></card>
+		<card><name>Wormsbane</name><set>MG</set></card>
+	</superzone>
+</deck>

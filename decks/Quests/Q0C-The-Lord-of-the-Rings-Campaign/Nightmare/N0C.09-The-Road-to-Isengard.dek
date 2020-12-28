@@ -1,0 +1,74 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Grima</name><set>ToS</set></card>
+		<card><name>Orthanc Archer</name><set>TRtIN</set></card>
+		<card><name>Orthanc Archer</name><set>TRtIN</set></card>
+		<card><name>Orthanc Archer</name><set>TRtIN</set></card>
+		<card><name>Half-orc of Isengard</name><set>TRtIN</set></card>
+		<card><name>Half-orc of Isengard</name><set>TRtIN</set></card>
+		<card><name>Half-orc of Isengard</name><set>TRtIN</set></card>
+		<card><name>Lieutenant of Orthanc</name><set>ToS</set></card>
+		<card><name>Lieutenant of Orthanc</name><set>ToS</set></card>
+		<card><name>Poisonous Shaft</name><set>TRtIN</set></card>
+		<card><name>Poisonous Shaft</name><set>TRtIN</set></card>
+		<card><name>Poisonous Shaft</name><set>TRtIN</set></card>
+		<card><name>Fortress of Isengard</name><set>TRtIN</set></card>
+		<card><name>Fortress of Isengard</name><set>TRtIN</set></card>
+		<card><name>Fortress of Isengard</name><set>TRtIN</set></card>
+		<card><name>Fire and Foul Fumes</name><set>TRtIN</set></card>
+		<card><name>Fire and Foul Fumes</name><set>TRtIN</set></card>
+		<card><name>Fire and Foul Fumes</name><set>TRtIN</set></card>
+		<card><name>Daunting Power</name><set>TRtIN</set></card>
+		<card><name>Daunting Power</name><set>TRtIN</set></card>
+		<card><name>Traitor of Many Colors</name><set>TRtIN</set></card>
+		<card><name>Traitor of Many Colors</name><set>TRtIN</set></card>
+		<card><name>Isengard Orc</name><set>ToS</set></card>
+		<card><name>Isengard Orc</name><set>ToS</set></card>
+		<card><name>Wolf of Isengard</name><set>ToS</set></card>
+		<card><name>Wolf of Isengard</name><set>ToS</set></card>
+		<card><name>Ring-wall of Isengard</name><set>ToS</set></card>
+		<card><name>Ring-wall of Isengard</name><set>ToS</set></card>
+		<card><name>Underground Armoury</name><set>ToS</set></card>
+		<card><name>Underground Armoury</name><set>ToS</set></card>
+		<card><name>Steaming Vent</name><set>ToS</set></card>
+		<card><name>Steaming Vent</name><set>ToS</set></card>
+		<card><name>Steaming Vent</name><set>ToS</set></card>
+		<card><name>Plain of Isengard</name><set>ToS</set></card>
+		<card><name>Plain of Isengard</name><set>ToS</set></card>
+		<card><name>Poisoned Vapour</name><set>ToS</set></card>
+		<card><name>Poisoned Vapour</name><set>ToS</set></card>
+		<card><name>Machines of Isengard</name><set>ToS</set></card>
+		<card><name>Machines of Isengard</name><set>ToS</set></card>
+		<card><name>Sarumans Orders</name><set>ToS</set></card>
+		<card><name>Sarumans Orders</name><set>ToS</set></card>
+		<card><name>Sarumans Voice</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Road to Isengard</name><set>TRtIN</set></card>
+		<card><name>The Road to Isengard</name><set>ToS</set></card>
+		<card><name>Rouse the Ents</name><set>ToS</set></card>
+		<card><name>Breaking Isengard</name><set>ToS</set></card>
+		<card><name>The Voice of Saruman</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Gates of Isengard</name><set>ToS</set></card>
+		<card><name>Orthanc</name><set>ToS</set></card>
+		<card><name>Saruman</name><set>ToS</set></card>
+		<card><name>Sarumans Staff</name><set>ToS</set></card>
+		<card><name>Ent of Fangorn</name><set>ToS</set></card>
+		<card><name>Ent of Fangorn</name><set>ToS</set></card>
+		<card><name>Ent of Fangorn</name><set>ToS</set></card>
+		<card><name>Ent of Fangorn</name><set>ToS</set></card>
+		<card><name>Aragorn</name><set>ToS</set></card>
+	</superzone>
+</deck>

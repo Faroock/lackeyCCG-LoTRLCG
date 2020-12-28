@@ -1,0 +1,55 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Disturbed Waters</name><set>WitW</set></card>
+		<card><name>Disturbed Waters</name><set>WitW</set></card>
+		<card><name>Disturbed Waters</name><set>WitW</set></card>
+		<card><name>Grasping Tentacle</name><set>WitW</set></card>
+		<card><name>Grasping Tentacle</name><set>WitW</set></card>
+		<card><name>Grasping Tentacle</name><set>WitW</set></card>
+		<card><name>Makeshift Passage</name><set>WitW</set></card>
+		<card><name>Makeshift Passage</name><set>WitW</set></card>
+		<card><name>Perilous Swamp</name><set>WitW</set></card>
+		<card><name>Perilous Swamp</name><set>WitW</set></card>
+		<card><name>Stagnant Creek</name><set>WitW</set></card>
+		<card><name>Stair Falls</name><set>WitW</set></card>
+		<card><name>Striking Tentacle</name><set>WitW</set></card>
+		<card><name>Striking Tentacle</name><set>WitW</set></card>
+		<card><name>Striking Tentacle</name><set>WitW</set></card>
+		<card><name>Thrashing Tentacle</name><set>WitW</set></card>
+		<card><name>Thrashing Tentacle</name><set>WitW</set></card>
+		<card><name>Thrashing Tentacle</name><set>WitW</set></card>
+		<card><name>Wrapped!</name><set>WitW</set></card>
+		<card><name>Wrapped!</name><set>WitW</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Knees of the Mountain</name><set>KD</set></card>
+		<card><name>Mountain Warg</name><set>KD</set></card>
+		<card><name>Mountain Warg</name><set>KD</set></card>
+		<card><name>Turbulent Waters</name><set>KD</set></card>
+		<card><name>Warg Lair</name><set>KD</set></card>
+		<card><name>Warg Lair</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>To the West-door</name><set>WitW</set></card>
+		<card><name>The Seething Lake</name><set>WitW</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Watcher</name><set>WitW</set></card>
+		<card><name>Doors of Durin</name><set>WitW</set></card>
+	</superzone>
+</deck>

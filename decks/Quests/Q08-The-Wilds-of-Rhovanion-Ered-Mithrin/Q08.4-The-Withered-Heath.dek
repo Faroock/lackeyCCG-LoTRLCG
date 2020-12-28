@@ -1,0 +1,70 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Snow-troll</name><set>TWH</set></card>
+		<card><name>Snow-troll</name><set>TWH</set></card>
+		<card><name>Dragon Hatchling</name><set>TWH</set></card>
+		<card><name>Dragon Hatchling</name><set>TWH</set></card>
+		<card><name>Dragon Hatchling</name><set>TWH</set></card>
+		<card><name>Mountain Pass</name><set>TWH</set></card>
+		<card><name>Mountain Pass</name><set>TWH</set></card>
+		<card><name>Mountain Pass</name><set>TWH</set></card>
+		<card><name>Dwarven Door</name><set>TWH</set></card>
+		<card><name>Dwarven Door</name><set>TWH</set></card>
+		<card><name>Dwarven Door</name><set>TWH</set></card>
+		<card><name>Cave Entrance</name><set>TWH</set></card>
+		<card><name>Cave Entrance</name><set>TWH</set></card>
+		<card><name>Cave Entrance</name><set>TWH</set></card>
+		<card><name>Creature Den</name><set>TWH</set></card>
+		<card><name>Creature Den</name><set>TWH</set></card>
+		<card><name>High Falls</name><set>TWH</set></card>
+		<card><name>High Falls</name><set>TWH</set></card>
+		<card><name>Heavy Snow</name><set>TWH</set></card>
+		<card><name>Heavy Snow</name><set>TWH</set></card>
+		<card><name>Deadly Cold</name><set>TWH</set></card>
+		<card><name>Deadly Cold</name><set>TWH</set></card>
+		<card><name>Deadly Cold</name><set>TWH</set></card>
+		<card><name>Ruined Supplies</name><set>TWoR</set></card>
+		<card><name>Ruined Supplies</name><set>TWoR</set></card>
+		<card><name>Lost in the Wild</name><set>TWoR</set></card>
+		<card><name>Lost in the Wild</name><set>TWoR</set></card>
+		<card><name>Weighed Down</name><set>TWoR</set></card>
+		<card><name>Weighed Down</name><set>TWoR</set></card>
+		<card><name>Werewolf</name><set>TWoR</set></card>
+		<card><name>Werewolf</name><set>TWoR</set></card>
+		<card><name>Giant Spider</name><set>TWoR</set></card>
+		<card><name>Giant Spider</name><set>TWoR</set></card>
+		<card><name>Giant Spider</name><set>TWoR</set></card>
+		<card><name>Black Bats</name><set>TWoR</set></card>
+		<card><name>Black Bats</name><set>TWoR</set></card>
+		<card><name>Black Bats</name><set>TWoR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Searching for Dragon Sign</name><set>TWH</set></card>
+		<card><name>The Cold-Drake Attacks!</name><set>TWH</set></card>
+		<card><name>Hunting the Beast</name><set>TWH</set></card>
+		<card><name>A Cornered Dragon</name><set>TWH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Ancient Treasury</name><set>TWoR</set></card>
+		<card><name>Lost Armory</name><set>TWoR</set></card>
+		<card><name>Frightful Den</name><set>TWoR</set></card>
+		<card><name>Lightless Grotto</name><set>TWoR</set></card>
+		<card><name>Crumbling Cavern</name><set>TWoR</set></card>
+		<card><name>Underground Lake</name><set>TWoR</set></card>
+		<card><name>Cold-Drake</name><set>TWH</set></card>
+		<card><name>Dragon Sign</name><set>TWH</set></card>
+		<card><name>Dragon Sign</name><set>TWH</set></card>
+		<card><name>Dragon Sign</name><set>TWH</set></card>
+		<card><name>Dragon Sign</name><set>TWH</set></card>
+	</superzone>
+</deck>

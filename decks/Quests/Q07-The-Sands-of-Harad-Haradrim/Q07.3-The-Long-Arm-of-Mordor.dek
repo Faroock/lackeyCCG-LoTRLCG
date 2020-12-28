@@ -1,0 +1,60 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Southron Boma</name><set>TSoH</set></card>
+		<card><name>Southron Boma</name><set>TSoH</set></card>
+		<card><name>Village Hut</name><set>TSoH</set></card>
+		<card><name>Village Hut</name><set>TSoH</set></card>
+		<card><name>Savage Attack</name><set>TSoH</set></card>
+		<card><name>Savage Attack</name><set>TSoH</set></card>
+		<card><name>Overrun by Orcs</name><set>TSoH</set></card>
+		<card><name>Overrun by Orcs</name><set>TSoH</set></card>
+		<card><name>Overrun by Orcs</name><set>TSoH</set></card>
+		<card><name>Jungle Trail</name><set>TSoH</set></card>
+		<card><name>Jungle Trail</name><set>TSoH</set></card>
+		<card><name>Forest Clearing</name><set>TSoH</set></card>
+		<card><name>Forest Clearing</name><set>TSoH</set></card>
+		<card><name>Forest Clearing</name><set>TSoH</set></card>
+		<card><name>Dense Jungle</name><set>TSoH</set></card>
+		<card><name>Dense Jungle</name><set>TSoH</set></card>
+		<card><name>Dense Jungle</name><set>TSoH</set></card>
+		<card><name>Overgrown</name><set>TSoH</set></card>
+		<card><name>Overgrown</name><set>TSoH</set></card>
+		<card><name>Uruks of the Eye</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Surprise Attack</name><set>TSoH</set></card>
+		<card><name>Find the Others</name><set>TSoH</set></card>
+		<card><name>Free the Captives</name><set>TSoH</set></card>
+		<card><name>Escape into the Jungle</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Kahliel</name><set>TSoH</set></card>
+		<card><name>Firyal</name><set>TSoH</set></card>
+		<card><name>Yazan</name><set>TSoH</set></card>
+		<card><name>Jubayr</name><set>TSoH</set></card>
+		<card><name>Saurons Enforcers</name><set>TSoH</set></card>
+		<card><name>Saurons Enforcers</name><set>TSoH</set></card>
+		<card><name>Saurons Enforcers</name><set>TSoH</set></card>
+		<card><name>Saurons Enforcers</name><set>TSoH</set></card>
+		<card><name>Uruk Chieftain</name><set>TSoH</set></card>
+	</superzone>
+</deck>

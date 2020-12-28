@@ -1,0 +1,56 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Celebdil</name><set>TRG</set></card>
+		<card><name>Fallen Stones</name><set>TRG</set></card>
+		<card><name>Fallen Stones</name><set>TRG</set></card>
+		<card><name>Fanuidhol</name><set>TRG</set></card>
+		<card><name>Fell Voices</name><set>TRG</set></card>
+		<card><name>Fell Voices</name><set>TRG</set></card>
+		<card><name>Freezing Cold</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Mountain Goblin</name><set>TRG</set></card>
+		<card><name>Rocky Crags</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>Snow Warg</name><set>TRG</set></card>
+		<card><name>The Dimrill Stair</name><set>TRG</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Knees of the Mountain</name><set>KD</set></card>
+		<card><name>Mountain Warg</name><set>KD</set></card>
+		<card><name>Mountain Warg</name><set>KD</set></card>
+		<card><name>Turbulent Waters</name><set>KD</set></card>
+		<card><name>Warg Lair</name><set>KD</set></card>
+		<card><name>Warg Lair</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Up the Pass</name><set>TRG</set></card>
+		<card><name>Snowdrifts</name><set>TRG</set></card>
+		<card><name>The Mountains Peaks</name><set>TRG</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Caradhras</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Snowstorm</name><set>TRG</set></card>
+		<card><name>Arwen Undomiel</name><set>TRG</set></card>
+	</superzone>
+</deck>

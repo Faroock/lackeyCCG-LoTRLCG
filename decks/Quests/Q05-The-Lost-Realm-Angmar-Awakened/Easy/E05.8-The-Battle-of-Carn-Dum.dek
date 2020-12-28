@@ -1,0 +1,53 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Orc Grunts</name><set>BoCD</set></card>
+		<card><name>Orc Grunts</name><set>BoCD</set></card>
+		<card><name>Accursed Battlefield</name><set>BoCD</set></card>
+		<card><name>Accursed Battlefield</name><set>BoCD</set></card>
+		<card><name>Mountains of Angmar</name><set>BoCD</set></card>
+		<card><name>Mountains of Angmar</name><set>BoCD</set></card>
+		<card><name>Blight of Carn Dum</name><set>BoCD</set></card>
+		<card><name>Blight of Carn Dum</name><set>BoCD</set></card>
+		<card><name>Blight of Carn Dum</name><set>BoCD</set></card>
+		<card><name>Fortress Walls</name><set>BoCD</set></card>
+		<card><name>Vile Affliction</name><set>BoCD</set></card>
+		<card><name>Vile Affliction</name><set>BoCD</set></card>
+		<card><name>Vile Affliction</name><set>BoCD</set></card>
+		<card><name>Daechanars Will</name><set>BoCD</set></card>
+		<card><name>Furious Charge</name><set>BoCD</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Marauder</name><set>TLR</set></card>
+		<card><name>Angmar Marauder</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Orc Ambush</name><set>TLR</set></card>
+		<card><name>Terror of the North</name><set>TLR</set></card>
+		<card><name>Terror of the North</name><set>TLR</set></card>
+		<card><name>Dark Sorcery</name><set>TLR</set></card>
+		<card><name>Heavy Curse</name><set>TLR</set></card>
+		<card><name>The Power of Angmar</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Clutches of Carn Dum</name><set>BoCD</set></card>
+		<card><name>Midwinters Crux</name><set>BoCD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Battle of Carn Dum</name><set>BoCD</set></card>
+		<card><name>Thaurdir</name><set>BoCD</set></card>
+		<card><name>Accursed Battlefield</name><set>BoCD</set></card>
+		<card><name>Carn Dum Garrison</name><set>BoCD</set></card>
+		<card><name>Carn Dum Garrison</name><set>BoCD</set></card>
+		<card><name>Carn Dum Garrison</name><set>BoCD</set></card>
+	</superzone>
+</deck>

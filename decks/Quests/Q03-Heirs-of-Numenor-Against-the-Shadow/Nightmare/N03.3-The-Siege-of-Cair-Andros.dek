@@ -1,0 +1,70 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Battering Ram</name><set>HoN</set></card>
+		<card><name>Battering Ram</name><set>HoN</set></card>
+		<card><name>Battering Ram</name><set>HoN</set></card>
+		<card><name>Orc Assault</name><set>HoN</set></card>
+		<card><name>Orc Assault</name><set>HoN</set></card>
+		<card><name>Orc Scramblers</name><set>HoN</set></card>
+		<card><name>Orc Scramblers</name><set>HoN</set></card>
+		<card><name>Orc Scramblers</name><set>HoN</set></card>
+		<card><name>Siege Raft</name><set>HoN</set></card>
+		<card><name>Siege Raft</name><set>HoN</set></card>
+		<card><name>Haradrim Elite</name><set>HoN</set></card>
+		<card><name>Haradrim Elite</name><set>HoN</set></card>
+		<card><name>Mumak</name><set>HoN</set></card>
+		<card><name>Southron Support</name><set>HoN</set></card>
+		<card><name>Southron Support</name><set>HoN</set></card>
+		<card><name>Lieutenant of Mordor</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc Vanguard</name><set>HoN</set></card>
+		<card><name>Orc War Camp</name><set>HoN</set></card>
+		<card><name>Orc War Camp</name><set>HoN</set></card>
+		<card><name>The Masters Malice</name><set>HoN</set></card>
+		<card><name>The Masters Malice</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Southron Mounted Archer</name><set>TSoCAN</set></card>
+		<card><name>Southron Mounted Archer</name><set>TSoCAN</set></card>
+		<card><name>Southron Mounted Archer</name><set>TSoCAN</set></card>
+		<card><name>Orc Saboteur</name><set>TSoCAN</set></card>
+		<card><name>Orc Saboteur</name><set>TSoCAN</set></card>
+		<card><name>Orc Saboteur</name><set>TSoCAN</set></card>
+		<card><name>Orc Ravager</name><set>TSoCAN</set></card>
+		<card><name>Orc Ravager</name><set>TSoCAN</set></card>
+		<card><name>Orc Ravager</name><set>TSoCAN</set></card>
+		<card><name>Orc Ravager</name><set>TSoCAN</set></card>
+		<card><name>Besieged Courtyard</name><set>TSoCAN</set></card>
+		<card><name>Besieged Courtyard</name><set>TSoCAN</set></card>
+		<card><name>Walls of Cair Andros</name><set>TSoCAN</set></card>
+		<card><name>Walls of Cair Andros</name><set>TSoCAN</set></card>
+		<card><name>Anduin Wharf</name><set>TSoCAN</set></card>
+		<card><name>Anduin Wharf</name><set>TSoCAN</set></card>
+		<card><name>Ruin and Wroth</name><set>TSoCAN</set></card>
+		<card><name>Ruin and Wroth</name><set>TSoCAN</set></card>
+		<card><name>Ruin and Wroth</name><set>TSoCAN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Siege of Cair Andros</name><set>TSoCAN</set></card>
+		<card><name>The Defense</name><set>HoN</set></card>
+		<card><name>Reinforcing the Banks</name><set>HoN</set></card>
+		<card><name>Breakthrough at the Approach</name><set>HoN</set></card>
+		<card><name>Breakthrough at the Citadel</name><set>HoN</set></card>
+		<card><name>The Last Battle</name><set>HoN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Approach</name><set>HoN</set></card>
+		<card><name>The Citadel</name><set>HoN</set></card>
+		<card><name>The Banks</name><set>HoN</set></card>
+	</superzone>
+</deck>

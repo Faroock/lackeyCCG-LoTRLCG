@@ -1,0 +1,92 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Crumbling Ruin</name><set>KD</set></card>
+		<card><name>Crumbling Ruin</name><set>KD</set></card>
+		<card><name>Dark and Dreadful</name><set>KD</set></card>
+		<card><name>Dark and Dreadful</name><set>KD</set></card>
+		<card><name>Dreadful Gap</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Sudden Pitfall</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Branching Paths</name><set>KD</set></card>
+		<card><name>Burning Low</name><set>KD</set></card>
+		<card><name>Burning Low</name><set>KD</set></card>
+		<card><name>Burning Low</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Goblin Follower</name><set>KD</set></card>
+		<card><name>Lightless Passage</name><set>KD</set></card>
+		<card><name>Lightless Passage</name><set>KD</set></card>
+		<card><name>Many Roads</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Zigil Mineshaft</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Scout</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Swordsman</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Goblin Tunnels</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+		<card><name>Watchful Eyes</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Dripping Walls</name><set>FoS</set></card>
+		<card><name>The Waters Edge</name><set>FoS</set></card>
+		<card><name>Washed Away!</name><set>FoS</set></card>
+		<card><name>Below the Mines - Old One Lair</name><set>FoS</set></card>
+		<card><name>Below the Mines - Sheltered Rocks</name><set>FoS</set></card>
+		<card><name>Below the Mines - The Endless Caves</name><set>FoS</set></card>
+		<card><name>Below the Mines - The Shivering Bank</name><set>FoS</set></card>
+		<card><name>Out of the Depths</name><set>FoS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Nameless Thing</name><set>FoS</set></card>
+		<card><name>Nameless Thing</name><set>FoS</set></card>
+		<card><name>Nameless Thing</name><set>FoS</set></card>
+		<card><name>Nameless Thing</name><set>FoS</set></card>
+		<card><name>Nameless Thing</name><set>FoS</set></card>
+		<card><name>Moria Bats</name><set>FoS</set></card>
+		<card><name>Moria Bats</name><set>FoS</set></card>
+		<card><name>Moria Bats</name><set>FoS</set></card>
+		<card><name>Moria Bats</name><set>FoS</set></card>
+		<card><name>Mithril Lode</name><set>FoS</set></card>
+		<card><name>Lost and Alone</name><set>FoS</set></card>
+		<card><name>Lost and Alone</name><set>FoS</set></card>
+		<card><name>Elder Nameless Thing</name><set>FoS</set></card>
+		<card><name>Elder Nameless Thing</name><set>FoS</set></card>
+		<card><name>Elder Nameless Thing</name><set>FoS</set></card>
+		<card><name>Durins Helm</name><set>FoS</set></card>
+		<card><name>Durins Axe</name><set>FoS</set></card>
+		<card><name>Drowned Treasury</name><set>FoS</set></card>
+		<card><name>Drowned Treasury</name><set>FoS</set></card>
+		<card><name>Drowned Treasury</name><set>FoS</set></card>
+		<card><name>Deep Deep Dark</name><set>FoS</set></card>
+		<card><name>Deep Deep Dark</name><set>FoS</set></card>
+		<card><name>Deep Deep Dark</name><set>FoS</set></card>
+		<card><name>Deep Deep Dark</name><set>FoS</set></card>
+		<card><name>Cave Torch</name><set>KD</set></card>
+	</superzone>
+</deck>

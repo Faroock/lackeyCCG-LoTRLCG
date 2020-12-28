@@ -1,0 +1,68 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Long Trailer</name><set>TOF</set></card>
+		<card><name>Long Trailer</name><set>TOF</set></card>
+		<card><name>Long Trailer</name><set>TOF</set></card>
+		<card><name>Long Trailer</name><set>TOF</set></card>
+		<card><name>Grasping Root</name><set>TOF</set></card>
+		<card><name>Grasping Root</name><set>TOF</set></card>
+		<card><name>Grasping Root</name><set>TOF</set></card>
+		<card><name>Grasping Root</name><set>TOF</set></card>
+		<card><name>Army of Flies</name><set>TOF</set></card>
+		<card><name>Army of Flies</name><set>TOF</set></card>
+		<card><name>Army of Flies</name><set>TOF</set></card>
+		<card><name>Misleading Path</name><set>TOF</set></card>
+		<card><name>Misleading Path</name><set>TOF</set></card>
+		<card><name>Deep Gulley</name><set>TOF</set></card>
+		<card><name>Deep Gulley</name><set>TOF</set></card>
+		<card><name>Deep Gulley</name><set>TOF</set></card>
+		<card><name>Deep Gulley</name><set>TOF</set></card>
+		<card><name>Strange Woods</name><set>TOF</set></card>
+		<card><name>Strange Woods</name><set>TOF</set></card>
+		<card><name>Strange Woods</name><set>TOF</set></card>
+		<card><name>Wall of Trees</name><set>TOF</set></card>
+		<card><name>Wall of Trees</name><set>TOF</set></card>
+		<card><name>Wall of Trees</name><set>TOF</set></card>
+		<card><name>Wall of Trees</name><set>TOF</set></card>
+		<card><name>Oppressive Forest</name><set>TOF</set></card>
+		<card><name>Oppressive Forest</name><set>TOF</set></card>
+		<card><name>Swaying Without Wind</name><set>TOF</set></card>
+		<card><name>Swaying Without Wind</name><set>TOF</set></card>
+		<card><name>Falling Branches</name><set>TOF</set></card>
+		<card><name>Falling Branches</name><set>TOF</set></card>
+		<card><name>Falling Branches</name><set>TOF</set></card>
+		<card><name>Song of Sleep</name><set>TOF</set></card>
+		<card><name>Song of Sleep</name><set>TOF</set></card>
+		<card><name>Lost and Witless</name><set>TOF</set></card>
+		<card><name>Lost and Witless</name><set>TOF</set></card>
+		<card><name>Ending and Failing</name><set>TOF</set></card>
+		<card><name>Ending and Failing</name><set>TOF</set></card>
+		<card><name>Tom Bombadil</name><set>TOF</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Old Forest</name><set>TOF</set></card>
+		<card><name>Farewell to the Shire</name><set>TOF</set></card>
+		<card><name>The Living Forest - Dark Bad Place</name><set>TOF</set></card>
+		<card><name>The Living Forest - Choked with Brambles</name><set>TOF</set></card>
+		<card><name>The Living Forest - Shifting Trees</name><set>TOF</set></card>
+		<card><name>The Living Forest - Closing in Around Them</name><set>TOF</set></card>
+		<card><name>The Wicked Willow</name><set>TOF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Old Man Willow</name><set>TOF</set></card>
+		<card><name>Withywindle</name><set>TOF</set></card>
+		<card><name>Old Bogey-stories</name><set>TOF</set></card>
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>Frodo Baggins</name><set>TBR</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,98 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Slave Ship</name><set>CoC</set></card>
+		<card><name>Slave Ship</name><set>CoC</set></card>
+		<card><name>Corsair Waters</name><set>CoC</set></card>
+		<card><name>Corsair Waters</name><set>CoC</set></card>
+		<card><name>Watch Tower</name><set>CoC</set></card>
+		<card><name>Watch Tower</name><set>CoC</set></card>
+		<card><name>Rough Waters</name><set>TGH</set></card>
+		<card><name>Rough Waters</name><set>TGH</set></card>
+		<card><name>Waterspout</name><set>TGH</set></card>
+		<card><name>Waterspout</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Sudden Storms</name><set>TGH</set></card>
+		<card><name>Winds of Wrath</name><set>TGH</set></card>
+		<card><name>Winds of Wrath</name><set>TGH</set></card>
+		<card><name>Light Cruiser</name><set>TGH</set></card>
+		<card><name>Light Cruiser</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Battle-Hardened</name><set>TGH</set></card>
+		<card><name>Corsair Warship</name><set>TGH</set></card>
+		<card><name>Corsair Warship</name><set>TGH</set></card>
+		<card><name>Boarding Party</name><set>TGH</set></card>
+		<card><name>Boarding Party</name><set>TGH</set></card>
+		<card><name>Scouting Ship</name><set>TGH</set></card>
+		<card><name>Patrol Ship</name><set>TCoCN</set></card>
+		<card><name>Patrol Ship</name><set>TCoCN</set></card>
+		<card><name>Corsair Loyalist</name><set>TCoCN</set></card>
+		<card><name>Corsair Loyalist</name><set>TCoCN</set></card>
+		<card><name>Walls of Umbar</name><set>TCoCN</set></card>
+		<card><name>Walls of Umbar</name><set>TCoCN</set></card>
+		<card><name>Umbar Bridge</name><set>TCoCN</set></card>
+		<card><name>Umbar Bridge</name><set>TCoCN</set></card>
+		<card><name>Inspiring Fury</name><set>TCoCN</set></card>
+		<card><name>Inspiring Fury</name><set>TCoCN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The City of Corsairs</name><set>TCoCN</set></card>
+		<card><name>The Coast of Umbar</name><set>CoC</set></card>
+		<card><name>Fate of The Dream-chaser</name><set>CoC</set></card>
+		<card><name>The Haven of Umbar</name><set>CoC</set></card>
+		<card><name>Final Confrontation</name><set>CoC</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Umbar Raider</name><set>TGH</set></card>
+		<card><name>Umbar Slaver</name><set>CoC</set></card>
+		<card><name>Umbar Slaver</name><set>CoC</set></card>
+		<card><name>Umbar Slaver</name><set>CoC</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Raid Leader</name><set>TGH</set></card>
+		<card><name>Fury and Malice</name><set>CoC</set></card>
+		<card><name>Fury and Malice</name><set>CoC</set></card>
+		<card><name>Fury and Malice</name><set>CoC</set></card>
+		<card><name>City of Corsairs</name><set>CoC</set></card>
+		<card><name>City of Corsairs</name><set>CoC</set></card>
+		<card><name>Streets of Umbar</name><set>CoC</set></card>
+		<card><name>Streets of Umbar</name><set>CoC</set></card>
+		<card><name>Umbar Harbor</name><set>CoC</set></card>
+		<card><name>Umbar Harbor</name><set>CoC</set></card>
+		<card><name>Umbar Harbor</name><set>CoC</set></card>
+		<card><name>Foes of Ecthelion</name><set>CoC</set></card>
+		<card><name>Foes of Ecthelion</name><set>CoC</set></card>
+		<card><name>Umbar Patrol</name><set>CoC</set></card>
+		<card><name>Umbar Patrol</name><set>CoC</set></card>
+		<card><name>The Cursed Sword</name><set>TCoCN</set></card>
+		<card><name>Umbar Patrol</name><set>TCoCN</set></card>
+		<card><name>Umbar Patrol</name><set>TCoCN</set></card>
+		<card><name>Umbar Patrol</name><set>TCoCN</set></card>
+		<card><name>Raise the Alarm!</name><set>TCoCN</set></card>
+		<card><name>Raise the Alarm!</name><set>TCoCN</set></card>
+		<card><name>Slave Trade</name><set>TCoCN</set></card>
+		<card><name>Slave Trade</name><set>TCoCN</set></card>
+		<card><name>Slave Trade</name><set>TCoCN</set></card>
+		<card><name>Captain Sahir</name><set>CoC</set></card>
+		<card><name>The Shattered Monument</name><set>CoC</set></card>
+		<card><name>Dream-chaser</name><set>TGH</set></card>
+		<card><name>Dawn Star</name><set>TGH</set></card>
+		<card><name>Narelenya</name><set>TGH</set></card>
+		<card><name>Silver Wing</name><set>TGH</set></card>
+		<card><name>Heading</name><set>TGH</set></card>
+		<card><name>Stormcaller</name><set>CoC</set></card>
+		<card><name>Southern Belfalas</name><set>CoC</set></card>
+		<card><name>Southern Belfalas</name><set>CoC</set></card>
+	</superzone>
+</deck>

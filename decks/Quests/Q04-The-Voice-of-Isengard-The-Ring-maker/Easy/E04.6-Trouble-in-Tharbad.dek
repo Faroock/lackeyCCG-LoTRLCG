@@ -1,0 +1,52 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Bellachs Marauder</name><set>TiT</set></card>
+		<card><name>Streets of Tharbad</name><set>TiT</set></card>
+		<card><name>Streets of Tharbad</name><set>TiT</set></card>
+		<card><name>Tharbad Hideout</name><set>TiT</set></card>
+		<card><name>Tharbad Hideout</name><set>TiT</set></card>
+		<card><name>Ruins of the Second Age</name><set>TiT</set></card>
+		<card><name>Seedy Inn</name><set>TiT</set></card>
+		<card><name>Hidden Alleyway</name><set>TiT</set></card>
+		<card><name>Hidden Alleyway</name><set>TiT</set></card>
+		<card><name>Decrepit Rooftops</name><set>TiT</set></card>
+		<card><name>Decrepit Rooftops</name><set>TiT</set></card>
+		<card><name>Constant Tail</name><set>TiT</set></card>
+		<card><name>Constant Tail</name><set>TiT</set></card>
+		<card><name>Conspicuous Lot</name><set>TiT</set></card>
+		<card><name>Cornered</name><set>TiT</set></card>
+		<card><name>Cornered</name><set>TiT</set></card>
+		<card><name>Get That Dwarf!</name><set>TiT</set></card>
+		<card><name>Orc Skirmisher</name><set>VoI</set></card>
+		<card><name>Orc Skirmisher</name><set>VoI</set></card>
+		<card><name>Orc Skirmisher</name><set>VoI</set></card>
+		<card><name>Orc Hunter</name><set>VoI</set></card>
+		<card><name>Orc Hound</name><set>VoI</set></card>
+		<card><name>Orc Hunting Party</name><set>VoI</set></card>
+		<card><name>Orc Hunting Party</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Double Dealings</name><set>TiT</set></card>
+		<card><name>Escape from Tharbad</name><set>TiT</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Bellach</name><set>TiT</set></card>
+		<card><name>The Crossing at Tharbad</name><set>TiT</set></card>
+		<card><name>Spy from Mordor</name><set>TiT</set></card>
+		<card><name>Spy from Mordor</name><set>TiT</set></card>
+		<card><name>Spy from Mordor</name><set>TiT</set></card>
+		<card><name>Spy from Mordor</name><set>TiT</set></card>
+		<card><name>The Empty Mug</name><set>TiT</set></card>
+		<card><name>Nalir</name><set>TiT</set></card>
+	</superzone>
+</deck>

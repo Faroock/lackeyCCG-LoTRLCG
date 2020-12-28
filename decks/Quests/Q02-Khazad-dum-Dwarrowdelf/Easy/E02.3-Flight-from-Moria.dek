@@ -1,0 +1,59 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Abandoned Tools</name><set>KD</set></card>
+		<card><name>New Devilry</name><set>KD</set></card>
+		<card><name>New Devilry</name><set>KD</set></card>
+		<card><name>New Devilry</name><set>KD</set></card>
+		<card><name>Shadow of Fear</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Cave In</name><set>KD</set></card>
+		<card><name>Dark and Dreadful</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Chance Encounter</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>Stray Goblin</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Plundered Armoury</name><set>KD</set></card>
+		<card><name>Plundered Armoury</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Search for an Exit</name><set>KD</set></card>
+		<card><name>Search for an Exit</name><set>KD</set></card>
+		<card><name>Search for an Exit - Heading Down</name><set>KD</set></card>
+		<card><name>Search for an Exit - Heading Up</name><set>KD</set></card>
+		<card><name>Search for an Exit - Blocked by Shadow</name><set>KD</set></card>
+		<card><name>Search for an Exit - Escape from Darkness</name><set>KD</set></card>
+		<card><name>Search for an Exit - Hasty Council</name><set>KD</set></card>
+		<card><name>Search for an Exit - Narrow Paths</name><set>KD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Nameless Fear</name><set>KD</set></card>
+		<card><name>A Foe Beyond</name><set>KD</set></card>
+	</superzone>
+</deck>

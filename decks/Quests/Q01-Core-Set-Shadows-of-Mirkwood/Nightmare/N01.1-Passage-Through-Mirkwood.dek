@@ -1,0 +1,62 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>Hummerhorns</name><set>Core</set></card>
+		<card><name>Chieftan Ufthak</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>Dol Guldur Beastmaster</name><set>Core</set></card>
+		<card><name>East Bight Patrol</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Necromancers Pass</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Enchanted Stream</name><set>Core</set></card>
+		<card><name>Eyes of the Forest</name><set>Core</set></card>
+		<card><name>Driven by Shadow</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>The Necromancers Reach</name><set>Core</set></card>
+		<card><name>Abandoned Camp</name><set>PTMN</set></card>
+		<card><name>Abandoned Camp</name><set>PTMN</set></card>
+		<card><name>Abandoned Camp</name><set>PTMN</set></card>
+		<card><name>Backtrack!</name><set>PTMN</set></card>
+		<card><name>Backtrack!</name><set>PTMN</set></card>
+		<card><name>Forest Flies</name><set>PTMN</set></card>
+		<card><name>Forest Flies</name><set>PTMN</set></card>
+		<card><name>Forest Flies</name><set>PTMN</set></card>
+		<card><name>Glade of the Spawn</name><set>PTMN</set></card>
+		<card><name>Glade of the Spawn</name><set>PTMN</set></card>
+		<card><name>Spiders of Mirkwood</name><set>PTMN</set></card>
+		<card><name>Spiders of Mirkwood</name><set>PTMN</set></card>
+		<card><name>The Spiders Web</name><set>PTMN</set></card>
+		<card><name>The Spiders Web</name><set>PTMN</set></card>
+		<card><name>The Spiders Web</name><set>PTMN</set></card>
+		<card><name>Ungoliants Brood</name><set>PTMN</set></card>
+		<card><name>Ungoliants Brood</name><set>PTMN</set></card>
+		<card><name>Ungoliants Brood</name><set>PTMN</set></card>
+		<card><name>Ungoliants Spawn</name><set>PTMN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Passage Through Mirkwood</name><set>PTMN</set></card>
+		<card><name>Flies and Spiders</name><set>Core</set></card>
+		<card><name>A Fork in the Road</name><set>Core</set></card>
+		<card><name>A Chosen Path - Dont Leave the Path!</name><set>Core</set></card>
+		<card><name>A Chosen Path - Beorns Path</name><set>Core</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Old Forest Road</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+	</superzone>
+</deck>

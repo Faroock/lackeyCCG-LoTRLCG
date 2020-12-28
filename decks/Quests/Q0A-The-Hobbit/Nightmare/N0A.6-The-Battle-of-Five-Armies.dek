@@ -1,0 +1,70 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Bilbo Baggins</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Weighed Down</name><set>OtD</set></card>
+		<card><name>Weighed Down</name><set>OtD</set></card>
+		<card><name>Bodyguard of Bolg</name><set>OtD</set></card>
+		<card><name>Bodyguard of Bolg</name><set>OtD</set></card>
+		<card><name>Bodyguard of Bolg</name><set>OtD</set></card>
+		<card><name>Bodyguard of Bolg</name><set>OtD</set></card>
+		<card><name>Goblins are Upon You!</name><set>OtD</set></card>
+		<card><name>Goblins are Upon You!</name><set>OtD</set></card>
+		<card><name>Heedless of Order</name><set>OtD</set></card>
+		<card><name>Heedless of Order</name><set>OtD</set></card>
+		<card><name>Hatred Rekindled</name><set>OtD</set></card>
+		<card><name>Hatred Rekindled</name><set>OtD</set></card>
+		<card><name>Northern Slopes</name><set>OtD</set></card>
+		<card><name>Northern Slopes</name><set>OtD</set></card>
+		<card><name>Northern Slopes</name><set>OtD</set></card>
+		<card><name>Ravenhill</name><set>OtD</set></card>
+		<card><name>Ravenous Warg</name><set>OtD</set></card>
+		<card><name>Ravenous Warg</name><set>OtD</set></card>
+		<card><name>Ruins of Dale</name><set>OtD</set></card>
+		<card><name>The Front Gate</name><set>OtD</set></card>
+		<card><name>Vanguard of Bolg</name><set>OtD</set></card>
+		<card><name>Vanguard of Bolg</name><set>OtD</set></card>
+		<card><name>Vanguard of Bolg</name><set>OtD</set></card>
+		<card><name>Gundabad Archer</name><set>OtD</set></card>
+		<card><name>Gundabad Archer</name><set>OtD</set></card>
+		<card><name>Great Warg</name><set>TBoFAN</set></card>
+		<card><name>Great Warg</name><set>TBoFAN</set></card>
+		<card><name>Great Warg</name><set>TBoFAN</set></card>
+		<card><name>Frenzied Warg-Rider</name><set>TBoFAN</set></card>
+		<card><name>Frenzied Warg-Rider</name><set>TBoFAN</set></card>
+		<card><name>Frenzied Warg-Rider</name><set>TBoFAN</set></card>
+		<card><name>Frenzied Warg-Rider</name><set>TBoFAN</set></card>
+		<card><name>Gundabad Elite</name><set>TBoFAN</set></card>
+		<card><name>Gundabad Elite</name><set>TBoFAN</set></card>
+		<card><name>Gundabad Elite</name><set>TBoFAN</set></card>
+		<card><name>Gundabad Elite</name><set>TBoFAN</set></card>
+		<card><name>Embattled Valley</name><set>TBoFAN</set></card>
+		<card><name>Embattled Valley</name><set>TBoFAN</set></card>
+		<card><name>Eastern Ridge</name><set>TBoFAN</set></card>
+		<card><name>Eastern Ridge</name><set>TBoFAN</set></card>
+		<card><name>Eastern Ridge</name><set>TBoFAN</set></card>
+		<card><name>Dread Has Come!</name><set>TBoFAN</set></card>
+		<card><name>Dread Has Come!</name><set>TBoFAN</set></card>
+		<card><name>Dread Has Come!</name><set>TBoFAN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Battle of Five Armies</name><set>TBoFAN</set></card>
+		<card><name>The Gathering of the Clouds</name><set>OtD</set></card>
+		<card><name>The Eastern Spur</name><set>OtD</set></card>
+		<card><name>Battle in the Dale</name><set>OtD</set></card>
+		<card><name>The Defense of Ravenhill</name><set>OtD</set></card>
+		<card><name>The Clouds Burst</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Bolg</name><set>OtD</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Grishnakh</name><set>ToS</set></card>
+		<card><name>Lugdush</name><set>TUhN</set></card>
+		<card><name>Orc of the White Hand</name><set>TUhN</set></card>
+		<card><name>Orc of the White Hand</name><set>TUhN</set></card>
+		<card><name>Orc of the White Hand</name><set>TUhN</set></card>
+		<card><name>Orc of the White Hand</name><set>TUhN</set></card>
+		<card><name>Ugluks Uruk-hai</name><set>ToS</set></card>
+		<card><name>Ugluks Uruk-hai</name><set>ToS</set></card>
+		<card><name>Ugluks Uruk-hai</name><set>ToS</set></card>
+		<card><name>Plains of Rohan</name><set>ToS</set></card>
+		<card><name>Plains of Rohan</name><set>ToS</set></card>
+		<card><name>Banks of Entwash</name><set>ToS</set></card>
+		<card><name>Banks of Entwash</name><set>ToS</set></card>
+		<card><name>Rest by Night</name><set>ToS</set></card>
+		<card><name>Rest by Night</name><set>ToS</set></card>
+		<card><name>Strange Weariness</name><set>ToS</set></card>
+		<card><name>Strange Weariness</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Orc-draught</name><set>TUhN</set></card>
+		<card><name>Orc-draught</name><set>TUhN</set></card>
+		<card><name>Ugluks Command</name><set>TUhN</set></card>
+		<card><name>Ugluks Command</name><set>TUhN</set></card>
+		<card><name>Ugluks Command</name><set>TUhN</set></card>
+		<card><name>Fighting Uruk-hai</name><set>ToS</set></card>
+		<card><name>Fighting Uruk-hai</name><set>ToS</set></card>
+		<card><name>The Uruks Trail</name><set>TUhN</set></card>
+		<card><name>The Uruks Trail</name><set>TUhN</set></card>
+		<card><name>The Uruks Trail</name><set>TUhN</set></card>
+		<card><name>Snaga</name><set>ToS</set></card>
+		<card><name>Snaga</name><set>ToS</set></card>
+		<card><name>Enchanted Land</name><set>TUhN</set></card>
+		<card><name>Enchanted Land</name><set>TUhN</set></card>
+		<card><name>Enchanted Land</name><set>TUhN</set></card>
+		<card><name>Sarumans Orders</name><set>ToS</set></card>
+		<card><name>Sarumans Orders</name><set>ToS</set></card>
+		<card><name>Wold of Rohan</name><set>TUhN</set></card>
+		<card><name>Wold of Rohan</name><set>TUhN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Uruk-hai</name><set>TUhN</set></card>
+		<card><name>The Uruk-hai</name><set>ToS</set></card>
+		<card><name>Follow the Orcs</name><set>ToS</set></card>
+		<card><name>Rescue the Captives</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Mauhur</name><set>TUhN</set></card>
+		<card><name>Eastemnet</name><set>ToS</set></card>
+		<card><name>Aragorn</name><set>ToS</set></card>
+		<card><name>To Isengard!</name><set>ToS</set></card>
+		<card><name>Ugluk</name><set>ToS</set></card>
+	</superzone>
+</deck>

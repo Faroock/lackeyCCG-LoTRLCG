@@ -1,0 +1,59 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Spirit of the Wild</name><set>TTT</set></card>
+		<card><name>Spirit of the Wild</name><set>TTT</set></card>
+		<card><name>Spirit of the Wild</name><set>TTT</set></card>
+		<card><name>Spirit of the Wild</name><set>TTT</set></card>
+		<card><name>Spirit of the Wild</name><set>TTT</set></card>
+		<card><name>Cursed Forest</name><set>TTT</set></card>
+		<card><name>Cursed Forest</name><set>TTT</set></card>
+		<card><name>Grim Foothills</name><set>TTT</set></card>
+		<card><name>Grim Foothills</name><set>TTT</set></card>
+		<card><name>Grim Foothills</name><set>TTT</set></card>
+		<card><name>Curse of the Wild Men</name><set>TTT</set></card>
+		<card><name>Curse of the Wild Men</name><set>TTT</set></card>
+		<card><name>The Guardians Fury</name><set>TTT</set></card>
+		<card><name>The Guardians Fury</name><set>TTT</set></card>
+		<card><name>Wild Tenacity</name><set>TTT</set></card>
+		<card><name>Wild Tenacity</name><set>TTT</set></card>
+		<card><name>Wild Tenacity</name><set>TTT</set></card>
+		<card><name>Ancient Forest</name><set>VoI</set></card>
+		<card><name>Ancient Forest</name><set>VoI</set></card>
+		<card><name>Ancient Forest</name><set>VoI</set></card>
+		<card><name>Tangled Woods</name><set>VoI</set></card>
+		<card><name>Tangled Woods</name><set>VoI</set></card>
+		<card><name>Tangled Woods</name><set>VoI</set></card>
+		<card><name>Turned Around</name><set>VoI</set></card>
+		<card><name>Turned Around</name><set>VoI</set></card>
+		<card><name>Turned Around</name><set>VoI</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Trials Begin</name><set>TTT</set></card>
+		<card><name>The Trial of Strength</name><set>TTT</set></card>
+		<card><name>The Trial of Perseverance</name><set>TTT</set></card>
+		<card><name>The Trial of Intuition</name><set>TTT</set></card>
+		<card><name>The Antlered Crown</name><set>TTT</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Hallowed Circle</name><set>TTT</set></card>
+		<card><name>Boars Guardian</name><set>TTT</set></card>
+		<card><name>Wolfs Guardian</name><set>TTT</set></card>
+		<card><name>Ravens Guardian</name><set>TTT</set></card>
+		<card><name>Key of the Boar</name><set>TTT</set></card>
+		<card><name>Key of the Wolf</name><set>TTT</set></card>
+		<card><name>Key of the Raven</name><set>TTT</set></card>
+		<card><name>Hill Barrow</name><set>TTT</set></card>
+		<card><name>Cave Barrow</name><set>TTT</set></card>
+		<card><name>Stone Barrow</name><set>TTT</set></card>
+	</superzone>
+</deck>

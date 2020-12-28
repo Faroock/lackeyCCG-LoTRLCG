@@ -1,0 +1,55 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Flooding</name><set>HfG</set></card>
+		<card><name>Flooding</name><set>HfG</set></card>
+		<card><name>Goblintown Scavengers</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Hunters from Mordor</name><set>HfG</set></card>
+		<card><name>Old Wives Tales</name><set>HfG</set></card>
+		<card><name>River Ninglor</name><set>HfG</set></card>
+		<card><name>River Ninglor</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>Signs of Gollum</name><set>HfG</set></card>
+		<card><name>The East Bank</name><set>HfG</set></card>
+		<card><name>The East Bank</name><set>HfG</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>HfG</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>HfG</set></card>
+		<card><name>The Eaves of Mirkwood</name><set>HfG</set></card>
+		<card><name>The West Bank</name><set>HfG</set></card>
+		<card><name>The West Bank</name><set>HfG</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>False Lead</name><set>HfG</set></card>
+		<card><name>False Lead</name><set>HfG</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Hunt Begins</name><set>HfG</set></card>
+		<card><name>A New Terror Abroad</name><set>HfG</set></card>
+		<card><name>On the Trail</name><set>HfG</set></card>
+	</superzone>
+    <superzone name="Aside">
+	</superzone>
+</deck>

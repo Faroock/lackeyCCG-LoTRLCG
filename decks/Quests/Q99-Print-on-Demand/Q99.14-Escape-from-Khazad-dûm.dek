@@ -1,0 +1,97 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Black Bats</name><set>EfKd</set></card>
+		<card><name>Black Bats</name><set>EfKd</set></card>
+		<card><name>Black Bats</name><set>EfKd</set></card>
+		<card><name>Nest of Vermin</name><set>EfKd</set></card>
+		<card><name>Swarm of Bats</name><set>EfKd</set></card>
+		<card><name>Cave Spider</name><set>EfKd</set></card>
+		<card><name>Cave Spider</name><set>EfKd</set></card>
+		<card><name>The Mountains Roots</name><set>EfKd</set></card>
+		<card><name>The Mountains Roots</name><set>EfKd</set></card>
+		<card><name>Watchful Eyes</name><set>EfKd</set></card>
+		<card><name>Cave-troll</name><set>EfKd</set></card>
+		<card><name>Twisting Passage</name><set>EfKd</set></card>
+		<card><name>Twisting Passage</name><set>EfKd</set></card>
+		<card><name>Undisturbed Bones</name><set>EfKd</set></card>
+		<card><name>Undisturbed Bones</name><set>EfKd</set></card>
+		<card><name>Old Stone-troll</name><set>EfKd</set></card>
+		<card><name>Frightful Den</name><set>EfKd</set></card>
+		<card><name>Deep Deep Dark</name><set>EfKd</set></card>
+		<card><name>Deep Deep Dark</name><set>EfKd</set></card>
+		<card><name>Deep Deep Dark</name><set>EfKd</set></card>
+		<card><name>Rock Adder</name><set>EfKd</set></card>
+		<card><name>Rock Adder</name><set>EfKd</set></card>
+		<card><name>Bottomless Chasm</name><set>EfKd</set></card>
+		<card><name>Bottomless Chasm</name><set>EfKd</set></card>
+		<card><name>Lost and Alone</name><set>EfKd</set></card>
+		<card><name>Hobgoblin</name><set>EfKd</set></card>
+		<card><name>Western Hall</name><set>EfKd</set></card>
+		<card><name>New Devilry</name><set>EfKd</set></card>
+		<card><name>New Devilry</name><set>EfKd</set></card>
+		<card><name>New Devilry</name><set>EfKd</set></card>
+		<card><name>Unspeakable Thing</name><set>EfKd</set></card>
+		<card><name>Unspeakable Thing</name><set>EfKd</set></card>
+		<card><name>Lightless Grotto</name><set>EfKd</set></card>
+		<card><name>Lightless Grotto</name><set>EfKd</set></card>
+		<card><name>Many Roads</name><set>EfKd</set></card>
+		<card><name>Shadow Dweller</name><set>EfKd</set></card>
+		<card><name>Branching Paths</name><set>EfKd</set></card>
+		<card><name>Branching Paths</name><set>EfKd</set></card>
+		<card><name>Branching Paths</name><set>EfKd</set></card>
+		<card><name>Fatigue</name><set>EfKd</set></card>
+		<card><name>Elder Nameless Thing</name><set>EfKd</set></card>
+		<card><name>Silent Caverns</name><set>EfKd</set></card>
+		<card><name>Silent Caverns</name><set>EfKd</set></card>
+		<card><name>Dark Places</name><set>EfKd</set></card>
+		<card><name>Dark Places</name><set>EfKd</set></card>
+		<card><name>Orc Horn Blower</name><set>EfKd</set></card>
+		<card><name>Orc Horn Blower</name><set>EfKd</set></card>
+		<card><name>Goblin Dungeon</name><set>EfKd</set></card>
+		<card><name>Deep Fissure</name><set>EfKd</set></card>
+		<card><name>Deep Fissure</name><set>EfKd</set></card>
+		<card><name>Black Uruks</name><set>EfKd</set></card>
+		<card><name>Black Uruks</name><set>EfKd</set></card>
+		<card><name>Dreadful Gap</name><set>EfKd</set></card>
+		<card><name>Dreadful Gap</name><set>EfKd</set></card>
+		<card><name>Orcish Howls</name><set>EfKd</set></card>
+		<card><name>Orc Raiders</name><set>EfKd</set></card>
+		<card><name>Orc Raiders</name><set>EfKd</set></card>
+		<card><name>The Great Bridge</name><set>EfKd</set></card>
+		<card><name>Vast and Intricate</name><set>EfKd</set></card>
+		<card><name>Vast and Intricate</name><set>EfKd</set></card>
+		<card><name>Chieftain of the Pit</name><set>EfKd</set></card>
+		<card><name>Forked Passage</name><set>EfKd</set></card>
+		<card><name>Forked Passage</name><set>EfKd</set></card>
+		<card><name>Chance Encounter</name><set>EfKd</set></card>
+		<card><name>Chance Encounter</name><set>EfKd</set></card>
+		<card><name>Nameless Thing</name><set>EfKd</set></card>
+		<card><name>Nameless Thing</name><set>EfKd</set></card>
+		<card><name>Mithril Lode</name><set>EfKd</set></card>
+		<card><name>Mithril Lode</name><set>EfKd</set></card>
+		<card><name>A Foe Beyond</name><set>EfKd</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Out of the Depths</name><set>EfKd</set></card>
+		<card><name>Search for an Exit - Old One Lair</name><set>EfKd</set></card>
+		<card><name>Search for an Exit - A Wrong Turn</name><set>EfKd</set></card>
+		<card><name>Search for an Exit - A Way Up</name><set>EfKd</set></card>
+		<card><name>Nearing the Gate - The Bridge of Khazad-Dum</name><set>EfKd</set></card>
+		<card><name>Nearing the Gate - Last Lord of Moria</name><set>EfKd</set></card>
+		<card><name>Nearing the Gate - The Rear Ward</name><set>EfKd</set></card>
+		<card><name>Dark Pit</name><set>EfKd</set></card>
+		<card><name>Durins Bane</name><set>EfKd</set></card>
+	</superzone>
+</deck>

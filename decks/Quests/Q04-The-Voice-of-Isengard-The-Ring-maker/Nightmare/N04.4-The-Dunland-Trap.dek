@@ -1,0 +1,72 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Boar Clan Ambusher</name><set>TDTN</set></card>
+		<card><name>Boar Clan Ambusher</name><set>TDTN</set></card>
+		<card><name>Boar Clan Ambusher</name><set>TDTN</set></card>
+		<card><name>Boar Clan Skirmisher</name><set>TDTN</set></card>
+		<card><name>Boar Clan Skirmisher</name><set>TDTN</set></card>
+		<card><name>Boar Clan Skirmisher</name><set>TDTN</set></card>
+		<card><name>Boar Clan Skirmisher</name><set>TDTN</set></card>
+		<card><name>Plains of Dunland</name><set>TDTN</set></card>
+		<card><name>Plains of Dunland</name><set>TDTN</set></card>
+		<card><name>Munuv Duv River</name><set>TDTN</set></card>
+		<card><name>Munuv Duv River</name><set>TDTN</set></card>
+		<card><name>Munuv Duv River</name><set>TDTN</set></card>
+		<card><name>Hithaeglir Woods</name><set>TDTN</set></card>
+		<card><name>Hithaeglir Woods</name><set>TDTN</set></card>
+		<card><name>Hithaeglir Woods</name><set>TDTN</set></card>
+		<card><name>Boar Clan Assault</name><set>TDTN</set></card>
+		<card><name>Boar Clan Assault</name><set>TDTN</set></card>
+		<card><name>Boar Clan Stalker</name><set>TDT</set></card>
+		<card><name>Boar Clan Stalker</name><set>TDT</set></card>
+		<card><name>Boar Clan Stalker</name><set>TDT</set></card>
+		<card><name>Hithaeglir Foothills</name><set>TDT</set></card>
+		<card><name>Hithaeglir Foothills</name><set>TDT</set></card>
+		<card><name>Hills of Dunland</name><set>TDT</set></card>
+		<card><name>Hills of Dunland</name><set>TDT</set></card>
+		<card><name>Hills of Dunland</name><set>TDT</set></card>
+		<card><name>Hills of Dunland</name><set>TDT</set></card>
+		<card><name>Frenzied Attack</name><set>TDT</set></card>
+		<card><name>Frenzied Attack</name><set>TDT</set></card>
+		<card><name>Dunlending Ambush</name><set>TDT</set></card>
+		<card><name>Dunlending Ambush</name><set>TDT</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Low on Provisions</name><set>VoI</set></card>
+		<card><name>Off Track</name><set>VoI</set></card>
+		<card><name>Off Track</name><set>VoI</set></card>
+		<card><name>In Need of Rest</name><set>VoI</set></card>
+		<card><name>In Need of Rest</name><set>VoI</set></card>
+		<card><name>Dunland Chieftain</name><set>VoI</set></card>
+		<card><name>Dunland Chieftain</name><set>VoI</set></card>
+		<card><name>Dunland Tribesman</name><set>VoI</set></card>
+		<card><name>Dunland Tribesman</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Dunland Berserker</name><set>VoI</set></card>
+		<card><name>Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name>Wild Men of Dunland</name><set>VoI</set></card>
+		<card><name>Stalked by Dunlendings</name><set>TDTN</set></card>
+		<card><name>Stalked by Dunlendings</name><set>TDTN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Dunland Trap</name><set>TDTN</set></card>
+		<card><name>The Road to Tharbad</name><set>TDT</set></card>
+		<card><name>A Well Laid Trap</name><set>TDT</set></card>
+		<card><name>No Way Out</name><set>TDT</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Chief Turch</name><set>TDT</set></card>
+		<card><name>Munuv Duv Ravine</name><set>TDT</set></card>
+		<card><name>Old South Road</name><set>TDT</set></card>
+	</superzone>
+</deck>

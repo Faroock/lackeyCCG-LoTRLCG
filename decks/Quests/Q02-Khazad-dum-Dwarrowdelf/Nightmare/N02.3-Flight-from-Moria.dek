@@ -1,0 +1,77 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Abandoned Tools</name><set>KD</set></card>
+		<card><name>New Devilry</name><set>KD</set></card>
+		<card><name>New Devilry</name><set>KD</set></card>
+		<card><name>Shadow of Fear</name><set>KD</set></card>
+		<card><name>Shadow of Fear</name><set>KD</set></card>
+		<card><name>Shadow of Fear</name><set>KD</set></card>
+		<card><name>Crumbling Ruin</name><set>KD</set></card>
+		<card><name>Crumbling Ruin</name><set>KD</set></card>
+		<card><name>Dreadful Gap</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Fouled Well</name><set>KD</set></card>
+		<card><name>Sudden Pitfall</name><set>KD</set></card>
+		<card><name>Great Cave-troll</name><set>KD</set></card>
+		<card><name>Great Cave-troll</name><set>KD</set></card>
+		<card><name>Massing in the Deep</name><set>KD</set></card>
+		<card><name>Massing in the Deep</name><set>KD</set></card>
+		<card><name>Orc Drummer</name><set>KD</set></card>
+		<card><name>The Mountains Roots</name><set>KD</set></card>
+		<card><name>Chieftain of the Pit</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Swarming Goblins</name><set>FfMN</set></card>
+		<card><name>Swarming Goblins</name><set>FfMN</set></card>
+		<card><name>Swarming Goblins</name><set>FfMN</set></card>
+		<card><name>Coal-Black Orc</name><set>FfMN</set></card>
+		<card><name>Coal-Black Orc</name><set>FfMN</set></card>
+		<card><name>Coal-Black Orc</name><set>FfMN</set></card>
+		<card><name>Shadowed Corridor</name><set>FfMN</set></card>
+		<card><name>Shadowed Corridor</name><set>FfMN</set></card>
+		<card><name>Shadowed Corridor</name><set>FfMN</set></card>
+		<card><name>Shadowed Corridor</name><set>FfMN</set></card>
+		<card><name>Dismay and Fear</name><set>FfMN</set></card>
+		<card><name>Dismay and Fear</name><set>FfMN</set></card>
+		<card><name>Dismay and Fear</name><set>FfMN</set></card>
+		<card><name>An Evil Fortune</name><set>FfMN</set></card>
+		<card><name>An Evil Fortune</name><set>FfMN</set></card>
+		<card><name>An Evil Fortune</name><set>FfMN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Flight from Moria</name><set>FfMN</set></card>
+		<card><name>Search for an Exit</name><set>KD</set></card>
+		<card><name>Search for an Exit</name><set>KD</set></card>
+		<card><name>Search for an Exit - Heading Up</name><set>KD</set></card>
+		<card><name>Search for an Exit - Blocked by Shadow</name><set>KD</set></card>
+		<card><name>Search for an Exit - Escape from Darkness</name><set>KD</set></card>
+		<card><name>Search for an Exit - Hasty Council</name><set>KD</set></card>
+		<card><name>Search for an Exit - Narrow Paths</name><set>KD</set></card>
+		<card><name>Search for an Exit - Old One Lair</name><set>FfMN</set></card>
+		<card><name>Search for an Exit - A Wrong Turn</name><set>FfMN</set></card>
+		<card><name>Search for an Exit - A Way Up</name><set>FfMN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Nameless Fear</name><set>KD</set></card>
+		<card><name>A Foe Beyond</name><set>KD</set></card>
+		<card><name>A Foe Beyond</name><set>KD</set></card>
+		<card><name>A Foe Beyond</name><set>KD</set></card>
+		<card><name>A Foe Beyond</name><set>KD</set></card>
+	</superzone>
+</deck>

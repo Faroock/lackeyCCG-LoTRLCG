@@ -1,0 +1,50 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>King Spider</name><set>Core</set></card>
+		<card><name>Hummerhorns</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Great Forest Web</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Mountains of Mirkwood</name><set>Core</set></card>
+		<card><name>Eyes of the Forest</name><set>Core</set></card>
+		<card><name>Caught in a Web</name><set>Core</set></card>
+		<card><name>Caught in a Web</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>Forest Spider</name><set>Core</set></card>
+		<card><name>East Bight Patrol</name><set>Core</set></card>
+		<card><name>Black Forest Bats</name><set>Core</set></card>
+		<card><name>Old Forest Road</name><set>Core</set></card>
+		<card><name>Old Forest Road</name><set>Core</set></card>
+		<card><name>Forest Gate</name><set>Core</set></card>
+		<card><name>Forest Gate</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Eastern Crows</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Evil Storm</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Pursued by Shadow</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+		<card><name>Treacherous Fog</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Ungoliants Spawn</name><set>Core</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,68 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Bilbo Baggins</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Come down little bird</name><set>OHaUH</set></card>
+		<card><name>Come down little bird</name><set>OHaUH</set></card>
+		<card><name>Great Gray Wolf</name><set>OHaUH</set></card>
+		<card><name>Hiding in the Trees</name><set>OHaUH</set></card>
+		<card><name>Hiding in the Trees</name><set>OHaUH</set></card>
+		<card><name>It Likes Riddles</name><set>OHaUH</set></card>
+		<card><name>It Likes Riddles</name><set>OHaUH</set></card>
+		<card><name>It Likes Riddles</name><set>OHaUH</set></card>
+		<card><name>The Wargs Glade</name><set>OHaUH</set></card>
+		<card><name>The Wargs Glade</name><set>OHaUH</set></card>
+		<card><name>The Wargs Glade</name><set>OHaUH</set></card>
+		<card><name>Whats In My Pocket</name><set>OHaUH</set></card>
+		<card><name>Whats In My Pocket</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Wicked Wolf</name><set>DDaCDN</set></card>
+		<card><name>Wicked Wolf</name><set>DDaCDN</set></card>
+		<card><name>Wicked Wolf</name><set>DDaCDN</set></card>
+		<card><name>Lower Gate Sentries</name><set>DDaCDN</set></card>
+		<card><name>Lower Gate Sentries</name><set>DDaCDN</set></card>
+		<card><name>Lower Gate Sentries</name><set>DDaCDN</set></card>
+		<card><name>Pine Slopes</name><set>DDaCDN</set></card>
+		<card><name>Pine Slopes</name><set>DDaCDN</set></card>
+		<card><name>Pine Slopes</name><set>DDaCDN</set></card>
+		<card><name>Fallen Stones</name><set>DDaCDN</set></card>
+		<card><name>Fallen Stones</name><set>DDaCDN</set></card>
+		<card><name>Fallen Stones</name><set>DDaCDN</set></card>
+		<card><name>Where isss It</name><set>DDaCDN</set></card>
+		<card><name>Where isss It</name><set>DDaCDN</set></card>
+		<card><name>Where isss It</name><set>DDaCDN</set></card>
+		<card><name>We Hates It!</name><set>DDaCDN</set></card>
+		<card><name>We Hates It!</name><set>DDaCDN</set></card>
+		<card><name>We Hates It!</name><set>DDaCDN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Dungeons Deep and Caverns Dim</name><set>DDaCDN</set></card>
+		<card><name>Out of the Frying Pan</name><set>OHaUH</set></card>
+		<card><name>Riddles in the Dark</name><set>OHaUH</set></card>
+		<card><name>Into the Fire</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Lake in the Cavern</name><set>OHaUH</set></card>
+		<card><name>Gollum</name><set>OHaUH</set></card>
+		<card><name>Bilbos Magic Ring</name><set>OHaUH</set></card>
+		<card><name>The Lower Gate</name><set>DDaCDN</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,72 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Nameless Cave Dweller</name><set>TRoB</set></card>
+		<card><name>Nameless Cave Dweller</name><set>TRoB</set></card>
+		<card><name>Nameless Cave Dweller</name><set>TRoB</set></card>
+		<card><name>Nameless Cave Dweller</name><set>TRoB</set></card>
+		<card><name>Old Stone Troll</name><set>TRoB</set></card>
+		<card><name>Old Stone Troll</name><set>TRoB</set></card>
+		<card><name>Orc of Ered Luin</name><set>TRoB</set></card>
+		<card><name>Orc of Ered Luin</name><set>TRoB</set></card>
+		<card><name>Orc of Ered Luin</name><set>TRoB</set></card>
+		<card><name>Blue Mountain Goblin</name><set>TRoB</set></card>
+		<card><name>Blue Mountain Goblin</name><set>TRoB</set></card>
+		<card><name>Blue Mountain Goblin</name><set>TRoB</set></card>
+		<card><name>Flooded Hall</name><set>TRoB</set></card>
+		<card><name>Flooded Hall</name><set>TRoB</set></card>
+		<card><name>Darkened Tunnel</name><set>TRoB</set></card>
+		<card><name>Darkened Tunnel</name><set>TRoB</set></card>
+		<card><name>Sunken Treasury</name><set>TRoB</set></card>
+		<card><name>Sunken Treasury</name><set>TRoB</set></card>
+		<card><name>Sunken Treasury</name><set>TRoB</set></card>
+		<card><name>Secret Chamber</name><set>TRoB</set></card>
+		<card><name>Secret Chamber</name><set>TRoB</set></card>
+		<card><name>Secret Chamber</name><set>TRoB</set></card>
+		<card><name>Echoes in the Dark</name><set>TRoB</set></card>
+		<card><name>Echoes in the Dark</name><set>TRoB</set></card>
+		<card><name>Echoes in the Dark</name><set>TRoB</set></card>
+		<card><name>Spawn of Thangorodrim</name><set>TRoB</set></card>
+		<card><name>Spawn of Thangorodrim</name><set>TRoB</set></card>
+		<card><name>Concealed Spikes</name><set>TRoB</set></card>
+		<card><name>Concealed Spikes</name><set>TRoB</set></card>
+		<card><name>Covered Pit</name><set>TRoB</set></card>
+		<card><name>Covered Pit</name><set>TRoB</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Ruins of the First Age</name><set>TRoB</set></card>
+		<card><name>Ancient Evils Disturbed</name><set>TRoB</set></card>
+		<card><name>Deeper into the Past</name><set>TRoB</set></card>
+		<card><name>The Servants of Morgoth</name><set>TRoB</set></card>
+		<card><name>The Roots of Ered Luin</name><set>TRoB</set></card>
+		<card><name>The Mines of Belegost</name><set>TRoB</set></card>
+		<card><name>The Beast of Belegost</name><set>TRoB</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Scenario Rules 1</name><set>TRoB</set></card>
+		<card><name>Scenario Rules 2</name><set>TRoB</set></card>
+		<card><name>Stalking the Ruins</name><set>TRoB</set></card>
+		<card><name>Abandoned Mine</name><set>TRoB</set></card>
+		<card><name>Abandoned Mine</name><set>TRoB</set></card>
+		<card><name>Abandoned Mine</name><set>TRoB</set></card>
+		<card><name>Abandoned Mine</name><set>TRoB</set></card>
+		<card><name>Lurker of the Depths</name><set>TRoB</set></card>
+		<card><name>Naurlhug</name><set>TRoB</set></card>
+		<card><name>Naurlhugs Lair</name><set>TRoB</set></card>
+		<card><name>Sword of Belegost</name><set>TRoB</set></card>
+		<card><name>Map of Ered Luin</name><set>TRoB</set></card>
+		<card><name>Keys of Belegost</name><set>TRoB</set></card>
+		<card><name>Book of Aules Children</name><set>TRoB</set></card>
+		<card><name>Dwarven Torch</name><set>TRoB</set></card>
+		<card><name>Blue Mountain Gem</name><set>TRoB</set></card>
+	</superzone>
+</deck>

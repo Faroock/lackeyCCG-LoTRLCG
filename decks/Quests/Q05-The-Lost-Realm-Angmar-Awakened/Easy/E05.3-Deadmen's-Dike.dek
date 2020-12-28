@@ -1,0 +1,51 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Thaurdirs Damned</name><set>TLR</set></card>
+		<card><name>Baleful Shade</name><set>TLR</set></card>
+		<card><name>Baleful Shade</name><set>TLR</set></card>
+		<card><name>Baleful Shade</name><set>TLR</set></card>
+		<card><name>Baleful Shade</name><set>TLR</set></card>
+		<card><name>Broken Battlements</name><set>TLR</set></card>
+		<card><name>Broken Battlements</name><set>TLR</set></card>
+		<card><name>Norbury Tombs</name><set>TLR</set></card>
+		<card><name>Norbury Tombs</name><set>TLR</set></card>
+		<card><name>Fornost Square</name><set>TLR</set></card>
+		<card><name>Fornost Square</name><set>TLR</set></card>
+		<card><name>Haunted Keep</name><set>TLR</set></card>
+		<card><name>Haunted Keep</name><set>TLR</set></card>
+		<card><name>Deadmens Gate</name><set>TLR</set></card>
+		<card><name>Unnatural Fog</name><set>TLR</set></card>
+		<card><name>The Shadow World</name><set>TLR</set></card>
+		<card><name>Dead Lord</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Restless Evil</name><set>TLR</set></card>
+		<card><name>Seal the Tomb</name><set>TLR</set></card>
+		<card><name>Terror of the North</name><set>TLR</set></card>
+		<card><name>Terror of the North</name><set>TLR</set></card>
+		<card><name>Dark Sorcery</name><set>TLR</set></card>
+		<card><name>Heavy Curse</name><set>TLR</set></card>
+		<card><name>The Power of Angmar</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Shades of Angmar</name><set>TLR</set></card>
+		<card><name>A Fell Wraith</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Iarion</name><set>TLR</set></card>
+		<card><name>Thaurdir</name><set>TLR</set></card>
+		<card><name>Fornost Square</name><set>TLR</set></card>
+	</superzone>
+</deck>

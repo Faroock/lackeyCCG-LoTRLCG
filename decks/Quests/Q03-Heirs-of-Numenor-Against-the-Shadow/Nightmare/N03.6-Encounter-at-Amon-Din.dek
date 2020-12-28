@@ -1,0 +1,61 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Marauding Orc</name><set>EaAD</set></card>
+		<card><name>Marauding Orc</name><set>EaAD</set></card>
+		<card><name>Marauding Orc</name><set>EaAD</set></card>
+		<card><name>Burning Farmhouse</name><set>EaAD</set></card>
+		<card><name>Gondorian Hamlet</name><set>EaAD</set></card>
+		<card><name>Gondorian Hamlet</name><set>EaAD</set></card>
+		<card><name>Secluded Farmhouse</name><set>EaAD</set></card>
+		<card><name>Secluded Farmhouse</name><set>EaAD</set></card>
+		<card><name>Secluded Farmhouse</name><set>EaAD</set></card>
+		<card><name>Burnt Homestead</name><set>EaAD</set></card>
+		<card><name>Burnt Homestead</name><set>EaAD</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Arsonist</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Orc Rabble</name><set>HoN</set></card>
+		<card><name>Orc Raiders</name><set>EaADN</set></card>
+		<card><name>Orc Raiders</name><set>EaADN</set></card>
+		<card><name>Pillaging Orc.</name><set>EaADN</set></card>
+		<card><name>Pillaging Orc.</name><set>EaADN</set></card>
+		<card><name>Pillaging Orc.</name><set>EaADN</set></card>
+		<card><name>Beseiged Homestead</name><set>EaADN</set></card>
+		<card><name>Beseiged Homestead</name><set>EaADN</set></card>
+		<card><name>Beseiged Homestead</name><set>EaADN</set></card>
+		<card><name>Overrun Village</name><set>EaADN</set></card>
+		<card><name>Overrun Village</name><set>EaADN</set></card>
+		<card><name>Trapped Villagers</name><set>EaADN</set></card>
+		<card><name>Trapped Villagers</name><set>EaADN</set></card>
+		<card><name>Trapped Villagers</name><set>EaADN</set></card>
+		<card><name>Run for your Lives!</name><set>EaADN</set></card>
+		<card><name>Run for your Lives!</name><set>EaADN</set></card>
+		<card><name>Save Us!</name><set>EaADN</set></card>
+		<card><name>Save Us!</name><set>EaADN</set></card>
+		<card><name>Those Now Sundered</name><set>EaADN</set></card>
+		<card><name>Those Now Sundered</name><set>EaADN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Encounter at Amon Din</name><set>EaADN</set></card>
+		<card><name>Savagery of the Orcs</name><set>EaAD</set></card>
+		<card><name>Protect the Villagers</name><set>EaAD</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Ghulat</name><set>EaAD</set></card>
+		<card><name>Lord Alcaron</name><set>EaAD</set></card>
+		<card><name>Burning Farmhouse</name><set>EaAD</set></card>
+		<card><name>Rescued Villagers</name><set>EaAD</set></card>
+		<card><name>Dead Villagers</name><set>EaAD</set></card>
+	</superzone>
+</deck>

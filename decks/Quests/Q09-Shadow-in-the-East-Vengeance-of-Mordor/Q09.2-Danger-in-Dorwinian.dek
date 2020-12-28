@@ -1,0 +1,63 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Servant of Sauron</name><set>ASitE</set></card>
+		<card><name>Servant of Sauron</name><set>ASitE</set></card>
+		<card><name>Treacherous Easterling</name><set>ASitE</set></card>
+		<card><name>Treacherous Easterling</name><set>ASitE</set></card>
+		<card><name>Darkness in the East</name><set>ASitE</set></card>
+		<card><name>Darkness in the East</name><set>ASitE</set></card>
+		<card><name>City Forum</name><set>ASitE</set></card>
+		<card><name>City Forum</name><set>ASitE</set></card>
+		<card><name>Seedy Tavern</name><set>ASitE</set></card>
+		<card><name>Seedy Tavern</name><set>ASitE</set></card>
+		<card><name>Overwhelmed</name><set>ASitE</set></card>
+		<card><name>Overwhelmed</name><set>ASitE</set></card>
+		<card><name>Rhun Backstabber</name><set>ASitE</set></card>
+		<card><name>Rhun Backstabber</name><set>ASitE</set></card>
+		<card><name>Shadow of Fear</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Secret Cultist</name><set>ASitE</set></card>
+		<card><name>Secret Cultist</name><set>ASitE</set></card>
+		<card><name>Messenger from Mordor</name><set>ASitE</set></card>
+		<card><name>Messenger from Mordor</name><set>ASitE</set></card>
+		<card><name>Messenger from Mordor</name><set>ASitE</set></card>
+		<card><name>Evidence of the Cult</name><set>ASitE</set></card>
+		<card><name>Evidence of the Cult</name><set>ASitE</set></card>
+		<card><name>Evidence of the Cult</name><set>ASitE</set></card>
+		<card><name>Disappearances</name><set>ASitE</set></card>
+		<card><name>Disappearances</name><set>ASitE</set></card>
+		<card><name>Hillside Manor</name><set>ASitE</set></card>
+		<card><name>Hillside Manor</name><set>ASitE</set></card>
+		<card><name>Hillside Manor</name><set>ASitE</set></card>
+		<card><name>Unwelcome Travelers</name><set>ASitE</set></card>
+		<card><name>Catacombs</name><set>ASitE</set></card>
+		<card><name>Catacombs</name><set>ASitE</set></card>
+		<card><name>Side Street</name><set>ASitE</set></card>
+		<card><name>Side Street</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>A City in Turmoil</name><set>ASitE</set></card>
+		<card><name>The Shadow of Mordor</name><set>ASitE</set></card>
+		<card><name>Leader of the Cult</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Sauron Worship</name><set>ASitE</set></card>
+		<card><name>Bribes</name><set>ASitE</set></card>
+		<card><name>Submit or Die</name><set>ASitE</set></card>
+		<card><name>Black Numenorean</name><set>ASitE</set></card>
+		<card><name>The Governor</name><set>ASitE</set></card>
+		<card><name>Priest of Sauron</name><set>ASitE</set></card>
+	</superzone>
+</deck>

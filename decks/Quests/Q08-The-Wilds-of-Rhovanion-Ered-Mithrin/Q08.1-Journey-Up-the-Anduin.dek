@@ -1,0 +1,66 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wooded Riverbank</name><set>TWoR</set></card>
+		<card><name>Wooded Riverbank</name><set>TWoR</set></card>
+		<card><name>Wooded Riverbank</name><set>TWoR</set></card>
+		<card><name>Frenzied Creature</name><set>TWoR</set></card>
+		<card><name>Frenzied Creature</name><set>TWoR</set></card>
+		<card><name>Dangerous Crossing</name><set>TWoR</set></card>
+		<card><name>Dangerous Crossing</name><set>TWoR</set></card>
+		<card><name>Dangerous Crossing</name><set>TWoR</set></card>
+		<card><name>Goblin Troop</name><set>TWoR</set></card>
+		<card><name>Goblin Troop</name><set>TWoR</set></card>
+		<card><name>Stray Goblin</name><set>TWoR</set></card>
+		<card><name>Stray Goblin</name><set>TWoR</set></card>
+		<card><name>Stray Goblin</name><set>TWoR</set></card>
+		<card><name>Pack of Wargs</name><set>TWoR</set></card>
+		<card><name>Pack of Wargs</name><set>TWoR</set></card>
+		<card><name>Hills of Wilderland</name><set>TWoR</set></card>
+		<card><name>Hills of Wilderland</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Lonely Lands</name><set>TWoR</set></card>
+		<card><name>Ruined Supplies</name><set>TWoR</set></card>
+		<card><name>Ruined Supplies</name><set>TWoR</set></card>
+		<card><name>Lost in the Wild</name><set>TWoR</set></card>
+		<card><name>Lost in the Wild</name><set>TWoR</set></card>
+		<card><name>Weighed Down</name><set>TWoR</set></card>
+		<card><name>Weighed Down</name><set>TWoR</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Misty Mountain Goblins</name><set>Core</set></card>
+		<card><name>Massing at Night</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Banks of the Anduin</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+		<card><name>Gladden Fields</name><set>Core</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Traveling North</name><set>TWoR</set></card>
+		<card><name>Woodmen Under Attack</name><set>TWoR</set></card>
+		<card><name>The Passage of the Ford</name><set>TWoR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Wolf Rider</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Hill Troll</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Goblin Sniper</name><set>Core</set></card>
+		<card><name>Marsh Adder</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Wargs</name><set>Core</set></card>
+		<card><name>Woodman Village</name><set>TWoR</set></card>
+		<card><name>The Old Ford</name><set>TWoR</set></card>
+	</superzone>
+</deck>

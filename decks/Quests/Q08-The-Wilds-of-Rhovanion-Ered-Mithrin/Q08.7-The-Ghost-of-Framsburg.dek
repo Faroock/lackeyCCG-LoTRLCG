@@ -1,0 +1,62 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Crypt Key</name><set>TGoF</set></card>
+		<card><name>Old Lantern</name><set>TGoF</set></card>
+		<card><name>Scathas Teeth</name><set>TGoF</set></card>
+		<card><name>Frams Shade</name><set>TGoF</set></card>
+		<card><name>Crypt Stalker</name><set>TGoF</set></card>
+		<card><name>Crypt Stalker</name><set>TGoF</set></card>
+		<card><name>Evil Spectre</name><set>TGoF</set></card>
+		<card><name>Evil Spectre</name><set>TGoF</set></card>
+		<card><name>Evil Spectre</name><set>TGoF</set></card>
+		<card><name>Forgotten Crypt</name><set>TGoF</set></card>
+		<card><name>Haunted Hall</name><set>TGoF</set></card>
+		<card><name>Hidden Staircase</name><set>TGoF</set></card>
+		<card><name>Moonlit Passage</name><set>TGoF</set></card>
+		<card><name>Moonlit Passage</name><set>TGoF</set></card>
+		<card><name>Cursed Tower</name><set>TGoF</set></card>
+		<card><name>Cursed Tower</name><set>TGoF</set></card>
+		<card><name>Abandoned Ruins</name><set>TGoF</set></card>
+		<card><name>Terrible Shadows</name><set>TGoF</set></card>
+		<card><name>Terrible Shadows</name><set>TGoF</set></card>
+		<card><name>Slammed Shut</name><set>TGoF</set></card>
+		<card><name>Slammed Shut</name><set>TGoF</set></card>
+		<card><name>Slammed Shut</name><set>TGoF</set></card>
+		<card><name>Afraid of the Dark</name><set>TWoR</set></card>
+		<card><name>Afraid of the Dark</name><set>TWoR</set></card>
+		<card><name>Eyes in the Dark</name><set>TWoR</set></card>
+		<card><name>Eyes in the Dark</name><set>TWoR</set></card>
+		<card><name>Eyes in the Dark</name><set>TWoR</set></card>
+		<card><name>Werewolf</name><set>TWoR</set></card>
+		<card><name>Werewolf</name><set>TWoR</set></card>
+		<card><name>Giant Spider</name><set>TWoR</set></card>
+		<card><name>Giant Spider</name><set>TWoR</set></card>
+		<card><name>Giant Spider</name><set>TWoR</set></card>
+		<card><name>Black Bats</name><set>TWoR</set></card>
+		<card><name>Black Bats</name><set>TWoR</set></card>
+		<card><name>Black Bats</name><set>TWoR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Haunted Keep</name><set>TGoF</set></card>
+		<card><name>Searching the Ruins</name><set>TGoF</set></card>
+		<card><name>The Cursed Shade</name><set>TGoF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Cursed Tomb</name><set>TGoF</set></card>
+		<card><name>Hidden Staircase</name><set>TGoF</set></card>
+		<card><name>Cursed Tower</name><set>TGoF</set></card>
+		<card><name>Moonlit Passage</name><set>TGoF</set></card>
+		<card><name>Haunted Hall</name><set>TGoF</set></card>
+		<card><name>Forgotten Crypt</name><set>TGoF</set></card>
+	</superzone>
+</deck>

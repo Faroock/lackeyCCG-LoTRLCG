@@ -1,0 +1,67 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Barren Hills</name><set>RtR</set></card>
+		<card><name>Barren Hills</name><set>RtR</set></card>
+		<card><name>Crebain</name><set>RtR</set></card>
+		<card><name>Crebain</name><set>RtR</set></card>
+		<card><name>Crebain</name><set>RtR</set></card>
+		<card><name>Followed by Night</name><set>RtR</set></card>
+		<card><name>Goblin Gate</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Goblin Taskmaster</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Orc Raiders</name><set>RtR</set></card>
+		<card><name>Pathless Country</name><set>RtR</set></card>
+		<card><name>Pathless Country</name><set>RtR</set></card>
+		<card><name>Pathless Country</name><set>RtR</set></card>
+		<card><name>Ruined Road</name><set>RtR</set></card>
+		<card><name>Ruined Road</name><set>RtR</set></card>
+		<card><name>Wild Bear</name><set>RtR</set></card>
+		<card><name>Wild Bear</name><set>RtR</set></card>
+		<card><name>Wild Bear</name><set>RtR</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Archer</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Goblin Spearman</name><set>KD</set></card>
+		<card><name>Plundered Armoury</name><set>KD</set></card>
+		<card><name>Plundered Armoury</name><set>KD</set></card>
+		<card><name>Undisturbed Bones</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Bitter Wind</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Black Uruks</name><set>KD</set></card>
+		<card><name>Knees of the Mountain</name><set>KD</set></card>
+		<card><name>Mountain Warg</name><set>KD</set></card>
+		<card><name>Mountain Warg</name><set>KD</set></card>
+		<card><name>Turbulent Waters</name><set>KD</set></card>
+		<card><name>Warg Lair</name><set>KD</set></card>
+		<card><name>Warg Lair</name><set>KD</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Along the Misty Mountains</name><set>RtR</set></card>
+		<card><name>Orc Outpost</name><set>RtR</set></card>
+		<card><name>Approaching Rivendell</name><set>RtR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Arwen Undomiel</name><set>RtR</set></card>
+	</superzone>
+</deck>

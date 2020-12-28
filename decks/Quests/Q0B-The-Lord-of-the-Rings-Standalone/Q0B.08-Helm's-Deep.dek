@@ -1,0 +1,69 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Wild Hillman</name><set>ToS</set></card>
+		<card><name>Wild Hillman</name><set>ToS</set></card>
+		<card><name>Wild Hillman</name><set>ToS</set></card>
+		<card><name>Warrior of Dunland</name><set>ToS</set></card>
+		<card><name>Warrior of Dunland</name><set>ToS</set></card>
+		<card><name>The Hornburg</name><set>ToS</set></card>
+		<card><name>The Hornburg</name><set>ToS</set></card>
+		<card><name>The Hornburg</name><set>ToS</set></card>
+		<card><name>Deeping Wall</name><set>ToS</set></card>
+		<card><name>Deeping Wall</name><set>ToS</set></card>
+		<card><name>Deeping Wall</name><set>ToS</set></card>
+		<card><name>Deeping Culvert</name><set>ToS</set></card>
+		<card><name>Deeping Culvert</name><set>ToS</set></card>
+		<card><name>Postern Door</name><set>ToS</set></card>
+		<card><name>Postern Door</name><set>ToS</set></card>
+		<card><name>Helms Gate</name><set>ToS</set></card>
+		<card><name>Helms Gate</name><set>ToS</set></card>
+		<card><name>Scaling Ladders</name><set>ToS</set></card>
+		<card><name>Scaling Ladders</name><set>ToS</set></card>
+		<card><name>Scaling Ladders</name><set>ToS</set></card>
+		<card><name>Devilry of Saruman</name><set>ToS</set></card>
+		<card><name>Devilry of Saruman</name><set>ToS</set></card>
+		<card><name>Devilry of Saruman</name><set>ToS</set></card>
+		<card><name>Reckless Hate</name><set>ToS</set></card>
+		<card><name>Reckless Hate</name><set>ToS</set></card>
+		<card><name>Night Without End</name><set>ToS</set></card>
+		<card><name>Night Without End</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Isengard Uruk</name><set>ToS</set></card>
+		<card><name>Uruk-hai Fighter</name><set>ToS</set></card>
+		<card><name>Uruk-hai Fighter</name><set>ToS</set></card>
+		<card><name>Uruk-hai Fighter</name><set>ToS</set></card>
+		<card><name>Fighting Uruk-hai</name><set>ToS</set></card>
+		<card><name>Fighting Uruk-hai</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The King of the Golden Hall</name><set>ToS</set></card>
+		<card><name>Assault on Helms Deep</name><set>ToS</set></card>
+		<card><name>The Hosts of Isengard</name><set>ToS</set></card>
+		<card><name>The Wall is Breached!</name><set>ToS</set></card>
+		<card><name>The King Rides Out</name><set>ToS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Defense of Helms Deep</name><set>ToS</set></card>
+		<card><name>Deeping Wall</name><set>ToS</set></card>
+		<card><name>Soldier of Isengard</name><set>ToS</set></card>
+		<card><name>Soldier of Isengard</name><set>ToS</set></card>
+		<card><name>Soldier of Isengard</name><set>ToS</set></card>
+		<card><name>Soldier of Isengard</name><set>ToS</set></card>
+		<card><name>Poisoned Counsels</name><set>ToS</set></card>
+		<card><name>Poisoned Counsels</name><set>ToS</set></card>
+		<card><name>Poisoned Counsels</name><set>ToS</set></card>
+		<card><name>Poisoned Counsels</name><set>ToS</set></card>
+		<card><name>Aragorn</name><set>ToS</set></card>
+	</superzone>
+</deck>

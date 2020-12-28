@@ -1,0 +1,72 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+		<card><name>Bilbo Baggins</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Galloping Boulders</name><set>OHaUH</set></card>
+		<card><name>Galloping Boulders</name><set>OHaUH</set></card>
+		<card><name>Galloping Boulders</name><set>OHaUH</set></card>
+		<card><name>Galloping Boulders</name><set>OHaUH</set></card>
+		<card><name>Guffawing of Giants</name><set>OHaUH</set></card>
+		<card><name>Guffawing of Giants</name><set>OHaUH</set></card>
+		<card><name>Stone-Giant</name><set>OHaUH</set></card>
+		<card><name>Stone-Giant</name><set>OHaUH</set></card>
+		<card><name>The High Pass</name><set>OHaUH</set></card>
+		<card><name>A Suspicious Crow</name><set>OHaUH</set></card>
+		<card><name>A Suspicious Crow</name><set>OHaUH</set></card>
+		<card><name>A Suspicious Crow</name><set>OHaUH</set></card>
+		<card><name>More Like a Grocer</name><set>OHaUH</set></card>
+		<card><name>No Campfire</name><set>OHaUH</set></card>
+		<card><name>No Campfire</name><set>OHaUH</set></card>
+		<card><name>Wind-whipped Rain</name><set>OHaUH</set></card>
+		<card><name>Wind-whipped Rain</name><set>OHaUH</set></card>
+		<card><name>Narrow Ledge</name><set>OtMMGN</set></card>
+		<card><name>Narrow Ledge</name><set>OtMMGN</set></card>
+		<card><name>Narrow Ledge</name><set>OtMMGN</set></card>
+		<card><name>Dim Valley</name><set>OtMMGN</set></card>
+		<card><name>Dim Valley</name><set>OtMMGN</set></card>
+		<card><name>Dim Valley</name><set>OtMMGN</set></card>
+		<card><name>Dim Valley</name><set>OtMMGN</set></card>
+		<card><name>Lightning Splinters</name><set>OtMMGN</set></card>
+		<card><name>Lightning Splinters</name><set>OtMMGN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Over the Misty Mountains Grim</name><set>OtMMGN</set></card>
+		<card><name>A Short Rest</name><set>OHaUH</set></card>
+		<card><name>The Mountain Pass</name><set>OHaUH</set></card>
+		<card><name>Down Down to Goblin Town</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Chaos in the Cavern</name><set>OHaUH</set></card>
+		<card><name>Chaos in the Cavern</name><set>OHaUH</set></card>
+		<card><name>Front Porch</name><set>OHaUH</set></card>
+		<card><name>Front Porch</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Great Cavern Room</name><set>OHaUH</set></card>
+		<card><name>Great Cavern Room</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Grip grab! Pinch nab!</name><set>OHaUH</set></card>
+		<card><name>Grip grab! Pinch nab!</name><set>OHaUH</set></card>
+		<card><name>Grip grab! Pinch nab!</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>Stone-Giant</name><set>OHaUH</set></card>
+	</superzone>
+</deck>

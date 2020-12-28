@@ -1,0 +1,57 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>The Tunnels of Torech Gorgor</name><set>UtAM</set></card>
+		<card><name>A Haunt for Beasts</name><set>UtAM</set></card>
+		<card><name>Overwhelming Darkness</name><set>UtAM</set></card>
+		<card><name>Nameless Beast</name><set>UtAM</set></card>
+		<card><name>Nameless Beast</name><set>UtAM</set></card>
+		<card><name>Mordor Cave Troll</name><set>UtAM</set></card>
+		<card><name>Mordor Cave Troll</name><set>UtAM</set></card>
+		<card><name>Ash Mountain Werewolf</name><set>UtAM</set></card>
+		<card><name>Ash Mountain Werewolf</name><set>UtAM</set></card>
+		<card><name>Spawn of Shelob</name><set>UtAM</set></card>
+		<card><name>Spawn of Shelob</name><set>UtAM</set></card>
+		<card><name>Spawn of Shelob</name><set>UtAM</set></card>
+		<card><name>Torech Gorgor Patrol</name><set>UtAM</set></card>
+		<card><name>Fiery Chasm</name><set>UtAM</set></card>
+		<card><name>Fiery Chasm</name><set>UtAM</set></card>
+		<card><name>Hideous Deeps</name><set>UtAM</set></card>
+		<card><name>Hideous Deeps</name><set>UtAM</set></card>
+		<card><name>Orc Passage</name><set>UtAM</set></card>
+		<card><name>Orc Passage</name><set>UtAM</set></card>
+		<card><name>Orc Passage</name><set>UtAM</set></card>
+		<card><name>Ransacked Supplies</name><set>UtAM</set></card>
+		<card><name>Ransacked Supplies</name><set>UtAM</set></card>
+		<card><name>Ransacked Supplies</name><set>UtAM</set></card>
+		<card><name>Burning Reek</name><set>UtAM</set></card>
+		<card><name>Burning Reek</name><set>UtAM</set></card>
+		<card><name>Writhing Shadows</name><set>UtAM</set></card>
+		<card><name>Writhing Shadows</name><set>UtAM</set></card>
+		<card><name>Twisted Tunnel</name><set>ASitE</set></card>
+		<card><name>Twisted Tunnel</name><set>ASitE</set></card>
+		<card><name>Narrow Opening</name><set>ASitE</set></card>
+		<card><name>Narrow Opening</name><set>ASitE</set></card>
+		<card><name>Crumbling Passage</name><set>ASitE</set></card>
+		<card><name>Crumbling Passage</name><set>ASitE</set></card>
+		<card><name>Fearful Shadows</name><set>ASitE</set></card>
+		<card><name>Fearful Shadows</name><set>ASitE</set></card>
+		<card><name>Lost in the Dark</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Passage into Mordor</name><set>UtAM</set></card>
+		<card><name>An Evil Place</name><set>UtAM</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Torech Gorgor Patrol</name><set>UtAM</set></card>
+	</superzone>
+</deck>

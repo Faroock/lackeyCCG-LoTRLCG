@@ -1,0 +1,62 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Serpent Guard</name><set>TBS</set></card>
+		<card><name>Serpent Guard</name><set>TBS</set></card>
+		<card><name>Serpent Guard</name><set>TBS</set></card>
+		<card><name>Serpent Guard</name><set>TBS</set></card>
+		<card><name>The Serpents Redoubt</name><set>TBS</set></card>
+		<card><name>The Serpents Redoubt</name><set>TBS</set></card>
+		<card><name>Roofless Tower</name><set>TBS</set></card>
+		<card><name>Roofless Tower</name><set>TBS</set></card>
+		<card><name>Desert Bastion</name><set>TBS</set></card>
+		<card><name>Desert Bastion</name><set>TBS</set></card>
+		<card><name>Desert Bastion</name><set>TBS</set></card>
+		<card><name>Southron Camp</name><set>TBS</set></card>
+		<card><name>Southron Camp</name><set>TBS</set></card>
+		<card><name>Southron Camp</name><set>TBS</set></card>
+		<card><name>Broken Courtyard</name><set>TBS</set></card>
+		<card><name>Broken Courtyard</name><set>TBS</set></card>
+		<card><name>Broken Courtyard</name><set>TBS</set></card>
+		<card><name>Bold and Grim</name><set>TBS</set></card>
+		<card><name>Bold and Grim</name><set>TBS</set></card>
+		<card><name>Bold and Grim</name><set>TBS</set></card>
+		<card><name>No Quarter</name><set>TBS</set></card>
+		<card><name>No Quarter</name><set>TBS</set></card>
+		<card><name>Chaos in the Night</name><set>TBS</set></card>
+		<card><name>Chaos in the Night</name><set>TBS</set></card>
+		<card><name>Dont let them escape!</name><set>TBS</set></card>
+		<card><name>Southron Champion</name><set>TSoH</set></card>
+		<card><name>Southron Captain</name><set>TSoH</set></card>
+		<card><name>Southron Soldier</name><set>TSoH</set></card>
+		<card><name>Southron Soldier</name><set>TSoH</set></card>
+		<card><name>Southron Soldier</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Southron Archer</name><set>TSoH</set></card>
+		<card><name>Nowhere to Hide</name><set>TSoH</set></card>
+		<card><name>Nowhere to Hide</name><set>TSoH</set></card>
+		<card><name>Nowhere to Hide</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Crossroads Fort</name><set>TBS</set></card>
+		<card><name>Battle in the Camp</name><set>TBS</set></card>
+		<card><name>Defeat the Serpent</name><set>TBS</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Banner of the Serpent</name><set>TBS</set></card>
+		<card><name>The Serpents Garb</name><set>TBS</set></card>
+		<card><name>Summons from Mordor</name><set>TBS</set></card>
+		<card><name>The Black Serpent</name><set>TBS</set></card>
+	</superzone>
+</deck>

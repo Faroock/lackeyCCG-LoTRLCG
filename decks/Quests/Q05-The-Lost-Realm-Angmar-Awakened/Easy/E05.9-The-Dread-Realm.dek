@@ -1,0 +1,53 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Dwimmerlaik</name><set>TDR</set></card>
+		<card><name>Witch of Angmar</name><set>TDR</set></card>
+		<card><name>Witch of Angmar</name><set>TDR</set></card>
+		<card><name>Wraith of Carn Dum</name><set>TDR</set></card>
+		<card><name>Wraith of Carn Dum</name><set>TDR</set></card>
+		<card><name>Sinister Dungeon</name><set>TDR</set></card>
+		<card><name>Sinister Dungeon</name><set>TDR</set></card>
+		<card><name>Sinister Dungeon</name><set>TDR</set></card>
+		<card><name>Dark Halls</name><set>TDR</set></card>
+		<card><name>Dark Halls</name><set>TDR</set></card>
+		<card><name>Unholy Crypt</name><set>TDR</set></card>
+		<card><name>Unholy Crypt</name><set>TDR</set></card>
+		<card><name>Unholy Crypt</name><set>TDR</set></card>
+		<card><name>A Fell Dread</name><set>TDR</set></card>
+		<card><name>A Fell Dread</name><set>TDR</set></card>
+		<card><name>Death and Calamity</name><set>TDR</set></card>
+		<card><name>Death and Calamity</name><set>TDR</set></card>
+		<card><name>Dead Lord</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Cursed Dead</name><set>TLR</set></card>
+		<card><name>Restless Evil</name><set>TLR</set></card>
+		<card><name>Seal the Tomb</name><set>TLR</set></card>
+		<card><name>Terror of the North</name><set>TLR</set></card>
+		<card><name>Terror of the North</name><set>TLR</set></card>
+		<card><name>Dark Sorcery</name><set>TLR</set></card>
+		<card><name>Heavy Curse</name><set>TLR</set></card>
+		<card><name>The Power of Angmar</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Catacombs of Carn Dum</name><set>TDR</set></card>
+		<card><name>Angmar Awakened</name><set>TDR</set></card>
+		<card><name>Daechanars Fall</name><set>TDR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Dread Realm</name><set>TDR</set></card>
+		<card><name>Daechanar</name><set>TDR</set></card>
+		<card><name>Altar of Midwinter</name><set>TDR</set></card>
+	</superzone>
+</deck>

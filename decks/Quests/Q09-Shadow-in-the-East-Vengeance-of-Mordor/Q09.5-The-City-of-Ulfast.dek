@@ -1,0 +1,65 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Ulfast Sentry</name><set>TCoU</set></card>
+		<card><name>Ulfast Sentry</name><set>TCoU</set></card>
+		<card><name>Ulfast Sentry</name><set>TCoU</set></card>
+		<card><name>The Kings Elite</name><set>TCoU</set></card>
+		<card><name>The Kings Elite</name><set>TCoU</set></card>
+		<card><name>Ulchors Agent</name><set>TCoU</set></card>
+		<card><name>Ulchors Agent</name><set>TCoU</set></card>
+		<card><name>The Kings Lawn</name><set>TCoU</set></card>
+		<card><name>Guarded Archway</name><set>TCoU</set></card>
+		<card><name>Guarded Archway</name><set>TCoU</set></card>
+		<card><name>Crowded Market</name><set>TCoU</set></card>
+		<card><name>Streets of Ulfast</name><set>TCoU</set></card>
+		<card><name>Streets of Ulfast</name><set>TCoU</set></card>
+		<card><name>Extra Vigil</name><set>TCoU</set></card>
+		<card><name>Extra Vigil</name><set>TCoU</set></card>
+		<card><name>Weve Been Seen</name><set>TCoU</set></card>
+		<card><name>Weve Been Seen</name><set>TCoU</set></card>
+		<card><name>Weve Been Seen</name><set>TCoU</set></card>
+		<card><name>Patrolling the Streets</name><set>TCoU</set></card>
+		<card><name>Patrolling the Streets</name><set>TCoU</set></card>
+		<card><name>Patrolling the Streets</name><set>TCoU</set></card>
+		<card><name>Cat and Mouse</name><set>TCoU</set></card>
+		<card><name>Side Street</name><set>ASitE</set></card>
+		<card><name>Catacombs</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Unwelcome Travelers</name><set>ASitE</set></card>
+		<card><name>Messenger from Mordor</name><set>ASitE</set></card>
+		<card><name>Messenger from Mordor</name><set>ASitE</set></card>
+		<card><name>Messenger from Mordor</name><set>ASitE</set></card>
+		<card><name>Servant of Sauron</name><set>ASitE</set></card>
+		<card><name>Servant of Sauron</name><set>ASitE</set></card>
+		<card><name>Overwhelmed</name><set>ASitE</set></card>
+		<card><name>Overwhelmed</name><set>ASitE</set></card>
+		<card><name>Shadow of Fear</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Searching for Ulchor</name><set>TCoU</set></card>
+		<card><name>Trying to Blend In</name><set>TCoU</set></card>
+		<card><name>Drawing Attention</name><set>TCoU</set></card>
+		<card><name>Ulchors Trap</name><set>TCoU</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>City Guard</name><set>TCoU</set></card>
+		<card><name>Catacombs</name><set>ASitE</set></card>
+		<card><name>Side Street</name><set>ASitE</set></card>
+		<card><name>Streets of Ulfast</name><set>TCoU</set></card>
+		<card><name>Crowded Market</name><set>TCoU</set></card>
+		<card><name>Guarded Archway</name><set>TCoU</set></card>
+		<card><name>The Kings Lawn</name><set>TCoU</set></card>
+	</superzone>
+</deck>

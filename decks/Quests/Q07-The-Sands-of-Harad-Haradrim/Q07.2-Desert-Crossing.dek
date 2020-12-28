@@ -1,0 +1,58 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Seek Shade</name><set>TSoH</set></card>
+		<card><name>Were-worm</name><set>TSoH</set></card>
+		<card><name>Were-worm</name><set>TSoH</set></card>
+		<card><name>Were-worm</name><set>TSoH</set></card>
+		<card><name>Were-worm</name><set>TSoH</set></card>
+		<card><name>Carrion Bird</name><set>TSoH</set></card>
+		<card><name>Carrion Bird</name><set>TSoH</set></card>
+		<card><name>Scorched Hamada</name><set>TSoH</set></card>
+		<card><name>Scorched Hamada</name><set>TSoH</set></card>
+		<card><name>Parched Wadi</name><set>TSoH</set></card>
+		<card><name>Parched Wadi</name><set>TSoH</set></card>
+		<card><name>Mirage</name><set>TSoH</set></card>
+		<card><name>Mirage</name><set>TSoH</set></card>
+		<card><name>Unbearable Heat</name><set>TSoH</set></card>
+		<card><name>Unbearable Heat</name><set>TSoH</set></card>
+		<card><name>Scorching Sun</name><set>TSoH</set></card>
+		<card><name>Scorching Sun</name><set>TSoH</set></card>
+		<card><name>Find Water</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Desert Oasis</name><set>TSoH</set></card>
+		<card><name>Desert Oasis</name><set>TSoH</set></card>
+		<card><name>Sandstorm</name><set>TSoH</set></card>
+		<card><name>Sandstorm</name><set>TSoH</set></card>
+		<card><name>Heat Exhaustion</name><set>TSoH</set></card>
+		<card><name>Heat Exhaustion</name><set>TSoH</set></card>
+		<card><name>Craft Remedy</name><set>TSoH</set></card>
+		<card><name>Sand Viper</name><set>TSoH</set></card>
+		<card><name>Sand Viper</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+		<card><name>Giant Scorpion</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Desert of Harad</name><set>TSoH</set></card>
+		<card><name>Under the Merciless Sun</name><set>TSoH</set></card>
+		<card><name>Beasts of Legend</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Burnt Sands</name><set>TSoH</set></card>
+		<card><name>Burnt Sands</name><set>TSoH</set></card>
+		<card><name>Burnt Sands</name><set>TSoH</set></card>
+		<card><name>Burnt Sands</name><set>TSoH</set></card>
+	</superzone>
+</deck>

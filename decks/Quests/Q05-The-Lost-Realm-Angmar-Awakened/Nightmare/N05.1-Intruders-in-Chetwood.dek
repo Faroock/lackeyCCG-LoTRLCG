@@ -1,0 +1,61 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Orc War Party</name><set>TLR</set></card>
+		<card><name>Orc War Party</name><set>TLR</set></card>
+		<card><name>Chetwood Forest</name><set>TLR</set></card>
+		<card><name>Outlying Homestead</name><set>TLR</set></card>
+		<card><name>Outlying Homestead</name><set>TLR</set></card>
+		<card><name>Orc Rearguard</name><set>TLR</set></card>
+		<card><name>Rescue Iarion</name><set>TLR</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Orc Ambush</name><set>TLR</set></card>
+		<card><name>Rugged Country</name><set>TLR</set></card>
+		<card><name>Rugged Country</name><set>TLR</set></card>
+		<card><name>Shrouded Hills</name><set>TLR</set></card>
+		<card><name>Pressing Needs</name><set>TLR</set></card>
+		<card><name>Pressing Needs</name><set>TLR</set></card>
+		<card><name>Weight of Responsibility</name><set>TLR</set></card>
+		<card><name>Weight of Responsibility</name><set>TLR</set></card>
+		<card><name>Lost in the Wilderness</name><set>TLR</set></card>
+		<card><name>Orc Abductor</name><set>IiCN</set></card>
+		<card><name>Orc Abductor</name><set>IiCN</set></card>
+		<card><name>Orc Abductor</name><set>IiCN</set></card>
+		<card><name>Soldier of Angmar</name><set>IiCN</set></card>
+		<card><name>Soldier of Angmar</name><set>IiCN</set></card>
+		<card><name>Northern Chetwood</name><set>IiCN</set></card>
+		<card><name>Northern Chetwood</name><set>IiCN</set></card>
+		<card><name>Northern Chetwood</name><set>IiCN</set></card>
+		<card><name>Outskirts of Archet</name><set>IiCN</set></card>
+		<card><name>Outskirts of Archet</name><set>IiCN</set></card>
+		<card><name>Greenway Path</name><set>IiCN</set></card>
+		<card><name>Greenway Path</name><set>IiCN</set></card>
+		<card><name>A Great Host</name><set>IiCN</set></card>
+		<card><name>A Great Host</name><set>IiCN</set></card>
+		<card><name>Kill Them!</name><set>IiCN</set></card>
+		<card><name>Kill Them!</name><set>IiCN</set></card>
+		<card><name>Kill Them!</name><set>IiCN</set></card>
+		<card><name>Shadow the War Party</name><set>IiCN</set></card>
+		<card><name>Protect the Bree-landers</name><set>IiCN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Intruders in Chetwood</name><set>IiCN</set></card>
+		<card><name>Stop the War Party</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Iarion</name><set>TLR</set></card>
+		<card><name>Orc War Party</name><set>TLR</set></card>
+	</superzone>
+</deck>

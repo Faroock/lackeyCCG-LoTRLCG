@@ -1,0 +1,15 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+		<card><name>Mithril Shirt</name><set>OtD</set></card>
+		<card><name>The Arkenstone</name><set>OtD</set></card>
+		<card><name>Thrors Battle Axe</name><set>OtD</set></card>
+		<card><name>Thrors Golden Cup</name><set>OtD</set></card>
+		<card><name>Thrors Hunting Bow</name><set>OtD</set></card>
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+</deck>

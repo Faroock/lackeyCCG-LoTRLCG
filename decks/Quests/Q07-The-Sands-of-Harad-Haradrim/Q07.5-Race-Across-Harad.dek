@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Expanse of Harad</name><set>RAH</set></card>
+		<card><name>Blistering Erg</name><set>RAH</set></card>
+		<card><name>Blistering Erg</name><set>RAH</set></card>
+		<card><name>Harad Road</name><set>RAH</set></card>
+		<card><name>Uruk Pursuer</name><set>RAH</set></card>
+		<card><name>Uruk Pursuer</name><set>RAH</set></card>
+		<card><name>Uruk Pursuer</name><set>RAH</set></card>
+		<card><name>Uruk Pursuer</name><set>RAH</set></card>
+		<card><name>Racing Warg</name><set>RAH</set></card>
+		<card><name>Racing Warg</name><set>RAH</set></card>
+		<card><name>Racing Warg</name><set>RAH</set></card>
+		<card><name>Pursuers from Mordor</name><set>RAH</set></card>
+		<card><name>Pursuers from Mordor</name><set>RAH</set></card>
+		<card><name>Howling at their Heels</name><set>RAH</set></card>
+		<card><name>Howling at their Heels</name><set>RAH</set></card>
+		<card><name>Howling at their Heels</name><set>RAH</set></card>
+		<card><name>Find Water</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Desert Oasis</name><set>TSoH</set></card>
+		<card><name>Sandstorm</name><set>TSoH</set></card>
+		<card><name>Sandstorm</name><set>TSoH</set></card>
+		<card><name>Heat Exhaustion</name><set>TSoH</set></card>
+		<card><name>Heat Exhaustion</name><set>TSoH</set></card>
+		<card><name>Uruks of the Eye</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk of Mordor</name><set>TSoH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Mordor Warg</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+		<card><name>Fear of Mordor</name><set>TSoH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+		<card><name>Racing North</name><set>RAH</set></card>
+		<card><name>Hunted in Harad</name><set>RAH</set></card>
+		<card><name>The Ford of Harnen</name><set>RAH</set></card>
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Setting Out</name><set>RAH</set></card>
+		<card><name>Racing North</name><set>RAH</set></card>
+		<card><name>Hunted in Harad</name><set>RAH</set></card>
+		<card><name>The Ford of Harnen</name><set>RAH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Tamed Mumak</name><set>RAH</set></card>
+		<card><name>Tamed Mumak</name><set>RAH</set></card>
+		<card><name>Tamed Mumak</name><set>RAH</set></card>
+		<card><name>Tamed Mumak</name><set>RAH</set></card>
+		<card><name>Uruk Chieftain</name><set>TSoH</set></card>
+		<card><name>Setting Out</name><set>RAH</set></card>
+		<card><name>River Harnen</name><set>RAH</set></card>
+		<card><name>Uruk Warg-Rider</name><set>TSoH</set></card>
+		<card><name>Expanse of Harad</name><set>RAH</set></card>
+		<card><name>Blistering Erg</name><set>RAH</set></card>
+		<card><name>Harad Road</name><set>RAH</set></card>
+		<card><name>Towering Dunes</name><set>TSoH</set></card>
+		<card><name>Desert Oasis</name><set>TSoH</set></card>
+	</superzone>
+</deck>

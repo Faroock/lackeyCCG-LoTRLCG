@@ -1,0 +1,47 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Druadan Drummer</name><set>TDF</set></card>
+		<card><name>Druadan Elite</name><set>TDF</set></card>
+		<card><name>Druadan Elite</name><set>TDF</set></card>
+		<card><name>Druadan Elite</name><set>TDF</set></card>
+		<card><name>Druadan Hunter</name><set>TDF</set></card>
+		<card><name>Druadan Hunter</name><set>TDF</set></card>
+		<card><name>Druadan Thief</name><set>TDF</set></card>
+		<card><name>Druadan Thief</name><set>TDF</set></card>
+		<card><name>Druadan Thief</name><set>TDF</set></card>
+		<card><name>Garden of Poisons</name><set>TDF</set></card>
+		<card><name>Garden of Poisons</name><set>TDF</set></card>
+		<card><name>Garden of Poisons</name><set>TDF</set></card>
+		<card><name>Glade of Cleansing</name><set>TDF</set></card>
+		<card><name>Men in the Dark</name><set>TDF</set></card>
+		<card><name>Men in the Dark</name><set>TDF</set></card>
+		<card><name>Men in the Dark</name><set>TDF</set></card>
+		<card><name>Stars in Sky</name><set>TDF</set></card>
+		<card><name>Stars in Sky</name><set>TDF</set></card>
+		<card><name>Stars in Sky</name><set>TDF</set></card>
+		<card><name>Leaves on Tree</name><set>TDF</set></card>
+		<card><name>Leaves on Tree</name><set>TDF</set></card>
+		<card><name>Overgrown Trail</name><set>HoN</set></card>
+		<card><name>Secluded Glade</name><set>HoN</set></card>
+		<card><name>Secluded Glade</name><set>HoN</set></card>
+		<card><name>Secluded Glade</name><set>HoN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Pursuit</name><set>TDF</set></card>
+		<card><name>An Untimely End</name><set>TDF</set></card>
+		<card><name>The Passage Out</name><set>TDF</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Dru-buri-Dru</name><set>TDF</set></card>
+	</superzone>
+</deck>

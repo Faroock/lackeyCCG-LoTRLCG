@@ -1,0 +1,56 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Encounter Deck">
+		<card><name>Come down little bird</name><set>OHaUH</set></card>
+		<card><name>Come down little bird</name><set>OHaUH</set></card>
+		<card><name>Great Gray Wolf</name><set>OHaUH</set></card>
+		<card><name>Hiding in the Trees</name><set>OHaUH</set></card>
+		<card><name>Hiding in the Trees</name><set>OHaUH</set></card>
+		<card><name>It Likes Riddles</name><set>OHaUH</set></card>
+		<card><name>It Likes Riddles</name><set>OHaUH</set></card>
+		<card><name>It Likes Riddles</name><set>OHaUH</set></card>
+		<card><name>Not fair! Not fair!</name><set>OHaUH</set></card>
+		<card><name>The Wargs Glade</name><set>OHaUH</set></card>
+		<card><name>The Wargs Glade</name><set>OHaUH</set></card>
+		<card><name>The Wargs Glade</name><set>OHaUH</set></card>
+		<card><name>Whats In My Pocket</name><set>OHaUH</set></card>
+		<card><name>Whats In My Pocket</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Wild Wargs</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>Grip grab! Pinch nab!</name><set>OHaUH</set></card>
+		<card><name>Grip grab! Pinch nab!</name><set>OHaUH</set></card>
+		<card><name>Grip grab! Pinch nab!</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Out of the Frying Pan</name><set>OHaUH</set></card>
+		<card><name>Riddles in the Dark</name><set>OHaUH</set></card>
+		<card><name>Into the Fire</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Lake in the Cavern</name><set>OHaUH</set></card>
+		<card><name>Gollum</name><set>OHaUH</set></card>
+		<card><name>Bilbos Magic Ring</name><set>OHaUH</set></card>
+	</superzone>
+</deck>

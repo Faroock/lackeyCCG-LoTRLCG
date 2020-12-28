@@ -1,0 +1,55 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Encounter Deck">
+		<card><name>Galloping Boulders</name><set>OHaUH</set></card>
+		<card><name>Guffawing of Giants</name><set>OHaUH</set></card>
+		<card><name>Guffawing of Giants</name><set>OHaUH</set></card>
+		<card><name>Overhanging Rock</name><set>OHaUH</set></card>
+		<card><name>Overhanging Rock</name><set>OHaUH</set></card>
+		<card><name>The High Pass</name><set>OHaUH</set></card>
+		<card><name>A Suspicious Crow</name><set>OHaUH</set></card>
+		<card><name>A Suspicious Crow</name><set>OHaUH</set></card>
+		<card><name>A Suspicious Crow</name><set>OHaUH</set></card>
+		<card><name>Cave Entrance</name><set>OHaUH</set></card>
+		<card><name>Cave Entrance</name><set>OHaUH</set></card>
+		<card><name>Dreary Hills</name><set>OHaUH</set></card>
+		<card><name>Lone-Lands</name><set>OHaUH</set></card>
+		<card><name>Lone-Lands</name><set>OHaUH</set></card>
+		<card><name>More Like a Grocer</name><set>OHaUH</set></card>
+		<card><name>Wind-whipped Rain</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>A Short Rest</name><set>OHaUH</set></card>
+		<card><name>The Mountain Pass</name><set>OHaUH</set></card>
+		<card><name>Down Down to Goblin Town</name><set>OHaUH</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The Great Goblin</name><set>OHaUH</set></card>
+		<card><name>Front Porch</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Goblin Bent-Swords</name><set>OHaUH</set></card>
+		<card><name>Great Cavern Room</name><set>OHaUH</set></card>
+		<card><name>Great Cavern Room</name><set>OHaUH</set></card>
+		<card><name>Great Cavern Room</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Axeman</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Driver</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Miners</name><set>OHaUH</set></card>
+		<card><name>Goblin Runners</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>The Goblins Caves</name><set>OHaUH</set></card>
+		<card><name>Stone-Giant</name><set>OHaUH</set></card>
+	</superzone>
+</deck>

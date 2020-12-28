@@ -1,0 +1,72 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Cornered Orc</name><set>TLR</set></card>
+		<card><name>Cornered Orc</name><set>TLR</set></card>
+		<card><name>Weathered Hilltop</name><set>TLR</set></card>
+		<card><name>Weathered Hilltop</name><set>TLR</set></card>
+		<card><name>Exposed Ridge</name><set>TLR</set></card>
+		<card><name>Exposed Ridge</name><set>TLR</set></card>
+		<card><name>Ice Storm</name><set>TLR</set></card>
+		<card><name>Ice Storm</name><set>TLR</set></card>
+		<card><name>Find Shelter</name><set>TLR</set></card>
+		<card><name>Biting Wind</name><set>TLR</set></card>
+		<card><name>Biting Wind</name><set>TLR</set></card>
+		<card><name>Biting Wind</name><set>TLR</set></card>
+		<card><name>Freezing Blast</name><set>TLR</set></card>
+		<card><name>Freezing Blast</name><set>TLR</set></card>
+		<card><name>Cold from Angmar</name><set>TLR</set></card>
+		<card><name>Cold from Angmar</name><set>TLR</set></card>
+		<card><name>Cold from Angmar</name><set>TLR</set></card>
+		<card><name>Make Camp</name><set>TLR</set></card>
+		<card><name>Ancient Causeway</name><set>TLR</set></card>
+		<card><name>Ancient Causeway</name><set>TLR</set></card>
+		<card><name>Search the Ruins</name><set>TLR</set></card>
+		<card><name>Angmar Raider</name><set>TWHN</set></card>
+		<card><name>Angmar Raider</name><set>TWHN</set></card>
+		<card><name>Angmar Raider</name><set>TWHN</set></card>
+		<card><name>Angmar Raider</name><set>TWHN</set></card>
+		<card><name>Weather-torn Valley</name><set>TWHN</set></card>
+		<card><name>Weather-torn Valley</name><set>TWHN</set></card>
+		<card><name>Ruined Watch-tower</name><set>TWHN</set></card>
+		<card><name>Ruined Watch-tower</name><set>TWHN</set></card>
+		<card><name>Ruined Watch-tower</name><set>TWHN</set></card>
+		<card><name>Rain-washed Tracks</name><set>TWHN</set></card>
+		<card><name>Rain-washed Tracks</name><set>TWHN</set></card>
+		<card><name>Rain-washed Tracks</name><set>TWHN</set></card>
+		<card><name>Track the Orcs</name><set>TWHN</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>The Weather Hills</name><set>TWHN</set></card>
+		<card><name>Scattered Among the Hills</name><set>TLR</set></card>
+		<card><name>Cornered Animals</name><set>TLR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Angmar Orc</name><set>TLR</set></card>
+		<card><name>Angmar Marauder</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Angmar Captain</name><set>TLR</set></card>
+		<card><name>Concealed Orc-camp</name><set>TLR</set></card>
+		<card><name>Concealed Orc-camp</name><set>TLR</set></card>
+		<card><name>Captive Villager</name><set>TWHN</set></card>
+		<card><name>Captive Villager</name><set>TWHN</set></card>
+		<card><name>Captive Villager</name><set>TWHN</set></card>
+		<card><name>Rearguard Ambusher</name><set>TWHN</set></card>
+		<card><name>Rearguard Ambusher</name><set>TWHN</set></card>
+		<card><name>Rearguard Ambusher</name><set>TWHN</set></card>
+		<card><name>Orc Ambush</name><set>TLR</set></card>
+		<card><name>Amon Forn</name><set>TLR</set></card>
+		<card><name>Hunting the Orcs</name><set>TLR</set></card>
+		<card><name>Weathered Hilltop</name><set>TLR</set></card>
+		<card><name>Exposed Ridge</name><set>TLR</set></card>
+	</superzone>
+</deck>

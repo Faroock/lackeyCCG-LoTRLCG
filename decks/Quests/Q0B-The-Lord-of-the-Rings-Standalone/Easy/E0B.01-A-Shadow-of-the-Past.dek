@@ -1,0 +1,49 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Encounter Deck">
+		<card><name>Crawling Towards Him</name><set>TBR</set></card>
+		<card><name>Crawling Towards Him</name><set>TBR</set></card>
+		<card><name>Hunting For The Ring</name><set>TBR</set></card>
+		<card><name>Hunting For The Ring</name><set>TBR</set></card>
+		<card><name>Hunting For The Ring</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Evil Crow</name><set>TBR</set></card>
+		<card><name>Evil Crow</name><set>TBR</set></card>
+		<card><name>Evil Crow</name><set>TBR</set></card>
+		<card><name>Woody End</name><set>TBR</set></card>
+		<card><name>Stock-Brook</name><set>TBR</set></card>
+		<card><name>Bamfurlong</name><set>TBR</set></card>
+		<card><name>The Marish</name><set>TBR</set></card>
+		<card><name>Stock Road</name><set>TBR</set></card>
+		<card><name>Green Hill Country</name><set>TBR</set></card>
+		<card><name>Green Hill Country</name><set>TBR</set></card>
+		<card><name>Green Hill Country</name><set>TBR</set></card>
+		<card><name>Pathless Country</name><set>TBR</set></card>
+		<card><name>Pathless Country</name><set>TBR</set></card>
+		<card><name>Pathless Country</name><set>TBR</set></card>
+		<card><name>Piercing Cry</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Lure of the Ring</name><set>TBR</set></card>
+		<card><name>Black Steed</name><set>TBR</set></card>
+		<card><name>Rode Like a Gale</name><set>TBR</set></card>
+		<card><name>Rode Like a Gale</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Three is Company</name><set>TBR</set></card>
+		<card><name>A Shortcut to Mushrooms</name><set>TBR</set></card>
+		<card><name>Escape to Buckland</name><set>TBR</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>The One Ring</name><set>TBR</set></card>
+		<card><name>Bucklebury Ferry</name><set>TBR</set></card>
+		<card><name>Black Rider</name><set>TBR</set></card>
+		<card><name>Bag End</name><set>TBR</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,71 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+    <superzone name="Player Deck">
+	</superzone>
+    <superzone name="Heroes">
+	</superzone>
+    <superzone name="Encounter Deck">
+		<card><name>Thane Ulchor</name><set>TFoN</set></card>
+		<card><name>Soldier of Nurn</name><set>TFoN</set></card>
+		<card><name>Soldier of Nurn</name><set>TFoN</set></card>
+		<card><name>Soldier of Nurn</name><set>TFoN</set></card>
+		<card><name>Easterling Mercenary</name><set>TFoN</set></card>
+		<card><name>Easterling Mercenary</name><set>TFoN</set></card>
+		<card><name>Mordor Olog-hai</name><set>TFoN</set></card>
+		<card><name>Mordor Olog-hai</name><set>TFoN</set></card>
+		<card><name>Guard Dogs</name><set>TFoN</set></card>
+		<card><name>Guard Dogs</name><set>TFoN</set></card>
+		<card><name>Guard Dogs</name><set>TFoN</set></card>
+		<card><name>Fortress Walls</name><set>TFoN</set></card>
+		<card><name>Fortress Walls</name><set>TFoN</set></card>
+		<card><name>Guard Tower</name><set>TFoN</set></card>
+		<card><name>Guard Tower</name><set>TFoN</set></card>
+		<card><name>Guard Tower</name><set>TFoN</set></card>
+		<card><name>Plaza of Nurn</name><set>TFoN</set></card>
+		<card><name>Plaza of Nurn</name><set>TFoN</set></card>
+		<card><name>Plaza of Nurn</name><set>TFoN</set></card>
+		<card><name>Determined Defense</name><set>TFoN</set></card>
+		<card><name>Determined Defense</name><set>TFoN</set></card>
+		<card><name>Determined Defense</name><set>TFoN</set></card>
+		<card><name>The Dark Lords Reach</name><set>TFoN</set></card>
+		<card><name>The Dark Lords Reach</name><set>TFoN</set></card>
+		<card><name>The Dungeons of Dol Rhugar</name><set>TFoN</set></card>
+		<card><name>Ulchors Rage</name><set>ASitE</set></card>
+		<card><name>Ulchors Rage</name><set>ASitE</set></card>
+		<card><name>Ulchors Rage</name><set>ASitE</set></card>
+		<card><name>Fanaticism</name><set>ASitE</set></card>
+		<card><name>Fanaticism</name><set>ASitE</set></card>
+		<card><name>Side Street</name><set>ASitE</set></card>
+		<card><name>Side Street</name><set>ASitE</set></card>
+		<card><name>Catacombs</name><set>ASitE</set></card>
+		<card><name>Catacombs</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Under Guard</name><set>ASitE</set></card>
+		<card><name>Unwelcome Travelers</name><set>ASitE</set></card>
+	</superzone>
+    <superzone name="2nd Encounter Deck">
+	</superzone>
+    <superzone name="Quest Deck">
+		<card><name>Assault on Dol Rhugar</name><set>TFoN</set></card>
+		<card><name>The Final Confrontation</name><set>TFoN</set></card>
+	</superzone>
+    <superzone name="Aside">
+		<card><name>Under the Watchful Eye</name><set>ASitE</set></card>
+		<card><name>Covered in Darkness</name><set>ASitE</set></card>
+		<card><name>The Armies of Mordor</name><set>ASitE</set></card>
+		<card><name>The Tower of Barad-dur</name><set>ASitE</set></card>
+		<card><name>Khamul the Easterling</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Ulchors Guard</name><set>ASitE</set></card>
+		<card><name>Storm the Castle</name><set>TFoN</set></card>
+		<card><name>Storm the Castle</name><set>TFoN</set></card>
+		<card><name>Storm the Castle</name><set>TFoN</set></card>
+		<card><name>Storm the Castle</name><set>TFoN</set></card>
+	</superzone>
+</deck>
