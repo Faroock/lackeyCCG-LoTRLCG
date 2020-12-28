@@ -1,4 +1,4 @@
-LoTR	12-24-20
+LoTR	12-28-20
 images/backgrounds/LoTR-LCG_mapbak.jpg	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/images/backgrounds/LoTR-LCG_mapbak.jpg	-579044
 images/zonebackgrounds/LoTR-LCG_ZoneBack.jpg	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/images/zonebackgrounds/LoTR-LCG_ZoneBack.jpg	275802
 skins/LoTRLCG.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/skins/LoTRLCG.txt	363605
@@ -132,14 +132,6 @@ plugins/LoTR/sounds/welcome.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blo
 plugins/LoTR/sounds/shuffle.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/shuffle.wav?raw=true	40367
 plugins/LoTR/sets/CardDataFiles.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/CardDataFiles.txt	20602125
 plugins/LoTR/version.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/version.txt	34514
-plugins/LoTR/decks/.E-01-1-Passage.Through.Mirkwood.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-01-1-Passage.Through.Mirkwood.dek	251562
-plugins/LoTR/decks/.E-01-2-Journey.Down.the.Anduin.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-01-2-Journey.Down.the.Anduin.dek	269662
-plugins/LoTR/decks/.E-01-3-Escape.from.Dol.Guldur.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-01-3-Escape.from.Dol.Guldur.dek	270014
-plugins/LoTR/decks/.E-02-1-The.Hunt.for.Gollum.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-02-1-The.Hunt.for.Gollum.dek	272083
-plugins/LoTR/decks/.E-02-2-Conflit.at.the.Carrcock.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-02-2-Conflit.at.the.Carrcock.dek	282936
-plugins/LoTR/decks/.E-02-3-A.Journey.to.Rhosgobel.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-02-3-A.Journey.to.Rhosgobel.dek	317086
-plugins/LoTR/decks/.E-02-4-The.Hills.of.Emyn.Muil.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-02-4-The.Hills.of.Emyn.Muil.dek	303342
-plugins/LoTR/decks/.E-02-5-The.Dead.Marshes.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-02-5-The.Dead.Marshes.dek	276712
-plugins/LoTR/decks/.E-02-6-Return.to.Mirkwood.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/encountersets/1%20-%20Easy/.E-02-6-Return.to.Mirkwood.dek	291035
+plugins/LoTR/decks/Enanos Tulones.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/decks/Enanos.dek	251562
 CardGeneralURLs:		
 https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/Cards/		

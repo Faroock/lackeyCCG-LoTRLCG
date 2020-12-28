@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>201224</lastupdateYYMMDD>
+<lastupdateYYMMDD>201228</lastupdateYYMMDD>
 <quality>MAX</quality>
 <versionurl>https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/updatelist.txt</updateurl>

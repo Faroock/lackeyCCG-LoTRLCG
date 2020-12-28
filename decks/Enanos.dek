@@ -1,0 +1,63 @@
+﻿<deck version="0.1">
+	<meta>
+		<game>LotR</game>
+		<notes></notes>
+	</meta>
+<superzone name="Player Deck">
+		<card><name>Dwarven Sellsword</name><set>DR</set></card>
+		<card><name>Dwarven Sellsword</name><set>DR</set></card>
+		<card><name>Dwarven Sellsword</name><set>DR</set></card>
+		<card><name>Fili</name><set>OHaUH</set></card>
+		<card><name>Fili</name><set>OHaUH</set></card>
+		<card><name>Fili</name><set>OHaUH</set></card>
+		<card><name>Kili</name><set>OHaUH</set></card>
+		<card><name>Kili</name><set>OHaUH</set></card>
+		<card><name>Dori</name><set>OHaUH</set></card>
+		<card><name>Dori</name><set>OHaUH</set></card>
+		<card><name>Gloin</name><set>OtD</set></card>
+		<card><name>Bifur</name><set>OtD</set></card>
+		<card><name>Gimli</name><set>ToS</set></card>
+		<card><name>Longbeard Orc Slayer</name><set>Core</set></card>
+		<card><name>Longbeard Orc Slayer</name><set>Core</set></card>
+		<card><name>Erebor Hammersmith</name><set>Core</set></card>
+		<card><name>Erebor Hammersmith</name><set>Core</set></card>
+		<card><name>Miner of the Iron Hills</name><set>Core</set></card>
+		<card><name>Miner of the Iron Hills</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Gandalf</name><set>Core</set></card>
+		<card><name>Erebor Record Keeper</name><set>KD</set></card>
+		<card><name>Erebor Record Keeper</name><set>KD</set></card>
+		<card><name>Erebor Record Keeper</name><set>KD</set></card>
+		<card><name>Longbeard Elder</name><set>FoS</set></card>
+		<card><name>Longbeard Elder</name><set>FoS</set></card>
+		<card><name>Longbeard Elder</name><set>FoS</set></card>
+		<card><name>Necklace of Girion</name><set>TWoR</set></card>
+		<card><name>Glamdring</name><set>RAR</set></card>
+		<card><name>Ring of Thror</name><set>TGoF</set></card>
+		<card><name>Stone of Elostirion</name><set>UtAM</set></card>
+		<card><name>Steward of Gondor</name><set>Core</set></card>
+		<card><name>Narvis Belt</name><set>KD</set></card>
+		<card><name>Legacy of Durin</name><set>WitW</set></card>
+		<card><name>Legacy of Durin</name><set>WitW</set></card>
+		<card><name>Hardy Leadership</name><set>SaF</set></card>
+		<card><name>Hardy Leadership</name><set>SaF</set></card>
+		<card><name>Hardy Leadership</name><set>SaF</set></card>
+		<card><name>A Very Good Tale</name><set>OHaUH</set></card>
+		<card><name>A Very Good Tale</name><set>OHaUH</set></card>
+		<card><name>A Very Good Tale</name><set>OHaUH</set></card>
+		<card><name>To me! O my kinsfolk!</name><set>OtD</set></card>
+		<card><name>To me! O my kinsfolk!</name><set>OtD</set></card>
+		<card><name>To me! O my kinsfolk!</name><set>OtD</set></card>
+		<card><name>Sneak Attack</name><set>Core</set></card>
+		<card><name>Sneak Attack</name><set>Core</set></card>
+		<card><name>Sneak Attack</name><set>Core</set></card>
+		<card><name>Lure of Moria</name><set>RtR</set></card>
+		<card><name>Lure of Moria</name><set>RtR</set></card>
+		<card><name>Lure of Moria</name><set>RtR</set></card>
+	</superzone>
+<superzone name="Heroes">
+		<card><name>Thorin Oakenshield</name><set>OHaUH</set></card>
+		<card><name>Ori</name><set>OHaUH</set></card>
+		<card><name>Dain Ironfoot</name><set>RtM</set></card>
+	</superzone>
+</deck>
