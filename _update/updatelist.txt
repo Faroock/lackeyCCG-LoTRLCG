@@ -115,23 +115,23 @@ plugins/LoTR/bot.jpg	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG
 plugins/LoTR/defaultbindings.xml	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/defaultbindings.xml	172781
 plugins/LoTR/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/ListOfCardDataFiles.txt	9016
 plugins/LoTR/plugininfo.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/plugininfo.txt	967182
-plugins/LoTR/pluginpreferences.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/pluginpreferences.txt	480339
-plugins/LoTR/ReadMe.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/ReadMe.txt	317529
+plugins/LoTR/pluginpreferences.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/pluginpreferences.txt	508048
+plugins/LoTR/ReadMe.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/ReadMe.txt	12355
 plugins/LoTR/defaultchat.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/defaultchat.txt	38626
-plugins/LoTR/sounds/Phase1.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase1.wav?raw=true	-45778
-plugins/LoTR/sounds/Phase2.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase2.wav?raw=true	-37173
-plugins/LoTR/sounds/Phase3.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase3.wav?raw=true	7230
-plugins/LoTR/sounds/Phase4.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase4.wav?raw=true	-32774
-plugins/LoTR/sounds/Phase5.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase5.wav?raw=true	-27277
-plugins/LoTR/sounds/Phase6.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase6.wav?raw=true	-45821
-plugins/LoTR/sounds/Phase7.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase7.wav?raw=true	-9667
-plugins/LoTR/sounds/mulligan.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/mulligan.wav?raw=true	-3012
-plugins/LoTR/sounds/flipcoin.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/flipcoin.wav?raw=true	-130188
-plugins/LoTR/sounds/rolldie.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/rolldie.wav?raw=true	-151764
-plugins/LoTR/sounds/welcome.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/welcome.wav?raw=true	-394085
-plugins/LoTR/sounds/shuffle.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/shuffle.wav?raw=true	40367
-plugins/LoTR/sets/CardDataFiles.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/CardDataFiles.txt	20602125
-plugins/LoTR/version.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/version.txt	34514
-plugins/LoTR/decks/Enanos Tulones.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/decks/Enanos.dek	251562
+plugins/LoTR/sounds/Phase1.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase1.wav?raw=true	6570414
+plugins/LoTR/sounds/Phase2.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase2.wav?raw=true	6570759
+plugins/LoTR/sounds/Phase3.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase3.wav?raw=true	6570096
+plugins/LoTR/sounds/Phase4.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase4.wav?raw=true	6569970
+plugins/LoTR/sounds/Phase5.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase5.wav?raw=true	6570574
+plugins/LoTR/sounds/Phase6.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase6.wav?raw=true	6569070
+plugins/LoTR/sounds/Phase7.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase7.wav?raw=true	6570118
+plugins/LoTR/sounds/mulligan.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/mulligan.wav?raw=true	6574761
+plugins/LoTR/sounds/flipcoin.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/flipcoin.wav?raw=true	6575682
+plugins/LoTR/sounds/rolldie.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/rolldie.wav?raw=true	6573961
+plugins/LoTR/sounds/welcome.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/welcome.wav?raw=true	6571614
+plugins/LoTR/sounds/shuffle.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/shuffle.wav?raw=true	6573610
+plugins/LoTR/sets/CardDataFiles.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/CardDataFiles.txt	8552853
+plugins/LoTR/version.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/_update/version.txt	34139
+plugins/LoTR/decks/EnanosTulones.dek	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/decks/Enanos.dek	268285
 CardGeneralURLs:		
 https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/Cards/		
