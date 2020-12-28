@@ -115,7 +115,7 @@ plugins/LoTR/bot.jpg	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG
 plugins/LoTR/defaultbindings.xml	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/defaultbindings.xml	172781
 plugins/LoTR/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/ListOfCardDataFiles.txt	9016
 plugins/LoTR/plugininfo.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/plugininfo.txt	967182
-plugins/LoTR/pluginpreferences.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/pluginpreferences.txt	508048
+plugins/LoTR/pluginpreferences.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/pluginpreferences.txt	503407
 plugins/LoTR/ReadMe.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/ReadMe.txt	12355
 plugins/LoTR/defaultchat.txt	https://raw.githubusercontent.com/Faroock/lackeyCCG-LoTRLCG/master/root/defaultchat.txt	38626
 plugins/LoTR/sounds/Phase1.wav	https://github.com/Faroock/lackeyCCG-LoTRLCG/blob/master/sounds/Phase1.wav?raw=true	6570414
